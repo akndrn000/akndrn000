@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2f81f7&height=230&section=header&text=DURIAN&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20Developer%20%C2%B7%20Automation%20%26%20AI%20Tooling&descSize=20&descAlignY=58" width="100%" alt="Banner DURIAN" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2f81f7&height=230&section=header&text=DURIAN&fontSize=72&fontColor=ffffff&fontAlignY=40" width="100%" alt="Banner DURIAN" />
+
+<img src="https://avatars.githubusercontent.com/u/134796147?v=4&s=240" width="120" height="120" alt="Foto profil DURIAN" />
+
+### Web Developer · Automation & AI Tooling
 
 <a href="https://github.com/akndrn000">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Membangun+alat+web+yang+ringkas+dan+cepat;Mengotomatiskan+pekerjaan+berulang;Mengintegrasikan+AI+ke+alur+kerja+nyata;Privasi+pengguna+selalu+jadi+prioritas" alt="Typing animation" />
@@ -70,56 +74,48 @@ Saya developer yang fokus pada **alat web praktis** dan **otomasi**. Proyek saya
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/akndrn000/stockmeta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akndrn000&repo=stockmeta&theme=tokyonight&hide_border=true" alt="StockMeta" />
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vitest" alt="Teknologi StockMeta" />
+
+### [StockMeta](https://github.com/akndrn000/stockmeta)
 
 **Metadata AI untuk Adobe Stock & Shutterstock.** Unggah hingga 20 foto per batch, hasilkan judul, kata kunci, dan kategori, lalu ekspor CSV sesuai format resmi.
-
-`Next.js 16` `React 19` `Tailwind v4` `Vitest`
 
 🔗 [Buka demo](https://stockmeta-one.vercel.app)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/akndrn000/rigforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akndrn000&repo=rigforge&theme=tokyonight&hide_border=true" alt="RigForge" />
-</a>
+<img src="https://skillicons.dev/icons?i=vite,react,ts,lua,vitest" alt="Teknologi RigForge" />
+
+### [RigForge](https://github.com/akndrn000/rigforge)
 
 **Konverter data avatar Roblox ke Lua.** Berjalan sepenuhnya di browser, tanpa server dan tanpa login. Dilindungi 26 kasus uji snapshot.
-
-`Vite` `React 19` `TypeScript` `Vitest`
 
 🔗 [Buka demo](https://rigforge-lemon.vercel.app)
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/akndrn000/relay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akndrn000&repo=relay&theme=tokyonight&hide_border=true" alt="Relay" />
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,discord,vercel" alt="Teknologi Relay" />
+
+### [Relay](https://github.com/akndrn000/relay)
 
 **Pengirim pesan Discord lewat Bot resmi.** Terkunci ke satu channel tujuan, token tidak disimpan di server, sesuai Ketentuan Layanan Discord.
-
-`Next.js` `TypeScript` `Discord REST API`
 
 🔗 [Buka demo](https://relay-eosin-five.vercel.app)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/akndrn000/my-hermes-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akndrn000&repo=my-hermes-agent&theme=tokyonight&hide_border=true" alt="My Hermes Agent" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker,railway,telegram,discord,python" alt="Teknologi My Hermes Agent" />
+
+### [My Hermes Agent](https://github.com/akndrn000/my-hermes-agent)
 
 **Bot AI pribadi di Telegram dan Discord.** Konfigurasi deploy siap pakai berbasis Docker dan Railway, lengkap dengan panduan keamanan dan troubleshooting.
-
-`Docker` `Railway` `Telegram` `Discord`
 
 🔗 [Lihat repositori](https://github.com/akndrn000/my-hermes-agent)
 
