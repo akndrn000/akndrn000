@@ -54,7 +54,7 @@ Saya developer yang fokus pada **alat web praktis** dan **otomasi**. Proyek saya
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,python,lua,html,css&perline=10" alt="Bahasa dan framework" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,vercel,railway,git,github,githubactions,npm,vitest,eslint,discord,telegram&perline=11" alt="Infrastruktur dan alat" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,npm,vitest,discord,linux,bash&perline=10" alt="Infrastruktur dan alat" />
 
 </div>
 
@@ -111,7 +111,7 @@ Saya developer yang fokus pada **alat web praktis** dan **otomasi**. Proyek saya
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=docker,railway,telegram,discord,python" alt="Teknologi My Hermes Agent" />
+<img src="https://skillicons.dev/icons?i=docker,python,discord,linux,bash" alt="Teknologi My Hermes Agent" />
 
 ### [My Hermes Agent](https://github.com/akndrn000/my-hermes-agent)
 
