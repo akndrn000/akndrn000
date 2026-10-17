@@ -186,8 +186,6 @@ Koleksi repositori open-source yang saya simpan sebagai referensi. **Nama repo d
 
 Agen yang dapat menjalankan tugas, memakai alat, membantu coding, melakukan riset, serta mengoordinasikan pekerjaan.
 
-undefined
-
 <a href="https://github.com/openclaw/openclaw"><img src="https://github.com/openclaw.png?size=80" width="42" height="42" align="left" alt="openclaw avatar" /></a>
 
 [![openclaw/openclaw](https://img.shields.io/badge/openclaw%2Fopenclaw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openclaw/openclaw) &nbsp; <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/%E2%AD%90-392%2C173-1f6feb?style=flat-square" alt="Stars 392,173" /></a>  
@@ -375,8 +373,6 @@ Aplikasi desktop bergaya pixel-art untuk menjalankan dan memantau agen AI yang b
 ## ✨ Skill AI & Keterampilan Agen
 
 Instruksi dan alur kerja siap pakai untuk menambah kemampuan agen AI, mulai dari coding dan desain sampai riset serta penulisan.
-
-undefined
 
 <a href="https://github.com/mattpocock/skills"><img src="https://github.com/mattpocock.png?size=80" width="42" height="42" align="left" alt="mattpocock avatar" /></a>
 
@@ -614,8 +610,6 @@ Toolkit untuk memeriksa format, tata bahasa, gaya, referensi, dan kualitas tulis
 
 Antarmuka model, API, framework inferensi, RAG, riset, dan alat untuk membangun atau menjalankan sistem AI.
 
-undefined
-
 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="https://github.com/AUTOMATIC1111.png?size=80" width="42" height="42" align="left" alt="AUTOMATIC1111 avatar" /></a>
 
 [![AUTOMATIC1111/stable-diffusion-webui](https://img.shields.io/badge/AUTOMATIC1111%2Fstable-diffusion-webui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) &nbsp; <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="https://img.shields.io/badge/%E2%AD%90-165%2C069-1f6feb?style=flat-square" alt="Stars 165,069" /></a>  
@@ -755,8 +749,6 @@ Pustaka untuk meminta keluaran LLM dalam struktur data yang tervalidasi, misalny
 ## 🎬 Video, Media & Alat Kreatif
 
 Alat untuk mengunduh, mengedit, mengelola, menghasilkan, atau memproses foto, video, audio, dan model 3D.
-
-undefined
 
 <a href="https://github.com/yt-dlp/yt-dlp"><img src="https://github.com/yt-dlp.png?size=80" width="42" height="42" align="left" alt="yt-dlp avatar" /></a>
 
@@ -905,8 +897,6 @@ Aplikasi Windows lokal untuk membuat lagu dengan AI, termasuk vokal, partitur ya
 ## 🎨 Frontend, Antarmuka & Desain
 
 Komponen UI, framework frontend, alat desain, diagram, template dashboard, dan panduan membangun aplikasi web.
-
-undefined
 
 <a href="https://github.com/codecrafters-io/build-your-own-x"><img src="https://github.com/codecrafters-io.png?size=80" width="42" height="42" align="left" alt="codecrafters-io avatar" /></a>
 
@@ -1104,8 +1094,6 @@ Aplikasi pendamping desktop Windows dengan pengalaman workspace yang lebih fleks
 
 Layanan yang bisa dijalankan di server sendiri untuk hosting, data, dokumen, keamanan, komunikasi, dan pengelolaan pribadi.
 
-undefined
-
 <a href="https://github.com/freeCodeCamp/freeCodeCamp"><img src="https://github.com/freeCodeCamp.png?size=80" width="42" height="42" align="left" alt="freeCodeCamp avatar" /></a>
 
 [![freeCodeCamp/freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%2FfreeCodeCamp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freeCodeCamp/freeCodeCamp) &nbsp; <a href="https://github.com/freeCodeCamp/freeCodeCamp"><img src="https://img.shields.io/badge/%E2%AD%90-457%2C160-1f6feb?style=flat-square" alt="Stars 457,160" /></a>  
@@ -1229,8 +1217,6 @@ Sistem untuk menyimpan, mengelola, dan mendistribusikan rahasia, sertifikat, ser
 ## 🛠️ Alat Developer & Produktivitas
 
 Utilitas untuk coding, Git, API, terminal, konversi berkas, Android, clipboard, serta pekerjaan teknis sehari-hari.
-
-undefined
 
 <a href="https://github.com/microsoft/markitdown"><img src="https://github.com/microsoft.png?size=80" width="42" height="42" align="left" alt="microsoft avatar" /></a>
 
@@ -1412,8 +1398,6 @@ Pelacak bug terdistribusi yang terintegrasi dengan Git dan dapat digunakan secar
 
 Kurikulum, buku, tutorial, katalog API, dan materi untuk belajar pemrograman, desain sistem, atau layanan self-hosted.
 
-undefined
-
 <a href="https://github.com/public-apis/public-apis"><img src="https://github.com/public-apis.png?size=80" width="42" height="42" align="left" alt="public-apis avatar" /></a>
 
 [![public-apis/public-apis](https://img.shields.io/badge/public-apis%2Fpublic-apis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/public-apis/public-apis) &nbsp; <a href="https://github.com/public-apis/public-apis"><img src="https://img.shields.io/badge/%E2%AD%90-489%2C374-1f6feb?style=flat-square" alt="Stars 489,374" /></a>  
@@ -1482,8 +1466,6 @@ Kelas interaktif berbasis beberapa agen AI untuk menghadirkan pengalaman belajar
 
 Aplikasi dan framework Android, termasuk otomasi layar, komponen dinamis, dan akses alternatif ke layanan video.
 
-undefined
-
 <a href="https://github.com/gkd-kit/gkd"><img src="https://github.com/gkd-kit.png?size=80" width="42" height="42" align="left" alt="gkd-kit avatar" /></a>
 
 [![gkd-kit/gkd](https://img.shields.io/badge/gkd-kit%2Fgkd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkd-kit/gkd) &nbsp; <a href="https://github.com/gkd-kit/gkd"><img src="https://img.shields.io/badge/%E2%AD%90-42%2C930-1f6feb?style=flat-square" alt="Stars 42,930" /></a>  
@@ -1519,8 +1501,6 @@ Aplikasi Android open-source untuk menjelajahi YouTube dan layanan video lain me
 ## 📦 Lainnya, Katalog & Proyek Tambahan
 
 Proyek lintas kategori seperti rekayasa balik, pengelolaan agen, pengindeksan dokumen, scraping, dan utilitas berkas.
-
-undefined
 
 <a href="https://github.com/morluto/rea"><img src="https://github.com/morluto.png?size=80" width="42" height="42" align="left" alt="morluto avatar" /></a>
 
