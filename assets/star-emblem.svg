@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="Starred repository emblem">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8d775"/><stop offset="1" stop-color="#e3a008"/></linearGradient></defs>
+<rect x="1" y="1" width="30" height="30" rx="8" fill="#24292f" stroke="#526579" stroke-width="1.2"/>
+<path d="M16 5.5 19.15 12l7.18 1.04-5.2 5.07 1.23 7.16L16 21.9l-6.36 3.37 1.22-7.16-5.2-5.07L12.85 12z" fill="url(#g)" stroke="#fff0b3" stroke-width=".55" stroke-linejoin="round"/>
+</svg>
