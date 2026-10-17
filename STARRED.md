@@ -6,529 +6,529 @@
 ## 🤖 AI Agents & Coding Assistants (22)
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**  
-  The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  
+  Agen AI serbaguna yang dapat menjalankan tugas lintas sistem operasi dan platform, bukan sekadar menjawab pertanyaan.  
   `⭐ 392,173` · `TypeScript`
 - **[obra/superpowers](https://github.com/obra/superpowers)**  
-  An agentic skills framework & software development methodology that works.  
+  Kerangka kerja skill untuk agen coding yang memberi alur kerja terstruktur—mulai dari merencanakan, menguji, hingga menyelesaikan fitur.  
   `⭐ 300,481` · `Shell`
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)**  
-  The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
+  Paket optimasi agen coding yang berisi skill, aturan keamanan, memori, dan pola pengembangan berbasis riset untuk berbagai alat coding AI.  
   `⭐ 281,071` · `JavaScript`
 - **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)**  
-  A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  
+  Kumpulan agen AI dengan peran khusus untuk pekerjaan seperti pengembangan frontend, pemasaran, riset komunitas, dan pelaksanaan proyek.  
   `⭐ 160,502` · `Shell`
 - **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)**  
-  A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
+  Aplikasi desktop untuk mengelola dan berpindah konfigurasi berbagai asisten coding AI dari satu tempat.  
   `⭐ 145,152` · `Rust`
 - **[browser-use/browser-use](https://github.com/browser-use/browser-use)**  
-  Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.  
+  Pustaka Python agar agen AI dapat membuka situs, menelusuri halaman, dan berinteraksi dengan browser untuk menyelesaikan tugas web.  
   `⭐ 118,183` · `Python`
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**  
-  Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  
+  Sistem memori lintas sesi yang menyimpan, meringkas, dan memasukkan kembali konteks kerja agar agen AI tidak kehilangan riwayat penting.  
   `⭐ 101,191` · `TypeScript`
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**  
-  🙌 OpenHands: AI-Driven Development  
+  Platform pengembangan berbantuan AI untuk membantu menulis kode, menggunakan alat, dan menjalankan tugas rekayasa perangkat lunak.  
   `⭐ 91,061` · `TypeScript`
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)**  
-  The design language that makes your AI harness better at design.  
+  Panduan bahasa desain dan aturan UI untuk membantu agen coding menghasilkan antarmuka yang lebih konsisten dan berkualitas.  
   `⭐ 81,883` · `Rust`
 - **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)**  
-  Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local  
+  Membuat graf pengetahuan lokal dari basis kode dan menyinkronkannya saat kode berubah, sehingga agen lebih cepat memahami hubungan antarfile.  
   `⭐ 74,277` · `C`
 - **[usestrix/strix](https://github.com/usestrix/strix)**  
-  Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.  
+  Alat pengujian keamanan berbantuan AI untuk menemukan kerentanan aplikasi dan membantu proses perbaikan.  
   `⭐ 68,968` · `Python`
 - **[aaif-goose/goose](https://github.com/aaif-goose/goose)**  
-  an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  
+  Agen AI open-source yang dapat memasang alat, menjalankan perintah, mengedit berkas, dan menguji hasil menggunakan berbagai model bahasa.  
   `⭐ 55,344` · `Rust`
 - **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**  
-  Hindsight: Agent Memory That Learns  
+  Sistem memori untuk agen AI yang menyimpan pengalaman lalu memperbaiki cara mengingat dan menggunakan informasi pada tugas berikutnya.  
   `⭐ 50,381` · `Python`
 - **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)**  
-  ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  
+  Kerangka kerja kolaborasi multi-agen untuk membagi proses pengembangan perangkat lunak ke beberapa peran AI.  
   `⭐ 34,530` · `Python`
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)**  
-  Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.  
+  Mengurangi keluaran alat yang masuk ke konteks agen coding, menyimpan memori sesi, dan mengatur perutean alat untuk menghemat token.  
   `⭐ 30,067` · `TypeScript`
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**  
-  Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs and command line and CI/CD integration. Used by OpenAI and Anthropic.  
+  Alat untuk menguji, membandingkan, dan mengaudit prompt maupun agen AI, termasuk pengujian red-team dan pemindaian risiko.  
   `⭐ 26,058` · `TypeScript`
 - **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)**  
-  Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.  
+  Otomasi berbasis agen AI untuk membuat banyak variasi video dari sebuah referensi, termasuk mengganti elemen visual dan teks.  
   `⭐ 22,804` · `TypeScript`
 - **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)**  
-  Give your agent CAD superpowers.  
+  Mengubah instruksi teks menjadi rancangan CAD melalui agen AI untuk membantu membuat model objek teknis.  
   `⭐ 20,898` · `Python`
 - **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)**  
-  Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.  
+  Kerangka kerja untuk menjalankan tim agen AI dengan peran, konteks bersama, dan pembagian pekerjaan yang menetap.  
   `⭐ 7,533` · `TypeScript`
 - **[Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln)**  
-  Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.  
+  Perangkat untuk membangun dan mengevaluasi sistem AI, termasuk dataset, RAG, fine-tuning, agen, dan pengujian model.  
   `⭐ 5,194` · `Python`
 - **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)**  
-  Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). MCP-ready, multi-tenant, LGPD. An alternative to Kommo, Octadesk & Intercom for any business that sells by chat.  
+  CRM yang dapat di-host sendiri dengan agen AI dan integrasi WhatsApp untuk mengelola percakapan penjualan serta pelanggan.  
   `⭐ 4,630` · `TypeScript`
 - **[androoAGI/starnet](https://github.com/androoAGI/starnet)**  
-  A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.  
+  Aplikasi desktop bergaya pixel-art untuk menjalankan dan memantau agen AI yang benar-benar mengerjakan tugas secara lokal.  
   `⭐ 1,474` · `JavaScript`
 
 ## ✨ AI Skills & Agent Skills (28)
 
 - **[mattpocock/skills](https://github.com/mattpocock/skills)**  
-  Skills for Real Engineers. Straight from my .agents directory.  
+  Kumpulan skill praktis untuk agen coding, berfokus pada kebiasaan rekayasa perangkat lunak yang digunakan pengembang berpengalaman.  
   `⭐ 293,729` · `Shell`
 - **[anthropics/skills](https://github.com/anthropics/skills)**  
-  Public repository for Agent Skills  
+  Kumpulan contoh dan definisi Agent Skills untuk memperluas kemampuan asisten AI melalui instruksi dan alur kerja khusus.  
   `⭐ 181,537` · `Python`
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)**  
-  Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  Skill untuk membuat agen coding bekerja lebih hemat: menghindari perubahan yang tidak perlu dan memilih solusi paling sederhana.  
   `⭐ 164,987` · `JavaScript`
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**  
-  An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.  
+  Skill desain UI/UX yang memberi panduan visual dan praktik antarmuka profesional untuk berbagai platform.  
   `⭐ 136,484` · `Python`
 - **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)**  
-  Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.  
+  Memetakan kode, dokumentasi, skema SQL, konfigurasi, dan PDF menjadi knowledge graph yang dapat ditelusuri agen AI secara lokal.  
   `⭐ 127,154` · `Python`
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)**  
-  🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.  
+  Skill dan proxy yang mempersingkat gaya komunikasi agen coding agar pemakaian token lebih rendah.  
   `⭐ 113,011` · `Go`
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**  
-  Production-grade engineering skills for AI coding agents.  
+  Kumpulan skill rekayasa perangkat lunak untuk membantu agen coding mengikuti praktik kerja yang siap digunakan di proyek nyata.  
   `⭐ 107,273` · `JavaScript`
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  
-  Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages  
+  Skill yang memberi arahan art direction, referensi visual, serta pemeriksaan di browser agar UI buatan AI tidak terlihat generik.  
   `⭐ 97,874` · `JavaScript`
 - **[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)**  
-  Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.  
+  Mengubah kode menjadi graf interaktif supaya struktur, hubungan, dan alur sebuah codebase lebih mudah dijelajahi dan ditanyakan ke AI.  
   `⭐ 86,582` · `TypeScript`
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)**  
-  Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.  
+  Skill untuk mengubah ide, rencana, atau codebase menjadi diagram interaktif agar arsitektur lebih mudah dijelaskan.  
   `⭐ 84,366` · `JavaScript`
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**  
-  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows  
+  Daftar pilihan skill, sumber, dan alat untuk menyesuaikan alur kerja Claude dengan kebutuhan tertentu.  
   `⭐ 77,234` · `Python`
 - **[blader/humanizer](https://github.com/blader/humanizer)**  
-  Agent skill that removes signs of AI-generated writing from text  
+  Skill penyuntingan teks untuk mengurangi ciri tulisan yang terasa generik atau dibuat otomatis oleh AI.  
   `⭐ 57,497` · `Python`
 - **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**  
-  Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.  
+  Skill AI untuk pemasaran digital, mencakup optimasi konversi, SEO, analitik, dan strategi pertumbuhan.  
   `⭐ 55,040` · `JavaScript`
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)**  
-  Academic Research Skills for Claude Code: research → write → review → revise → finalize  
+  Skill untuk alur riset akademik dari pencarian bahan hingga penulisan, peninjauan, revisi, dan finalisasi naskah.  
   `⭐ 52,385` · `Python`
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)**  
-  The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews.  
+  Kerangka kerja lokal untuk mencari pekerjaan, menilai lowongan, menyesuaikan CV, membuat surat lamaran, dan berlatih wawancara.  
   `⭐ 47,998` · `Python`
 - **[wshobson/agents](https://github.com/wshobson/agents)**  
-  Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi  
+  Kumpulan plugin dan agen spesialis yang dapat dipakai lintas alat coding AI untuk memperluas tugas yang dapat diotomatisasi.  
   `⭐ 40,905` · `Python`
 - **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)**  
-  Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.  
+  Mengubah PDF buku teknis menjadi skill Claude Code agar isinya bisa dijadikan panduan kerja yang mudah dipanggil saat coding.  
   `⭐ 35,046` · `Python`
 - **[nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master)**  
-  A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention  
+  Skill untuk menyusun prompt yang lebih tepat bagi berbagai alat AI dengan menjaga konteks dan memori percakapan.  
   `⭐ 14,514` · `-`
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)**  
-  An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.  
+  Skill untuk membuat ilustrasi isometrik interaktif tentang mesin atau sistem nyata dalam bentuk SVG, dengan opsi efek WebGL.  
   `⭐ 13,675` · `JavaScript`
 - **[krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)**  
-  Formerly KrillinAI, VideoTranslation and Dubbing Tool. An open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for Social Media like YouTube, TikTok, Instagram, etc.  
+  Ruang kerja AI bagi kreator untuk mengunduh, menerjemahkan, dan membuat video, gambar, suara, avatar, serta hasil edit.  
   `⭐ 13,419` · `TypeScript`
 - **[zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)**  
-  Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持. 13 skills for novel writing and long-form fiction with file-based continuity tracking. MIT.  
+  Kumpulan skill untuk membantu menulis novel web berbahasa Mandarin, dari analisis referensi hingga penyuntingan dan desain sampul.  
   `⭐ 7,664` · `Python`
 - **[miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)**  
-  Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.  
+  Aturan untuk membantu agen coding menghindari desain UI, teks, dan kode yang terasa generik atau asal dibuat AI.  
   `⭐ 6,239` · `JavaScript`
 - **[WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)**  
-  Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development  
+  Toolkit Claude Code berisi agen, perintah, skill, aturan, dan hook untuk menyusun alur pengembangan yang lebih produktif.  
   `⭐ 4,816` · `JavaScript`
 - **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)**  
-  Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence. Content engineering by Creative Content Crafts. MIT.  
+  Skill untuk menulis posting dan komentar LinkedIn, menganalisis linimasa, serta mengatur jadwal publikasi konten.  
   `⭐ 4,798` · `Python`
 - **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)**  
-  An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.  
+  Skill untuk membuat situs dengan animasi dan pengalaman visual berbasis gulir yang imersif.  
   `⭐ 3,534` · `JavaScript`
 - **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**  
-  A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.  
+  Panduan dan skill desain logo yang mencakup prinsip desain, proses, pembuatan SVG, alat uji, dan koleksi referensi logo.  
   `⭐ 3,500` · `HTML`
 - **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)**  
-  The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev  
+  Skill desain frontend untuk membantu agen AI membuat antarmuka yang lebih matang, konsisten, dan layak diproduksikan.  
   `⭐ 801` · `JavaScript`
 - **[bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills)**  
-  AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-style paper audits. 5 skills for LaTeX, Typst & PDF. Focused on enhancing existing text quality, not generating from scratch.  
+  Toolkit untuk memeriksa format, tata bahasa, gaya, referensi, dan kualitas tulisan akademik yang sudah ada.  
   `⭐ 508` · `Python`
 
 ## 🧠 AI Tools & LLM Infrastructure (16)
 
 - **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
-  Stable Diffusion web UI  
+  Antarmuka web untuk menjalankan dan mengatur pembuatan gambar dengan model Stable Diffusion.  
   `⭐ 165,069` · `Python`
 - **[open-webui/open-webui](https://github.com/open-webui/open-webui)**  
-  User-friendly AI Interface (Supports Ollama, OpenAI API, ...)  
+  Antarmuka AI yang dapat di-host sendiri untuk menggunakan model lokal seperti Ollama atau API model yang kompatibel dengan OpenAI.  
   `⭐ 155,895` · `Python`
 - **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)**  
-  Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.  
+  Mengompres keluaran alat, log, berkas, dan potongan RAG sebelum masuk ke model AI agar penggunaan token lebih hemat.  
   `⭐ 75,499` · `Python`
 - **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)**  
-  🧠 Train a 64M-parameter LLM from scratch in just 2h!  
+  Proyek edukasi untuk melatih model bahasa kecil dari awal dengan kode dan proses yang dapat dipelajari.  
   `⭐ 63,857` · `Python`
 - **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)**  
-  Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into a personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  
+  Asisten pengetahuan pribadi yang dapat di-host sendiri untuk mencari jawaban dari web dan dokumen, melakukan riset, serta menjalankan otomasi.  
   `⭐ 37,704` · `Python`
 - **[sgl-project/sglang](https://github.com/sgl-project/sglang)**  
-  SGLang is a high-performance serving framework for large language models and multimodal models.  
+  Framework untuk menyajikan model bahasa besar dan model multimodal dengan kinerja tinggi.  
   `⭐ 37,217` · `Python`
 - **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)**  
-  7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.  
+  Satu endpoint API bergaya OpenAI yang merutekan permintaan ke banyak penyedia model gratis dengan pengalihan otomatis jika gagal.  
   `⭐ 36,079` · `TypeScript`
 - **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)**  
-  Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.  
+  Mesin keputusan AI ringan untuk memilih opsi, memberi skor, atau menjawab ya/tidak dari teks dalam banyak bahasa.  
   `⭐ 33,144` · `Python`
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)**  
-  An autonomous agent that conducts deep research on any data using any LLM providers  
+  Agen riset otonom yang mengumpulkan dan menyusun informasi dari berbagai sumber menggunakan model AI yang dipilih.  
   `⭐ 30,131` · `Python`
 - **[fastai/fastai](https://github.com/fastai/fastai)**  
-  The fastai deep learning library  
+  Pustaka deep learning Python beserta materi pembelajaran untuk membangun model AI dengan praktik yang terstruktur.  
   `⭐ 28,227` · `Jupyter Notebook`
 - **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)**  
-  LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。  
+  Aplikasi desktop yang mengubah dokumen menjadi wiki pribadi saling terhubung dan memperbaruinya secara bertahap dengan bantuan LLM.  
   `⭐ 20,705` · `TypeScript`
 - **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**  
-  Install this plugin in dsh to use frontier models including DeepSeek V4.1 Flash and Kimi K3 without login, registration, or API keys. Completely free, with no usage cap.  
+  Plugin untuk memakai model AI tertentu di DSH tanpa akun atau API key, sesuai ketentuan dan batas layanan proyek.  
   `⭐ 19,050` · `JavaScript`
 - **[AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)**  
-  Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme  
+  Pembuat wiki otomatis berbantuan AI dari repositori GitHub, GitLab, atau Bitbucket untuk memahami struktur proyek.  
   `⭐ 18,207` · `Python`
 - **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)**  
-  Wan: Open and Advanced Large-Scale Video Generative Models  
+  Model generatif video skala besar yang dapat digunakan untuk eksperimen dan pembuatan video berbasis AI.  
   `⭐ 17,965` · `Python`
 - **[microsoft/data-formulator](https://github.com/microsoft/data-formulator)**  
-  🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.  
+  Aplikasi interaktif untuk menghubungkan data, mengeksplorasi isinya, dan membuat visualisasi dengan bantuan AI.  
   `⭐ 17,567` · `Python`
 - **[567-labs/instructor](https://github.com/567-labs/instructor)**  
-  structured outputs for llms  
+  Pustaka untuk meminta keluaran LLM dalam struktur data yang tervalidasi, misalnya objek dengan skema tertentu.  
   `⭐ 14,022` · `Python`
 
 ## 🎬 Video, Media & Creative Tools (17)
 
 - **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)**  
-  A feature-rich command-line audio/video downloader  
+  Alat baris perintah untuk mengunduh audio dan video dari banyak situs yang didukung.  
   `⭐ 198,403` · `Python`
 - **[immich-app/immich](https://github.com/immich-app/immich)**  
-  High performance self-hosted photo and video management solution.  
+  Server foto dan video yang dapat di-host sendiri untuk menyimpan, mengatur, dan menelusuri koleksi media pribadi.  
   `⭐ 116,408` · `TypeScript`
 - **[nexu-io/open-design](https://github.com/nexu-io/open-design)**  
-  The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.  
+  Ruang kerja kolaboratif berbantuan agen AI untuk membuat prototipe, situs, aplikasi, dashboard, presentasi, gambar, dan video.  
   `⭐ 101,519` · `TypeScript`
 - **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)**  
-  The open-source CapCut alternative  
+  Editor video open-source sebagai alternatif CapCut untuk mengedit konten video.  
   `⭐ 94,898` · `TypeScript`
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)**  
-  VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.  
+  Studio suara lokal untuk kloning suara, desain suara, dubbing video, dikte, transkripsi, dan pembuatan audiobook.  
   `⭐ 70,404` · `Python`
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)**  
-  Write HTML. Render video. Built for agents.  
+  Alat untuk membuat video dengan menulis HTML lalu merendernya, cocok untuk alur kerja video yang diotomatisasi agen.  
   `⭐ 65,077` · `TypeScript`
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)**  
-  🎥 Make videos programmatically with React  
+  Framework React untuk menyusun dan merender video secara programatis dari komponen dan kode.  
   `⭐ 64,542` · `TypeScript`
 - **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)**  
-  The Free Software Media System - Server Backend & API  
+  Server media gratis untuk mengelola dan menayangkan koleksi video, musik, serta media pribadi ke berbagai perangkat.  
   `⭐ 58,141` · `C#`
 - **[upscayl/upscayl](https://github.com/upscayl/upscayl)**  
-  🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.  
+  Aplikasi gratis berbasis AI untuk memperbesar resolusi gambar di Linux, macOS, dan Windows.  
   `⭐ 50,644` · `TypeScript`
 - **[danielgatis/rembg](https://github.com/danielgatis/rembg)**  
-  Rembg is a tool to remove images background  
+  Alat untuk menghapus latar belakang dari gambar secara otomatis.  
   `⭐ 25,103` · `Python`
 - **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)**  
-  Open source Loom alternative. Beautiful, shareable screen recordings.  
+  Perekam layar open-source untuk membuat rekaman layar yang mudah dibagikan.  
   `⭐ 23,366` · `Rust`
 - **[ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)**  
-  Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.  
+  Membuat diagram arsitektur interaktif dan video penjelasan singkat dari repositori GitHub.  
   `⭐ 18,259` · `TypeScript`
 - **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)**  
-  Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.  
+  Membangun model 3D berbasis kode Three.js dari gambar referensi, dengan pemeriksaan kualitas dan dukungan animasi.  
   `⭐ 18,232` · `Python`
 - **[spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC)**  
-  Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.  
+  Alat untuk memperoleh trek musik dalam format FLAC dari layanan sumber yang didukung; periksa legalitas dan ketentuan layanan terkait.  
   `⭐ 11,552` · `TypeScript`
 - **[averygan/reclip](https://github.com/averygan/reclip)**  
-  Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.  
+  Pengunduh media yang dapat di-host sendiri dengan antarmuka web untuk mengambil video dari banyak situs.  
   `⭐ 10,763` · `HTML`
 - **[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)**  
-  Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.  
+  Aplikasi dikte suara ke teks lintas platform yang mendukung model lokal atau cloud dan berfokus pada privasi.  
   `⭐ 9,479` · `JavaScript`
 - **[timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio)**  
-  Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.  
+  Aplikasi Windows lokal untuk membuat lagu dengan AI, termasuk vokal, partitur yang dapat diedit, dan pemutaran ulang.  
   `⭐ 753` · `TypeScript`
 
 ## 🎨 Frontend, UI & Design (23)
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**  
-  Master programming by recreating your favorite technologies from scratch.  
+  Kumpulan panduan belajar pemrograman dengan membangun ulang teknologi populer dari dasar.  
   `⭐ 553,706` · `Markdown`
 - **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)**  
-  Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
+  Peta jalan interaktif dan panduan belajar untuk membantu pengembang merencanakan peningkatan keterampilan karier.  
   `⭐ 369,533` · `TypeScript`
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)**  
-  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  
+  Platform otomasi workflow visual yang dapat menghubungkan layanan, API, kode khusus, dan komponen AI.  
   `⭐ 207,653` · `TypeScript`
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)**  
-  Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥  
+  API untuk mengambil dan mengubah konten web menjadi data yang siap dipakai agen AI atau pipeline pengolahan data.  
   `⭐ 192,109` · `TypeScript`
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)**  
-  Virtual whiteboard for sketching hand-drawn like diagrams  
+  Papan tulis digital untuk menggambar diagram bergaya sketsa dengan mudah.  
   `⭐ 133,975` · `TypeScript`
 - **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)**  
-  Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.  
+  Kumpulan komponen antarmuka yang dapat disalin dan dikustomisasi untuk membangun UI web yang aksesibel.  
   `⭐ 125,746` · `TypeScript`
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)**  
-  A fancy self-hosted monitoring tool  
+  Dashboard pemantauan layanan yang di-host sendiri untuk mengecek uptime dan memberi peringatan saat layanan bermasalah.  
   `⭐ 92,556` · `JavaScript`
 - **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)**  
-  simple terminal UI for git commands  
+  Antarmuka terminal interaktif untuk menjalankan operasi Git tanpa harus menghafal banyak perintah.  
   `⭐ 83,231` · `Go`
 - **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)**  
-  Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)  
+  Mengubah tangkapan layar desain menjadi kode antarmuka seperti HTML, Tailwind, React, atau Vue.  
   `⭐ 80,417` · `Python`
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)**  
-  Learn AI Engineering! Learn it. Build it. Ship it for others.  
+  Materi belajar rekayasa AI melalui praktik membangun proyek dari dasar hingga siap digunakan.  
   `⭐ 70,125` · `Python`
 - **[reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**  
-  A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.  
+  Pembuat CV open-source yang gratis, dapat dikustomisasi, dan berfokus pada privasi data pengguna.  
   `⭐ 44,389` · `TypeScript`
 - **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)**  
-  Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.  
+  Server pengetahuan dan edukasi offline berisi Wikipedia, buku, kursus, peta, serta opsi AI lokal.  
   `⭐ 40,365` · `TypeScript`
 - **[AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)**  
-  Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI  
+  Framework UI berbasis C# dan XAML untuk membangun aplikasi desktop, mobile, embedded, dan WebAssembly.  
   `⭐ 31,667` · `C#`
 - **[monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)**  
-  The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.  
+  Situs latihan mengetik dengan banyak mode dan opsi kustomisasi untuk mengukur serta meningkatkan kecepatan mengetik.  
   `⭐ 20,893` · `TypeScript`
 - **[Effect-TS/effect](https://github.com/Effect-TS/effect)**  
-  Build production-ready applications in TypeScript  
+  Ekosistem TypeScript untuk membangun aplikasi yang terstruktur dengan penanganan efek, error, dan konkurensi.  
   `⭐ 17,307` · `TypeScript`
 - **[satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)**  
-  Admin Dashboard UI built with Shadcn and Vite.  
+  Template dashboard administrasi yang dibuat dengan shadcn/ui dan Vite.  
   `⭐ 15,765` · `TypeScript`
 - **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)**  
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.  
+  Kanvas berbasis browser untuk merancang layar Material 3 Expressive lalu mengubahnya menjadi prompt coding.  
   `⭐ 9,405` · `TypeScript`
 - **[zumerlab/snapdom](https://github.com/zumerlab/snapdom)**  
-  High-performance engine for capturing, modifying, and converting DOM elements to any format.  
+  Mesin untuk mengambil, memodifikasi, dan mengonversi elemen DOM menjadi keluaran seperti gambar atau format lain.  
   `⭐ 8,192` · `JavaScript`
 - **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)**  
-  🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.  
+  Perangkat OSINT untuk mencari jejak digital dari alamat email atau nama pengguna melalui banyak sumber dan integrasi MCP.  
   `⭐ 5,407` · `Python`
 - **[dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)**  
-  Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.  
+  Mengekstrak sistem desain sebuah situs—logo, warna, tipografi, dan border—menjadi token yang bisa dipakai ulang.  
   `⭐ 3,654` · `TypeScript`
 - **[bergside/typeui](https://github.com/bergside/typeui)**  
-  Build better UI with AI  
+  Perangkat untuk membantu membangun antarmuka pengguna yang lebih baik dengan dukungan AI.  
   `⭐ 2,057` · `TypeScript`
 - **[neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism)**  
-  A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.  
+  Pustaka komponen React dan Tailwind bergaya neo-brutalism untuk membangun UI yang tegas dan kontras.  
   `⭐ 1,620` · `TypeScript`
 - **[SehajveerSingh2005/bloom](https://github.com/SehajveerSingh2005/bloom)**  
-  Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid workspaces and introduces a workspace that feels natural, fluid, and responsive.  
+  Aplikasi pendamping desktop Windows dengan pengalaman workspace yang lebih fleksibel dan responsif.  
   `⭐ 237` · `TypeScript`
 
 ## 🏠 Self-hosted & Infrastructure (14)
 
 - **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**  
-  freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  
+  Kurikulum dan platform open-source untuk belajar matematika, pemrograman, serta ilmu komputer secara gratis.  
   `⭐ 457,160` · `TypeScript`
 - **[ossu/computer-science](https://github.com/ossu/computer-science)**  
-  🎓 Path to a free self-taught education in Computer Science!  
+  Kurikulum mandiri ilmu komputer yang disusun dari materi dan mata kuliah gratis.  
   `⭐ 210,040` · `HTML`
 - **[caddyserver/caddy](https://github.com/caddyserver/caddy)**  
-  Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS  
+  Server web lintas platform dengan dukungan HTTPS otomatis dan konfigurasi yang fleksibel.  
   `⭐ 78,054` · `Go`
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)**  
-  There can be more than Notion and Miro. AFFiNE (pronounced ə‘fain) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  
+  Workspace pengetahuan dan produktivitas yang menggabungkan catatan, papan visual, perencanaan, dan pembuatan konten.  
   `⭐ 73,569` · `TypeScript`
 - **[dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)**  
-  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  
+  Server kompatibel Bitwarden yang ringan untuk mengelola pengelola kata sandi secara mandiri.  
   `⭐ 69,161` · `Rust`
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)**  
-  Open Source realtime backend in 1 file  
+  Backend ringkas dalam satu berkas dengan database real-time, autentikasi, penyimpanan, dan API bawaan.  
   `⭐ 61,445` · `Go`
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**  
-  A community-supported supercharged document management system: scan, index and archive all your documents  
+  Sistem pengelolaan dokumen digital untuk memindai, mengindeks, mencari, dan mengarsipkan berkas.  
   `⭐ 46,755` · `Python`
 - **[HeyPuter/puter](https://github.com/HeyPuter/puter)**  
-  🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.  
+  Lingkungan komputasi web open-source yang dapat di-host sendiri untuk mengakses aplikasi dan berkas melalui browser.  
   `⭐ 43,747` · `TypeScript`
 - **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)**  
-  Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬  
+  Platform layanan pelanggan multi-kanal untuk live chat, email, dan pengelolaan percakapan dukungan.  
   `⭐ 37,860` · `Ruby`
 - **[glanceapp/glance](https://github.com/glanceapp/glance)**  
-  A self-hosted dashboard that puts all your feeds in one place  
+  Dashboard mandiri untuk mengumpulkan berbagai feed dan sumber informasi ke dalam satu tampilan.  
   `⭐ 37,524` · `Go`
 - **[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)**  
-  Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!  
+  Pemantau perubahan halaman web untuk mendeteksi pembaruan konten, penurunan harga, stok kembali, atau perubahan tak diinginkan.  
   `⭐ 35,061` · `Python`
 - **[actualbudget/actual](https://github.com/actualbudget/actual)**  
-  A local-first personal finance app  
+  Aplikasi pengelolaan keuangan pribadi yang mengutamakan penyimpanan lokal dan penganggaran.  
   `⭐ 29,542` · `TypeScript`
 - **[we-promise/sure](https://github.com/we-promise/sure)**  
-  The personal finance app for everyone (by everyone)  
+  Aplikasi keuangan pribadi untuk mencatat dan memantau kondisi keuangan secara mandiri.  
   `⭐ 10,532` · `Ruby`
 - **[openbao/openbao](https://github.com/openbao/openbao)**  
-  OpenBao is a software solution to manage, store, and distribute sensitive data, certificates, and keys.  
+  Sistem untuk menyimpan, mengelola, dan mendistribusikan rahasia, sertifikat, serta kunci dengan aman.  
   `⭐ 8,477` · `Go`
 
 ## 🛠️ Developer Tools & Productivity (21)
 
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)**  
-  Python tool for converting files and office documents to Markdown.  
+  Alat Python untuk mengonversi dokumen dan berkas Office ke format Markdown agar mudah diproses atau dianalisis AI.  
   `⭐ 190,547` · `Python`
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**  
-  Display and control your Android device  
+  Menampilkan layar perangkat Android di komputer sekaligus mengontrolnya melalui mouse dan keyboard.  
   `⭐ 152,315` · `C`
 - **[localsend/localsend](https://github.com/localsend/localsend)**  
-  An open-source cross-platform alternative to AirDrop  
+  Aplikasi berbagi berkas lintas platform di jaringan lokal sebagai alternatif AirDrop.  
   `⭐ 94,569` · `Dart`
 - **[astral-sh/uv](https://github.com/astral-sh/uv)**  
-  An extremely fast Python package and project manager, written in Rust.  
+  Manajer paket dan proyek Python yang sangat cepat untuk mengelola dependensi serta lingkungan kerja.  
   `⭐ 90,815` · `Rust`
 - **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)**  
-  Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia  
+  Alat pengembangan dan pengujian API lintas web, desktop, dan CLI, sebagai alternatif Postman atau Insomnia.  
   `⭐ 80,636` · `TypeScript`
 - **[ventoy/Ventoy](https://github.com/ventoy/Ventoy)**  
-  A new bootable USB solution.  
+  Alat untuk membuat USB bootable yang dapat menyimpan banyak berkas ISO tanpa perlu memformat ulang untuk setiap ISO.  
   `⭐ 80,085` · `C`
 - **[termux/termux-app](https://github.com/termux/termux-app)**  
-  Termux - a terminal emulator application for Android OS extendible by variety of packages.  
+  Terminal Android yang dapat diperluas dengan paket Linux untuk menjalankan alat pengembangan langsung di ponsel.  
   `⭐ 62,741` · `Java`
 - **[tw93/Pake](https://github.com/tw93/Pake)**  
-  🤱🏻 Turn any website into a tiny, fast desktop app.  
+  Mengemas situs web menjadi aplikasi desktop yang ringan dan cepat.  
   `⭐ 62,134` · `Rust`
 - **[sharkdp/bat](https://github.com/sharkdp/bat)**  
-  A cat(1) clone with wings.  
+  Pengganti perintah `cat` dengan pewarnaan sintaks dan tampilan berkas yang lebih nyaman.  
   `⭐ 60,804` · `Rust`
 - **[usebruno/bruno](https://github.com/usebruno/bruno)**  
-  Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)  
+  Aplikasi untuk menjelajah, mengirim, dan menguji permintaan API secara lokal sebagai alternatif Postman.  
   `⭐ 47,686` · `JavaScript`
 - **[cli/cli](https://github.com/cli/cli)**  
-  GitHub’s official command line tool  
+  CLI resmi GitHub untuk mengelola repositori, issue, pull request, dan aktivitas GitHub dari terminal.  
   `⭐ 46,667` · `Go`
 - **[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)**  
-  Collection of handy online tools for developers, with great UX.  
+  Kumpulan utilitas web untuk pekerjaan developer, seperti konversi, encoding, dan pemeriksaan data.  
   `⭐ 40,866` · `Vue`
 - **[gchq/CyberChef](https://github.com/gchq/CyberChef)**  
-  The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis  
+  Toolkit web untuk mengubah, mengodekan, mendekodekan, mengompres, dan menganalisis data.  
   `⭐ 36,135` · `JavaScript`
 - **[qarmin/czkawka](https://github.com/qarmin/czkawka)**  
-  Multi functional app to find duplicates, empty folders, similar images etc.  
+  Aplikasi untuk menemukan berkas duplikat, folder kosong, gambar serupa, dan berkas yang tidak diperlukan.  
   `⭐ 34,284` · `Fluent`
 - **[cjpais/Handy](https://github.com/cjpais/Handy)**  
-  A free, open source, and extensible speech-to-text application that works completely offline.  
+  Aplikasi open-source untuk mengubah ucapan menjadi teks sepenuhnya offline.  
   `⭐ 33,946` · `Rust`
 - **[DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)**  
-  A Swiss Army knife for developers.  
+  Kumpulan utilitas desktop bagi developer, seperti konverter, encoder, formatter, dan pembuat hash.  
   `⭐ 32,083` · `C#`
 - **[cmderdev/cmder](https://github.com/cmderdev/cmder)**  
-  Lovely console emulator package for Windows  
+  Paket emulator terminal Windows dengan lingkungan baris perintah yang lebih nyaman dan portabel.  
   `⭐ 27,006` · `PowerShell`
 - **[yorukot/superfile](https://github.com/yorukot/superfile)**  
-  Pretty fancy and modern terminal file manager  
+  Pengelola berkas modern di terminal untuk menavigasi folder dan mengatur berkas dengan cepat.  
   `⭐ 23,837` · `Go`
 - **[brunodev85/winlator](https://github.com/brunodev85/winlator)**  
-  Android application for running Windows applications with Wine and Box86/Box64  
+  Aplikasi Android untuk menjalankan sebagian aplikasi Windows melalui lapisan kompatibilitas Wine dan Box86/Box64.  
   `⭐ 19,485` · `C`
 - **[hluk/CopyQ](https://github.com/hluk/CopyQ)**  
-  Clipboard manager with advanced features  
+  Pengelola clipboard dengan riwayat dan fitur lanjutan untuk menyimpan serta menggunakan ulang salinan teks atau data.  
   `⭐ 12,486` · `C++`
 - **[git-bug/git-bug](https://github.com/git-bug/git-bug)**  
-  Distributed, offline-first bug tracker integrated in git  
+  Pelacak bug terdistribusi yang terintegrasi dengan Git dan dapat digunakan secara offline.  
   `⭐ 10,772` · `Go`
 
 ## 📚 Learning & Education (7)
 
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis)**  
-  A collective list of free APIs  
+  Direktori API publik yang dapat digunakan untuk belajar, membuat prototipe, dan mengintegrasikan layanan.  
   `⭐ 489,374` · `Python`
 - **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)**  
-  :books: Freely available programming books  
+  Kumpulan buku pemrograman gratis yang dapat diakses untuk belajar berbagai bahasa dan topik teknis.  
   `⭐ 399,187` · `Python`
 - **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)**  
-  A guide to design large-scale systems. Includes Anki flashcards.  
+  Panduan mempelajari desain sistem berskala besar, dilengkapi konsep inti dan kartu belajar Anki.  
   `⭐ 374,416` · `Python`
 - **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**  
-  A list of Free Software network services and web applications which can be hosted on your own servers  
+  Katalog perangkat lunak gratis dan layanan jaringan yang dapat dijalankan di server sendiri.  
   `⭐ 327,221` · `-`
 - **[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)**  
-  Curated list of project-based tutorials  
+  Daftar tutorial berbasis proyek untuk mempelajari pemrograman melalui pembuatan aplikasi nyata.  
   `⭐ 286,885` · `Python`
 - **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)**  
-  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev  
+  Daftar layanan SaaS, PaaS, dan IaaS yang menyediakan paket gratis yang relevan bagi developer.  
   `⭐ 139,642` · `HTML`
 - **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)**  
-  Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click  
+  Kelas interaktif berbasis beberapa agen AI untuk menghadirkan pengalaman belajar yang lebih imersif.  
   `⭐ 40,887` · `TypeScript`
 
 ## 📱 Mobile & Android (3)
 
 - **[gkd-kit/gkd](https://github.com/gkd-kit/gkd)**  
-  An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules  
+  Aplikasi Android untuk mengotomatisasi ketukan layar berdasarkan aturan, selector aksesibilitas, dan langganan konfigurasi.  
   `⭐ 42,930` · `Kotlin`
 - **[alibaba/atlas](https://github.com/alibaba/atlas)**  
-  A powerful Android Dynamic Component Framework.  
+  Framework Android untuk memuat dan mengelola komponen aplikasi secara dinamis.  
   `⭐ 8,149` · `Java`
 - **[InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)**  
-  An open-source Android app to let you browse YouTube and other services freely.  
+  Aplikasi Android open-source untuk menjelajahi YouTube dan layanan video lain melalui antarmuka alternatif.  
   `⭐ 7,018` · `Shell`
 
 ## 📦 Other / Awesome Lists & Misc (15)
 
 - **[morluto/rea](https://github.com/morluto/rea)**  
-  Reverse engineer anything with agents, from app behavior down to native binaries.  
+  Alat rekayasa balik berbantuan agen untuk memahami perilaku aplikasi hingga komponen biner native.  
   `⭐ 285,801` · `TypeScript`
 - **[github/spec-kit](https://github.com/github/spec-kit)**  
-  💫 Toolkit to help you get started with SDD or any other process!  
+  Toolkit untuk memulai pengembangan perangkat lunak berbasis spesifikasi, sehingga kebutuhan ditulis sebelum implementasi.  
   `⭐ 141,526` · `Python`
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)**  
-  The open-source app everyone uses to manage agents at work  
+  Aplikasi open-source untuk mengatur pekerjaan, koordinasi, dan pengelolaan agen AI dalam sebuah tim.  
   `⭐ 103,039` · `TypeScript`
 - **[stablyai/orca](https://github.com/stablyai/orca)**  
-  Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.  
+  Lingkungan untuk menjalankan banyak agen coding secara paralel menggunakan langganan AI sendiri di desktop, ponsel, atau runtime jarak jauh.  
   `⭐ 94,219` · `TypeScript`
 - **[omacom/omarchy](https://github.com/omacom/omarchy)**  
-  Beautiful, Modern & Opinionated Linux  
+  Konfigurasi Linux yang sudah dirancang dengan tampilan modern dan pilihan bawaan yang opiniated.  
   `⭐ 44,939` · `Shell`
 - **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)**  
-  📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG  
+  Pendekatan pengindeksan dokumen untuk RAG yang mengandalkan struktur dokumen dan penalaran, bukan basis data vektor.  
   `⭐ 39,171` · `Python`
 - **[block/buzz](https://github.com/block/buzz)**  
-  A hive mind communication platform  
+  Platform komunikasi berbasis konsep hive mind untuk menghubungkan percakapan dan kolaborasi.  
   `⭐ 36,051` · `Rust`
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)**  
-  Python scraper based on AI  
+  Pustaka scraping Python yang memanfaatkan AI untuk mengekstrak informasi dari situs web.  
   `⭐ 31,809` · `Python`
 - **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)**  
-  OpenShell is the safe, private runtime for autonomous AI agents.  
+  Runtime yang berfokus pada privasi dan keamanan untuk menjalankan agen AI otonom.  
   `⭐ 16,413` · `Rust`
 - **[VERT-sh/VERT](https://github.com/VERT-sh/VERT)**  
-  The next-generation file converter. Open source, fully local* and free forever.  
+  Konverter berkas open-source yang memproses berkas secara lokal, tanpa biaya, dan tanpa perlu mengunggahnya ke server.  
   `⭐ 15,983` · `TypeScript`
 - **[megadose/holehe](https://github.com/megadose/holehe)**  
-  holehe allows you to check if the mail is used on different sites like Twitter, Instagram and retrieves information through password-reset features.  
+  Alat OSINT untuk memeriksa apakah alamat email terdaftar pada berbagai situs melalui mekanisme pemulihan akun.  
   `⭐ 15,213` · `Python`
 - **[jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)**  
-  Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.  
+  Browser headless untuk agen AI yang dirancang menghadapi sistem deteksi bot dan dapat dipakai sebagai pengganti Puppeteer/Playwright.  
   `⭐ 11,628` · `JavaScript`
 - **[braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow)**  
-  Paste any GitHub URL → interactive architecture map. See how files connect and find what breaks if you change something. No install, no accounts — runs entirely in your browser.  
+  Peta arsitektur interaktif dari URL GitHub untuk melihat hubungan antarfile dan memahami dampak perubahan kode.  
   `⭐ 5,421` · `HTML`
 - **[atria-asi/Atria-Dawn](https://github.com/atria-asi/Atria-Dawn)**  
-  No description provided.  
+  Deskripsi sumber belum tersedia; buka repositori untuk memeriksa tujuan, fitur, dan petunjuk penggunaan resminya.  
   `⭐ 611` · `-`
 - **[LuxAlgo/trade-journal](https://github.com/LuxAlgo/trade-journal)**  
-  The open-source trade journal. Broker sync, P&L calendar, deep analytics, and AI reflection. Self-hosted, MIT, free. By LuxAlgo.  
+  Jurnal trading yang dapat di-host sendiri dengan sinkronisasi broker, kalender untung-rugi, analitik, dan refleksi berbantuan AI.  
   `⭐ 490` · `TypeScript`
 
 ---
