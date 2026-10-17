@@ -186,133 +186,133 @@ Koleksi repositori open-source yang saya simpan sebagai referensi. **Nama repo d
 
 Agen yang dapat menjalankan tugas, memakai alat, membantu coding, melakukan riset, serta mengoordinasikan pekerjaan.
 
-<a href="https://github.com/openclaw/openclaw"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[openclaw/openclaw](https://github.com/openclaw/openclaw)**  
+[![openclaw/openclaw](https://img.shields.io/badge/openclaw%2Fopenclaw-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openclaw/openclaw) [![⭐ 392,173](https://img.shields.io/badge/⭐-392173-b8860b?style=for-the-badge)](https://github.com/openclaw/openclaw)  
 <sub>Bahasa: TypeScript</sub>  
 Agen AI serbaguna yang dapat menjalankan tugas lintas sistem operasi dan platform, bukan sekadar menjawab pertanyaan.
 
 ---
 
-<a href="https://github.com/obra/superpowers"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[obra/superpowers](https://github.com/obra/superpowers)**  
+[![obra/superpowers](https://img.shields.io/badge/obra%2Fsuperpowers-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obra/superpowers) [![⭐ 300,481](https://img.shields.io/badge/⭐-300481-b8860b?style=for-the-badge)](https://github.com/obra/superpowers)  
 <sub>Bahasa: Shell</sub>  
 Kerangka kerja skill untuk agen coding yang memberi alur kerja terstruktur—mulai dari merencanakan, menguji, hingga menyelesaikan fitur.
 
 ---
 
-<a href="https://github.com/affaan-m/ECC"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[affaan-m/ECC](https://github.com/affaan-m/ECC)**  
+[![affaan-m/ECC](https://img.shields.io/badge/affaan--m%2FECC-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affaan-m/ECC) [![⭐ 281,071](https://img.shields.io/badge/⭐-281071-b8860b?style=for-the-badge)](https://github.com/affaan-m/ECC)  
 <sub>Bahasa: JavaScript</sub>  
 Paket optimasi agen coding yang berisi skill, aturan keamanan, memori, dan pola pengembangan berbasis riset untuk berbagai alat coding AI.
 
 ---
 
-<a href="https://github.com/msitarzewski/agency-agents"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)**  
+[![msitarzewski/agency-agents](https://img.shields.io/badge/msitarzewski%2Fagency--agents-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msitarzewski/agency-agents) [![⭐ 160,502](https://img.shields.io/badge/⭐-160502-b8860b?style=for-the-badge)](https://github.com/msitarzewski/agency-agents)  
 <sub>Bahasa: Shell</sub>  
 Kumpulan agen AI dengan peran khusus untuk pekerjaan seperti pengembangan frontend, pemasaran, riset komunitas, dan pelaksanaan proyek.
 
 ---
 
-<a href="https://github.com/farion1231/cc-switch"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)**  
+[![farion1231/cc-switch](https://img.shields.io/badge/farion1231%2Fcc--switch-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farion1231/cc-switch) [![⭐ 145,152](https://img.shields.io/badge/⭐-145152-b8860b?style=for-the-badge)](https://github.com/farion1231/cc-switch)  
 <sub>Bahasa: Rust</sub>  
 Aplikasi desktop untuk mengelola dan berpindah konfigurasi berbagai asisten coding AI dari satu tempat.
 
 ---
 
-<a href="https://github.com/browser-use/browser-use"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[browser-use/browser-use](https://github.com/browser-use/browser-use)**  
+[![browser-use/browser-use](https://img.shields.io/badge/browser--use%2Fbrowser--use-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/browser-use/browser-use) [![⭐ 118,183](https://img.shields.io/badge/⭐-118183-b8860b?style=for-the-badge)](https://github.com/browser-use/browser-use)  
 <sub>Bahasa: Python</sub>  
 Pustaka Python agar agen AI dapat membuka situs, menelusuri halaman, dan berinteraksi dengan browser untuk menyelesaikan tugas web.
 
 ---
 
-<a href="https://github.com/thedotmack/claude-mem"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**  
+[![thedotmack/claude-mem](https://img.shields.io/badge/thedotmack%2Fclaude--mem-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedotmack/claude-mem) [![⭐ 101,191](https://img.shields.io/badge/⭐-101191-b8860b?style=for-the-badge)](https://github.com/thedotmack/claude-mem)  
 <sub>Bahasa: TypeScript</sub>  
 Sistem memori lintas sesi yang menyimpan, meringkas, dan memasukkan kembali konteks kerja agar agen AI tidak kehilangan riwayat penting.
 
 ---
 
-<a href="https://github.com/OpenHands/OpenHands"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**  
+[![OpenHands/OpenHands](https://img.shields.io/badge/OpenHands%2FOpenHands-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenHands/OpenHands) [![⭐ 91,061](https://img.shields.io/badge/⭐-91061-b8860b?style=for-the-badge)](https://github.com/OpenHands/OpenHands)  
 <sub>Bahasa: TypeScript</sub>  
 Platform pengembangan berbantuan AI untuk membantu menulis kode, menggunakan alat, dan menjalankan tugas rekayasa perangkat lunak.
 
 ---
 
-<a href="https://github.com/pbakaus/impeccable"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)**  
+[![pbakaus/impeccable](https://img.shields.io/badge/pbakaus%2Fimpeccable-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pbakaus/impeccable) [![⭐ 81,883](https://img.shields.io/badge/⭐-81883-b8860b?style=for-the-badge)](https://github.com/pbakaus/impeccable)  
 <sub>Bahasa: Rust</sub>  
 Panduan bahasa desain dan aturan UI untuk membantu agen coding menghasilkan antarmuka yang lebih konsisten dan berkualitas.
 
 ---
 
-<a href="https://github.com/colbymchenry/codegraph"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)**  
+[![colbymchenry/codegraph](https://img.shields.io/badge/colbymchenry%2Fcodegraph-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colbymchenry/codegraph) [![⭐ 74,277](https://img.shields.io/badge/⭐-74277-b8860b?style=for-the-badge)](https://github.com/colbymchenry/codegraph)  
 <sub>Bahasa: C</sub>  
 Membuat graf pengetahuan lokal dari basis kode dan menyinkronkannya saat kode berubah, sehingga agen lebih cepat memahami hubungan antarfile.
 
 ---
 
-<a href="https://github.com/usestrix/strix"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[usestrix/strix](https://github.com/usestrix/strix)**  
+[![usestrix/strix](https://img.shields.io/badge/usestrix%2Fstrix-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usestrix/strix) [![⭐ 68,968](https://img.shields.io/badge/⭐-68968-b8860b?style=for-the-badge)](https://github.com/usestrix/strix)  
 <sub>Bahasa: Python</sub>  
 Alat pengujian keamanan berbantuan AI untuk menemukan kerentanan aplikasi dan membantu proses perbaikan.
 
 ---
 
-<a href="https://github.com/aaif-goose/goose"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[aaif-goose/goose](https://github.com/aaif-goose/goose)**  
+[![aaif-goose/goose](https://img.shields.io/badge/aaif--goose%2Fgoose-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaif-goose/goose) [![⭐ 55,344](https://img.shields.io/badge/⭐-55344-b8860b?style=for-the-badge)](https://github.com/aaif-goose/goose)  
 <sub>Bahasa: Rust</sub>  
 Agen AI open-source yang dapat memasang alat, menjalankan perintah, mengedit berkas, dan menguji hasil menggunakan berbagai model bahasa.
 
 ---
 
-<a href="https://github.com/vectorize-io/hindsight"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**  
+[![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vectorize-io/hindsight) [![⭐ 50,381](https://img.shields.io/badge/⭐-50381-b8860b?style=for-the-badge)](https://github.com/vectorize-io/hindsight)  
 <sub>Bahasa: Python</sub>  
 Sistem memori untuk agen AI yang menyimpan pengalaman lalu memperbaiki cara mengingat dan menggunakan informasi pada tugas berikutnya.
 
 ---
 
-<a href="https://github.com/OpenBMB/ChatDev"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)**  
+[![OpenBMB/ChatDev](https://img.shields.io/badge/OpenBMB%2FChatDev-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenBMB/ChatDev) [![⭐ 34,530](https://img.shields.io/badge/⭐-34530-b8860b?style=for-the-badge)](https://github.com/OpenBMB/ChatDev)  
 <sub>Bahasa: Python</sub>  
 Kerangka kerja kolaborasi multi-agen untuk membagi proses pengembangan perangkat lunak ke beberapa peran AI.
 
 ---
 
-<a href="https://github.com/mksglu/context-mode"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[mksglu/context-mode](https://github.com/mksglu/context-mode)**  
+[![mksglu/context-mode](https://img.shields.io/badge/mksglu%2Fcontext--mode-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mksglu/context-mode) [![⭐ 30,067](https://img.shields.io/badge/⭐-30067-b8860b?style=for-the-badge)](https://github.com/mksglu/context-mode)  
 <sub>Bahasa: TypeScript</sub>  
 Mengurangi keluaran alat yang masuk ke konteks agen coding, menyimpan memori sesi, dan mengatur perutean alat untuk menghemat token.
 
 ---
 
-<a href="https://github.com/promptfoo/promptfoo"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**  
+[![promptfoo/promptfoo](https://img.shields.io/badge/promptfoo%2Fpromptfoo-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/promptfoo/promptfoo) [![⭐ 26,058](https://img.shields.io/badge/⭐-26058-b8860b?style=for-the-badge)](https://github.com/promptfoo/promptfoo)  
 <sub>Bahasa: TypeScript</sub>  
 Alat untuk menguji, membandingkan, dan mengaudit prompt maupun agen AI, termasuk pengujian red-team dan pemindaian risiko.
 
 ---
 
-<a href="https://github.com/hypit-ai/hypit"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)**  
+[![hypit-ai/hypit](https://img.shields.io/badge/hypit--ai%2Fhypit-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hypit-ai/hypit) [![⭐ 22,804](https://img.shields.io/badge/⭐-22804-b8860b?style=for-the-badge)](https://github.com/hypit-ai/hypit)  
 <sub>Bahasa: TypeScript</sub>  
 Otomasi berbasis agen AI untuk membuat banyak variasi video dari sebuah referensi, termasuk mengganti elemen visual dan teks.
 
 ---
 
-<a href="https://github.com/earthtojake/text-to-cad"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)**  
+[![earthtojake/text-to-cad](https://img.shields.io/badge/earthtojake%2Ftext--to--cad-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/earthtojake/text-to-cad) [![⭐ 20,898](https://img.shields.io/badge/⭐-20898-b8860b?style=for-the-badge)](https://github.com/earthtojake/text-to-cad)  
 <sub>Bahasa: Python</sub>  
 Mengubah instruksi teks menjadi rancangan CAD melalui agen AI untuk membantu membuat model objek teknis.
 
 ---
 
-<a href="https://github.com/mvschwarz/openrig"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)**  
+[![mvschwarz/openrig](https://img.shields.io/badge/mvschwarz%2Fopenrig-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvschwarz/openrig) [![⭐ 7,533](https://img.shields.io/badge/⭐-7533-b8860b?style=for-the-badge)](https://github.com/mvschwarz/openrig)  
 <sub>Bahasa: TypeScript</sub>  
 Kerangka kerja untuk menjalankan tim agen AI dengan peran, konteks bersama, dan pembagian pekerjaan yang menetap.
 
 ---
 
-<a href="https://github.com/Kiln-AI/Kiln"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln)**  
+[![Kiln-AI/Kiln](https://img.shields.io/badge/Kiln--AI%2FKiln-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiln-AI/Kiln) [![⭐ 5,194](https://img.shields.io/badge/⭐-5194-b8860b?style=for-the-badge)](https://github.com/Kiln-AI/Kiln)  
 <sub>Bahasa: Python</sub>  
 Perangkat untuk membangun dan mengevaluasi sistem AI, termasuk dataset, RAG, fine-tuning, agen, dan pengujian model.
 
 ---
 
-<a href="https://github.com/melgarafael/DeskcommCRM"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)**  
+[![melgarafael/DeskcommCRM](https://img.shields.io/badge/melgarafael%2FDeskcommCRM-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melgarafael/DeskcommCRM) [![⭐ 4,630](https://img.shields.io/badge/⭐-4630-b8860b?style=for-the-badge)](https://github.com/melgarafael/DeskcommCRM)  
 <sub>Bahasa: TypeScript</sub>  
 CRM yang dapat di-host sendiri dengan agen AI dan integrasi WhatsApp untuk mengelola percakapan penjualan serta pelanggan.
 
 ---
 
-<a href="https://github.com/androoAGI/starnet"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[androoAGI/starnet](https://github.com/androoAGI/starnet)**  
+[![androoAGI/starnet](https://img.shields.io/badge/androoAGI%2Fstarnet-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/androoAGI/starnet) [![⭐ 1,474](https://img.shields.io/badge/⭐-1474-b8860b?style=for-the-badge)](https://github.com/androoAGI/starnet)  
 <sub>Bahasa: JavaScript</sub>  
 Aplikasi desktop bergaya pixel-art untuk menjalankan dan memantau agen AI yang benar-benar mengerjakan tugas secara lokal.
 
@@ -330,169 +330,169 @@ Aplikasi desktop bergaya pixel-art untuk menjalankan dan memantau agen AI yang b
 
 Instruksi dan alur kerja siap pakai untuk menambah kemampuan agen AI, mulai dari coding dan desain sampai riset serta penulisan.
 
-<a href="https://github.com/mattpocock/skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[mattpocock/skills](https://github.com/mattpocock/skills)**  
+[![mattpocock/skills](https://img.shields.io/badge/mattpocock%2Fskills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mattpocock/skills) [![⭐ 293,729](https://img.shields.io/badge/⭐-293729-b8860b?style=for-the-badge)](https://github.com/mattpocock/skills)  
 <sub>Bahasa: Shell</sub>  
 Kumpulan skill praktis untuk agen coding, berfokus pada kebiasaan rekayasa perangkat lunak yang digunakan pengembang berpengalaman.
 
 ---
 
-<a href="https://github.com/anthropics/skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[anthropics/skills](https://github.com/anthropics/skills)**  
+[![anthropics/skills](https://img.shields.io/badge/anthropics%2Fskills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anthropics/skills) [![⭐ 181,537](https://img.shields.io/badge/⭐-181537-b8860b?style=for-the-badge)](https://github.com/anthropics/skills)  
 <sub>Bahasa: Python</sub>  
 Kumpulan contoh dan definisi Agent Skills untuk memperluas kemampuan asisten AI melalui instruksi dan alur kerja khusus.
 
 ---
 
-<a href="https://github.com/DietrichGebert/ponytail"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)**  
+[![DietrichGebert/ponytail](https://img.shields.io/badge/DietrichGebert%2Fponytail-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DietrichGebert/ponytail) [![⭐ 164,987](https://img.shields.io/badge/⭐-164987-b8860b?style=for-the-badge)](https://github.com/DietrichGebert/ponytail)  
 <sub>Bahasa: JavaScript</sub>  
 Skill untuk membuat agen coding bekerja lebih hemat: menghindari perubahan yang tidak perlu dan memilih solusi paling sederhana.
 
 ---
 
-<a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**  
+[![nextlevelbuilder/ui-ux-pro-max-skill](https://img.shields.io/badge/nextlevelbuilder%2Fui--ux--pro--max--skill-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) [![⭐ 136,484](https://img.shields.io/badge/⭐-136484-b8860b?style=for-the-badge)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  
 <sub>Bahasa: Python</sub>  
 Skill desain UI/UX yang memberi panduan visual dan praktik antarmuka profesional untuk berbagai platform.
 
 ---
 
-<a href="https://github.com/Graphify-Labs/graphify"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)**  
+[![Graphify-Labs/graphify](https://img.shields.io/badge/Graphify--Labs%2Fgraphify-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Graphify-Labs/graphify) [![⭐ 127,154](https://img.shields.io/badge/⭐-127154-b8860b?style=for-the-badge)](https://github.com/Graphify-Labs/graphify)  
 <sub>Bahasa: Python</sub>  
 Memetakan kode, dokumentasi, skema SQL, konfigurasi, dan PDF menjadi knowledge graph yang dapat ditelusuri agen AI secara lokal.
 
 ---
 
-<a href="https://github.com/JuliusBrussee/caveman"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)**  
+[![JuliusBrussee/caveman](https://img.shields.io/badge/JuliusBrussee%2Fcaveman-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliusBrussee/caveman) [![⭐ 113,011](https://img.shields.io/badge/⭐-113011-b8860b?style=for-the-badge)](https://github.com/JuliusBrussee/caveman)  
 <sub>Bahasa: Go</sub>  
 Skill dan proxy yang mempersingkat gaya komunikasi agen coding agar pemakaian token lebih rendah.
 
 ---
 
-<a href="https://github.com/addyosmani/agent-skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**  
+[![addyosmani/agent-skills](https://img.shields.io/badge/addyosmani%2Fagent--skills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addyosmani/agent-skills) [![⭐ 107,273](https://img.shields.io/badge/⭐-107273-b8860b?style=for-the-badge)](https://github.com/addyosmani/agent-skills)  
 <sub>Bahasa: JavaScript</sub>  
 Kumpulan skill rekayasa perangkat lunak untuk membantu agen coding mengikuti praktik kerja yang siap digunakan di proyek nyata.
 
 ---
 
-<a href="https://github.com/Leonxlnx/taste-skill"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  
+[![Leonxlnx/taste-skill](https://img.shields.io/badge/Leonxlnx%2Ftaste--skill-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonxlnx/taste-skill) [![⭐ 97,874](https://img.shields.io/badge/⭐-97874-b8860b?style=for-the-badge)](https://github.com/Leonxlnx/taste-skill)  
 <sub>Bahasa: JavaScript</sub>  
 Skill yang memberi arahan art direction, referensi visual, serta pemeriksaan di browser agar UI buatan AI tidak terlihat generik.
 
 ---
 
-<a href="https://github.com/Egonex-AI/Understand-Anything"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)**  
+[![Egonex-AI/Understand-Anything](https://img.shields.io/badge/Egonex--AI%2FUnderstand--Anything-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Egonex-AI/Understand-Anything) [![⭐ 86,582](https://img.shields.io/badge/⭐-86582-b8860b?style=for-the-badge)](https://github.com/Egonex-AI/Understand-Anything)  
 <sub>Bahasa: TypeScript</sub>  
 Mengubah kode menjadi graf interaktif supaya struktur, hubungan, dan alur sebuah codebase lebih mudah dijelajahi dan ditanyakan ke AI.
 
 ---
 
-<a href="https://github.com/tt-a1i/archify"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[tt-a1i/archify](https://github.com/tt-a1i/archify)**  
+[![tt-a1i/archify](https://img.shields.io/badge/tt--a1i%2Farchify-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tt-a1i/archify) [![⭐ 84,366](https://img.shields.io/badge/⭐-84366-b8860b?style=for-the-badge)](https://github.com/tt-a1i/archify)  
 <sub>Bahasa: JavaScript</sub>  
 Skill untuk mengubah ide, rencana, atau codebase menjadi diagram interaktif agar arsitektur lebih mudah dijelaskan.
 
 ---
 
-<a href="https://github.com/ComposioHQ/awesome-claude-skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**  
+[![ComposioHQ/awesome-claude-skills](https://img.shields.io/badge/ComposioHQ%2Fawesome--claude--skills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ComposioHQ/awesome-claude-skills) [![⭐ 77,234](https://img.shields.io/badge/⭐-77234-b8860b?style=for-the-badge)](https://github.com/ComposioHQ/awesome-claude-skills)  
 <sub>Bahasa: Python</sub>  
 Daftar pilihan skill, sumber, dan alat untuk menyesuaikan alur kerja Claude dengan kebutuhan tertentu.
 
 ---
 
-<a href="https://github.com/blader/humanizer"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[blader/humanizer](https://github.com/blader/humanizer)**  
+[![blader/humanizer](https://img.shields.io/badge/blader%2Fhumanizer-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blader/humanizer) [![⭐ 57,497](https://img.shields.io/badge/⭐-57497-b8860b?style=for-the-badge)](https://github.com/blader/humanizer)  
 <sub>Bahasa: Python</sub>  
 Skill penyuntingan teks untuk mengurangi ciri tulisan yang terasa generik atau dibuat otomatis oleh AI.
 
 ---
 
-<a href="https://github.com/coreyhaines31/marketingskills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**  
+[![coreyhaines31/marketingskills](https://img.shields.io/badge/coreyhaines31%2Fmarketingskills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coreyhaines31/marketingskills) [![⭐ 55,040](https://img.shields.io/badge/⭐-55040-b8860b?style=for-the-badge)](https://github.com/coreyhaines31/marketingskills)  
 <sub>Bahasa: JavaScript</sub>  
 Skill AI untuk pemasaran digital, mencakup optimasi konversi, SEO, analitik, dan strategi pertumbuhan.
 
 ---
 
-<a href="https://github.com/Imbad0202/academic-research-skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)**  
+[![Imbad0202/academic-research-skills](https://img.shields.io/badge/Imbad0202%2Facademic--research--skills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imbad0202/academic-research-skills) [![⭐ 52,385](https://img.shields.io/badge/⭐-52385-b8860b?style=for-the-badge)](https://github.com/Imbad0202/academic-research-skills)  
 <sub>Bahasa: Python</sub>  
 Skill untuk alur riset akademik dari pencarian bahan hingga penulisan, peninjauan, revisi, dan finalisasi naskah.
 
 ---
 
-<a href="https://github.com/MadsLorentzen/ai-job-search"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)**  
+[![MadsLorentzen/ai-job-search](https://img.shields.io/badge/MadsLorentzen%2Fai--job--search-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadsLorentzen/ai-job-search) [![⭐ 47,998](https://img.shields.io/badge/⭐-47998-b8860b?style=for-the-badge)](https://github.com/MadsLorentzen/ai-job-search)  
 <sub>Bahasa: Python</sub>  
 Kerangka kerja lokal untuk mencari pekerjaan, menilai lowongan, menyesuaikan CV, membuat surat lamaran, dan berlatih wawancara.
 
 ---
 
-<a href="https://github.com/wshobson/agents"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[wshobson/agents](https://github.com/wshobson/agents)**  
+[![wshobson/agents](https://img.shields.io/badge/wshobson%2Fagents-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wshobson/agents) [![⭐ 40,905](https://img.shields.io/badge/⭐-40905-b8860b?style=for-the-badge)](https://github.com/wshobson/agents)  
 <sub>Bahasa: Python</sub>  
 Kumpulan plugin dan agen spesialis yang dapat dipakai lintas alat coding AI untuk memperluas tugas yang dapat diotomatisasi.
 
 ---
 
-<a href="https://github.com/virgiliojr94/book-to-skill"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)**  
+[![virgiliojr94/book-to-skill](https://img.shields.io/badge/virgiliojr94%2Fbook--to--skill-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virgiliojr94/book-to-skill) [![⭐ 35,046](https://img.shields.io/badge/⭐-35046-b8860b?style=for-the-badge)](https://github.com/virgiliojr94/book-to-skill)  
 <sub>Bahasa: Python</sub>  
 Mengubah PDF buku teknis menjadi skill Claude Code agar isinya bisa dijadikan panduan kerja yang mudah dipanggil saat coding.
 
 ---
 
-<a href="https://github.com/nidhinjs/prompt-master"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master)**  
+[![nidhinjs/prompt-master](https://img.shields.io/badge/nidhinjs%2Fprompt--master-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhinjs/prompt-master) [![⭐ 14,514](https://img.shields.io/badge/⭐-14514-b8860b?style=for-the-badge)](https://github.com/nidhinjs/prompt-master)  
 <sub>Bahasa: -</sub>  
 Skill untuk menyusun prompt yang lebih tepat bagi berbagai alat AI dengan menjaga konteks dan memori percakapan.
 
 ---
 
-<a href="https://github.com/wheresryan22/anatomy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)**  
+[![wheresryan22/anatomy](https://img.shields.io/badge/wheresryan22%2Fanatomy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wheresryan22/anatomy) [![⭐ 13,675](https://img.shields.io/badge/⭐-13675-b8860b?style=for-the-badge)](https://github.com/wheresryan22/anatomy)  
 <sub>Bahasa: JavaScript</sub>  
 Skill untuk membuat ilustrasi isometrik interaktif tentang mesin atau sistem nyata dalam bentuk SVG, dengan opsi efek WebGL.
 
 ---
 
-<a href="https://github.com/krillinai/OpenCreator"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)**  
+[![krillinai/OpenCreator](https://img.shields.io/badge/krillinai%2FOpenCreator-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krillinai/OpenCreator) [![⭐ 13,419](https://img.shields.io/badge/⭐-13419-b8860b?style=for-the-badge)](https://github.com/krillinai/OpenCreator)  
 <sub>Bahasa: TypeScript</sub>  
 Ruang kerja AI bagi kreator untuk mengunduh, menerjemahkan, dan membuat video, gambar, suara, avatar, serta hasil edit.
 
 ---
 
-<a href="https://github.com/zenstory-ai/oh-story-claudecode"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)**  
+[![zenstory-ai/oh-story-claudecode](https://img.shields.io/badge/zenstory--ai%2Foh--story--claudecode-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenstory-ai/oh-story-claudecode) [![⭐ 7,664](https://img.shields.io/badge/⭐-7664-b8860b?style=for-the-badge)](https://github.com/zenstory-ai/oh-story-claudecode)  
 <sub>Bahasa: Python</sub>  
 Kumpulan skill untuk membantu menulis novel web berbahasa Mandarin, dari analisis referensi hingga penyuntingan dan desain sampul.
 
 ---
 
-<a href="https://github.com/miqdadbadjuber/anti-slop"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)**  
+[![miqdadbadjuber/anti-slop](https://img.shields.io/badge/miqdadbadjuber%2Fanti--slop-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miqdadbadjuber/anti-slop) [![⭐ 6,239](https://img.shields.io/badge/⭐-6239-b8860b?style=for-the-badge)](https://github.com/miqdadbadjuber/anti-slop)  
 <sub>Bahasa: JavaScript</sub>  
 Aturan untuk membantu agen coding menghindari desain UI, teks, dan kode yang terasa generik atau asal dibuat AI.
 
 ---
 
-<a href="https://github.com/WorldFlowAI/everything-claude-code"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)**  
+[![WorldFlowAI/everything-claude-code](https://img.shields.io/badge/WorldFlowAI%2Feverything--claude--code-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WorldFlowAI/everything-claude-code) [![⭐ 4,816](https://img.shields.io/badge/⭐-4816-b8860b?style=for-the-badge)](https://github.com/WorldFlowAI/everything-claude-code)  
 <sub>Bahasa: JavaScript</sub>  
 Toolkit Claude Code berisi agen, perintah, skill, aturan, dan hook untuk menyusun alur pengembangan yang lebih produktif.
 
 ---
 
-<a href="https://github.com/sergebulaev/linkedin-skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)**  
+[![sergebulaev/linkedin-skills](https://img.shields.io/badge/sergebulaev%2Flinkedin--skills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergebulaev/linkedin-skills) [![⭐ 4,798](https://img.shields.io/badge/⭐-4798-b8860b?style=for-the-badge)](https://github.com/sergebulaev/linkedin-skills)  
 <sub>Bahasa: Python</sub>  
 Skill untuk menulis posting dan komentar LinkedIn, menganalisis linimasa, serta mengatur jadwal publikasi konten.
 
 ---
 
-<a href="https://github.com/nateherkai/scroll-craft"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)**  
+[![nateherkai/scroll-craft](https://img.shields.io/badge/nateherkai%2Fscroll--craft-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nateherkai/scroll-craft) [![⭐ 3,534](https://img.shields.io/badge/⭐-3534-b8860b?style=for-the-badge)](https://github.com/nateherkai/scroll-craft)  
 <sub>Bahasa: JavaScript</sub>  
 Skill untuk membuat situs dengan animasi dan pengalaman visual berbasis gulir yang imersif.
 
 ---
 
-<a href="https://github.com/kaankiziltug/logo-design-skill"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)**  
+[![kaankiziltug/logo-design-skill](https://img.shields.io/badge/kaankiziltug%2Flogo--design--skill-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaankiziltug/logo-design-skill) [![⭐ 3,500](https://img.shields.io/badge/⭐-3500-b8860b?style=for-the-badge)](https://github.com/kaankiziltug/logo-design-skill)  
 <sub>Bahasa: HTML</sub>  
 Panduan dan skill desain logo yang mencakup prinsip desain, proses, pembuatan SVG, alat uji, dan koleksi referensi logo.
 
 ---
 
-<a href="https://github.com/superdesigndev/superdesign-skill"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)**  
+[![superdesigndev/superdesign-skill](https://img.shields.io/badge/superdesigndev%2Fsuperdesign--skill-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/superdesigndev/superdesign-skill) [![⭐ 801](https://img.shields.io/badge/⭐-801-b8860b?style=for-the-badge)](https://github.com/superdesigndev/superdesign-skill)  
 <sub>Bahasa: JavaScript</sub>  
 Skill desain frontend untuk membantu agen AI membuat antarmuka yang lebih matang, konsisten, dan layak diproduksikan.
 
 ---
 
-<a href="https://github.com/bahayonghang/academic-writing-skills"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills)**  
+[![bahayonghang/academic-writing-skills](https://img.shields.io/badge/bahayonghang%2Facademic--writing--skills-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahayonghang/academic-writing-skills) [![⭐ 508](https://img.shields.io/badge/⭐-508-b8860b?style=for-the-badge)](https://github.com/bahayonghang/academic-writing-skills)  
 <sub>Bahasa: Python</sub>  
 Toolkit untuk memeriksa format, tata bahasa, gaya, referensi, dan kualitas tulisan akademik yang sudah ada.
 
@@ -510,97 +510,97 @@ Toolkit untuk memeriksa format, tata bahasa, gaya, referensi, dan kualitas tulis
 
 Antarmuka model, API, framework inferensi, RAG, riset, dan alat untuk membangun atau menjalankan sistem AI.
 
-<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
+[![AUTOMATIC1111/stable-diffusion-webui](https://img.shields.io/badge/AUTOMATIC1111%2Fstable--diffusion--webui-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) [![⭐ 165,069](https://img.shields.io/badge/⭐-165069-b8860b?style=for-the-badge)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
 <sub>Bahasa: Python</sub>  
 Antarmuka web untuk menjalankan dan mengatur pembuatan gambar dengan model Stable Diffusion.
 
 ---
 
-<a href="https://github.com/open-webui/open-webui"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[open-webui/open-webui](https://github.com/open-webui/open-webui)**  
+[![open-webui/open-webui](https://img.shields.io/badge/open--webui%2Fopen--webui-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-webui/open-webui) [![⭐ 155,895](https://img.shields.io/badge/⭐-155895-b8860b?style=for-the-badge)](https://github.com/open-webui/open-webui)  
 <sub>Bahasa: Python</sub>  
 Antarmuka AI yang dapat di-host sendiri untuk menggunakan model lokal seperti Ollama atau API model yang kompatibel dengan OpenAI.
 
 ---
 
-<a href="https://github.com/headroomlabs-ai/headroom"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)**  
+[![headroomlabs-ai/headroom](https://img.shields.io/badge/headroomlabs--ai%2Fheadroom-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/headroomlabs-ai/headroom) [![⭐ 75,499](https://img.shields.io/badge/⭐-75499-b8860b?style=for-the-badge)](https://github.com/headroomlabs-ai/headroom)  
 <sub>Bahasa: Python</sub>  
 Mengompres keluaran alat, log, berkas, dan potongan RAG sebelum masuk ke model AI agar penggunaan token lebih hemat.
 
 ---
 
-<a href="https://github.com/jingyaogong/minimind"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)**  
+[![jingyaogong/minimind](https://img.shields.io/badge/jingyaogong%2Fminimind-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jingyaogong/minimind) [![⭐ 63,857](https://img.shields.io/badge/⭐-63857-b8860b?style=for-the-badge)](https://github.com/jingyaogong/minimind)  
 <sub>Bahasa: Python</sub>  
 Proyek edukasi untuk melatih model bahasa kecil dari awal dengan kode dan proses yang dapat dipelajari.
 
 ---
 
-<a href="https://github.com/khoj-ai/khoj"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)**  
+[![khoj-ai/khoj](https://img.shields.io/badge/khoj--ai%2Fkhoj-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khoj-ai/khoj) [![⭐ 37,704](https://img.shields.io/badge/⭐-37704-b8860b?style=for-the-badge)](https://github.com/khoj-ai/khoj)  
 <sub>Bahasa: Python</sub>  
 Asisten pengetahuan pribadi yang dapat di-host sendiri untuk mencari jawaban dari web dan dokumen, melakukan riset, serta menjalankan otomasi.
 
 ---
 
-<a href="https://github.com/sgl-project/sglang"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[sgl-project/sglang](https://github.com/sgl-project/sglang)**  
+[![sgl-project/sglang](https://img.shields.io/badge/sgl--project%2Fsglang-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sgl-project/sglang) [![⭐ 37,217](https://img.shields.io/badge/⭐-37217-b8860b?style=for-the-badge)](https://github.com/sgl-project/sglang)  
 <sub>Bahasa: Python</sub>  
 Framework untuk menyajikan model bahasa besar dan model multimodal dengan kinerja tinggi.
 
 ---
 
-<a href="https://github.com/tashfeenahmed/freellmapi"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)**  
+[![tashfeenahmed/freellmapi](https://img.shields.io/badge/tashfeenahmed%2Ffreellmapi-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tashfeenahmed/freellmapi) [![⭐ 36,079](https://img.shields.io/badge/⭐-36079-b8860b?style=for-the-badge)](https://github.com/tashfeenahmed/freellmapi)  
 <sub>Bahasa: TypeScript</sub>  
 Satu endpoint API bergaya OpenAI yang merutekan permintaan ke banyak penyedia model gratis dengan pengalihan otomatis jika gagal.
 
 ---
 
-<a href="https://github.com/NandhaKishorM/laya"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)**  
+[![NandhaKishorM/laya](https://img.shields.io/badge/NandhaKishorM%2Flaya-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandhaKishorM/laya) [![⭐ 33,144](https://img.shields.io/badge/⭐-33144-b8860b?style=for-the-badge)](https://github.com/NandhaKishorM/laya)  
 <sub>Bahasa: Python</sub>  
 Mesin keputusan AI ringan untuk memilih opsi, memberi skor, atau menjawab ya/tidak dari teks dalam banyak bahasa.
 
 ---
 
-<a href="https://github.com/assafelovic/gpt-researcher"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)**  
+[![assafelovic/gpt-researcher](https://img.shields.io/badge/assafelovic%2Fgpt--researcher-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assafelovic/gpt-researcher) [![⭐ 30,131](https://img.shields.io/badge/⭐-30131-b8860b?style=for-the-badge)](https://github.com/assafelovic/gpt-researcher)  
 <sub>Bahasa: Python</sub>  
 Agen riset otonom yang mengumpulkan dan menyusun informasi dari berbagai sumber menggunakan model AI yang dipilih.
 
 ---
 
-<a href="https://github.com/fastai/fastai"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[fastai/fastai](https://github.com/fastai/fastai)**  
+[![fastai/fastai](https://img.shields.io/badge/fastai%2Ffastai-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fastai/fastai) [![⭐ 28,227](https://img.shields.io/badge/⭐-28227-b8860b?style=for-the-badge)](https://github.com/fastai/fastai)  
 <sub>Bahasa: Jupyter Notebook</sub>  
 Pustaka deep learning Python beserta materi pembelajaran untuk membangun model AI dengan praktik yang terstruktur.
 
 ---
 
-<a href="https://github.com/nashsu/llm_wiki"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)**  
+[![nashsu/llm_wiki](https://img.shields.io/badge/nashsu%2Fllm_wiki-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nashsu/llm_wiki) [![⭐ 20,705](https://img.shields.io/badge/⭐-20705-b8860b?style=for-the-badge)](https://github.com/nashsu/llm_wiki)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi desktop yang mengubah dokumen menjadi wiki pribadi saling terhubung dan memperbaruinya secara bertahap dengan bantuan LLM.
 
 ---
 
-<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**  
+[![Ebony-Vinyl/dsh-our-free-model](https://img.shields.io/badge/Ebony--Vinyl%2Fdsh--our--free--model-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ebony-Vinyl/dsh-our-free-model) [![⭐ 19,050](https://img.shields.io/badge/⭐-19050-b8860b?style=for-the-badge)](https://github.com/Ebony-Vinyl/dsh-our-free-model)  
 <sub>Bahasa: JavaScript</sub>  
 Plugin untuk memakai model AI tertentu di DSH tanpa akun atau API key, sesuai ketentuan dan batas layanan proyek.
 
 ---
 
-<a href="https://github.com/AsyncFuncAI/deepwiki-open"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)**  
+[![AsyncFuncAI/deepwiki-open](https://img.shields.io/badge/AsyncFuncAI%2Fdeepwiki--open-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsyncFuncAI/deepwiki-open) [![⭐ 18,207](https://img.shields.io/badge/⭐-18207-b8860b?style=for-the-badge)](https://github.com/AsyncFuncAI/deepwiki-open)  
 <sub>Bahasa: Python</sub>  
 Pembuat wiki otomatis berbantuan AI dari repositori GitHub, GitLab, atau Bitbucket untuk memahami struktur proyek.
 
 ---
 
-<a href="https://github.com/Wan-Video/Wan2.2"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)**  
+[![Wan-Video/Wan2.2](https://img.shields.io/badge/Wan--Video%2FWan2.2-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wan-Video/Wan2.2) [![⭐ 17,965](https://img.shields.io/badge/⭐-17965-b8860b?style=for-the-badge)](https://github.com/Wan-Video/Wan2.2)  
 <sub>Bahasa: Python</sub>  
 Model generatif video skala besar yang dapat digunakan untuk eksperimen dan pembuatan video berbasis AI.
 
 ---
 
-<a href="https://github.com/microsoft/data-formulator"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[microsoft/data-formulator](https://github.com/microsoft/data-formulator)**  
+[![microsoft/data-formulator](https://img.shields.io/badge/microsoft%2Fdata--formulator-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/data-formulator) [![⭐ 17,567](https://img.shields.io/badge/⭐-17567-b8860b?style=for-the-badge)](https://github.com/microsoft/data-formulator)  
 <sub>Bahasa: Python</sub>  
 Aplikasi interaktif untuk menghubungkan data, mengeksplorasi isinya, dan membuat visualisasi dengan bantuan AI.
 
 ---
 
-<a href="https://github.com/567-labs/instructor"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[567-labs/instructor](https://github.com/567-labs/instructor)**  
+[![567-labs/instructor](https://img.shields.io/badge/567--labs%2Finstructor-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/567-labs/instructor) [![⭐ 14,022](https://img.shields.io/badge/⭐-14022-b8860b?style=for-the-badge)](https://github.com/567-labs/instructor)  
 <sub>Bahasa: Python</sub>  
 Pustaka untuk meminta keluaran LLM dalam struktur data yang tervalidasi, misalnya objek dengan skema tertentu.
 
@@ -618,103 +618,103 @@ Pustaka untuk meminta keluaran LLM dalam struktur data yang tervalidasi, misalny
 
 Alat untuk mengunduh, mengedit, mengelola, menghasilkan, atau memproses foto, video, audio, dan model 3D.
 
-<a href="https://github.com/yt-dlp/yt-dlp"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)**  
+[![yt-dlp/yt-dlp](https://img.shields.io/badge/yt--dlp%2Fyt--dlp-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yt-dlp/yt-dlp) [![⭐ 198,403](https://img.shields.io/badge/⭐-198403-b8860b?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)  
 <sub>Bahasa: Python</sub>  
 Alat baris perintah untuk mengunduh audio dan video dari banyak situs yang didukung.
 
 ---
 
-<a href="https://github.com/immich-app/immich"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[immich-app/immich](https://github.com/immich-app/immich)**  
+[![immich-app/immich](https://img.shields.io/badge/immich--app%2Fimmich-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immich-app/immich) [![⭐ 116,408](https://img.shields.io/badge/⭐-116408-b8860b?style=for-the-badge)](https://github.com/immich-app/immich)  
 <sub>Bahasa: TypeScript</sub>  
 Server foto dan video yang dapat di-host sendiri untuk menyimpan, mengatur, dan menelusuri koleksi media pribadi.
 
 ---
 
-<a href="https://github.com/nexu-io/open-design"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nexu-io/open-design](https://github.com/nexu-io/open-design)**  
+[![nexu-io/open-design](https://img.shields.io/badge/nexu--io%2Fopen--design-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexu-io/open-design) [![⭐ 101,519](https://img.shields.io/badge/⭐-101519-b8860b?style=for-the-badge)](https://github.com/nexu-io/open-design)  
 <sub>Bahasa: TypeScript</sub>  
 Ruang kerja kolaboratif berbantuan agen AI untuk membuat prototipe, situs, aplikasi, dashboard, presentasi, gambar, dan video.
 
 ---
 
-<a href="https://github.com/OpenCut-app/OpenCut"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)**  
+[![OpenCut-app/OpenCut](https://img.shields.io/badge/OpenCut--app%2FOpenCut-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenCut-app/OpenCut) [![⭐ 94,898](https://img.shields.io/badge/⭐-94898-b8860b?style=for-the-badge)](https://github.com/OpenCut-app/OpenCut)  
 <sub>Bahasa: TypeScript</sub>  
 Editor video open-source sebagai alternatif CapCut untuk mengedit konten video.
 
 ---
 
-<a href="https://github.com/debpalash/VoiceStudio"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)**  
+[![debpalash/VoiceStudio](https://img.shields.io/badge/debpalash%2FVoiceStudio-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debpalash/VoiceStudio) [![⭐ 70,404](https://img.shields.io/badge/⭐-70404-b8860b?style=for-the-badge)](https://github.com/debpalash/VoiceStudio)  
 <sub>Bahasa: Python</sub>  
 Studio suara lokal untuk kloning suara, desain suara, dubbing video, dikte, transkripsi, dan pembuatan audiobook.
 
 ---
 
-<a href="https://github.com/heygen-com/hyperframes"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)**  
+[![heygen-com/hyperframes](https://img.shields.io/badge/heygen--com%2Fhyperframes-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heygen-com/hyperframes) [![⭐ 65,077](https://img.shields.io/badge/⭐-65077-b8860b?style=for-the-badge)](https://github.com/heygen-com/hyperframes)  
 <sub>Bahasa: TypeScript</sub>  
 Alat untuk membuat video dengan menulis HTML lalu merendernya, cocok untuk alur kerja video yang diotomatisasi agen.
 
 ---
 
-<a href="https://github.com/remotion-dev/remotion"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)**  
+[![remotion-dev/remotion](https://img.shields.io/badge/remotion--dev%2Fremotion-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remotion-dev/remotion) [![⭐ 64,542](https://img.shields.io/badge/⭐-64542-b8860b?style=for-the-badge)](https://github.com/remotion-dev/remotion)  
 <sub>Bahasa: TypeScript</sub>  
 Framework React untuk menyusun dan merender video secara programatis dari komponen dan kode.
 
 ---
 
-<a href="https://github.com/jellyfin/jellyfin"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)**  
+[![jellyfin/jellyfin](https://img.shields.io/badge/jellyfin%2Fjellyfin-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jellyfin/jellyfin) [![⭐ 58,141](https://img.shields.io/badge/⭐-58141-b8860b?style=for-the-badge)](https://github.com/jellyfin/jellyfin)  
 <sub>Bahasa: C#</sub>  
 Server media gratis untuk mengelola dan menayangkan koleksi video, musik, serta media pribadi ke berbagai perangkat.
 
 ---
 
-<a href="https://github.com/upscayl/upscayl"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[upscayl/upscayl](https://github.com/upscayl/upscayl)**  
+[![upscayl/upscayl](https://img.shields.io/badge/upscayl%2Fupscayl-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upscayl/upscayl) [![⭐ 50,644](https://img.shields.io/badge/⭐-50644-b8860b?style=for-the-badge)](https://github.com/upscayl/upscayl)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi gratis berbasis AI untuk memperbesar resolusi gambar di Linux, macOS, dan Windows.
 
 ---
 
-<a href="https://github.com/danielgatis/rembg"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[danielgatis/rembg](https://github.com/danielgatis/rembg)**  
+[![danielgatis/rembg](https://img.shields.io/badge/danielgatis%2Frembg-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielgatis/rembg) [![⭐ 25,103](https://img.shields.io/badge/⭐-25103-b8860b?style=for-the-badge)](https://github.com/danielgatis/rembg)  
 <sub>Bahasa: Python</sub>  
 Alat untuk menghapus latar belakang dari gambar secara otomatis.
 
 ---
 
-<a href="https://github.com/CapSoftware/Cap"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)**  
+[![CapSoftware/Cap](https://img.shields.io/badge/CapSoftware%2FCap-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CapSoftware/Cap) [![⭐ 23,366](https://img.shields.io/badge/⭐-23366-b8860b?style=for-the-badge)](https://github.com/CapSoftware/Cap)  
 <sub>Bahasa: Rust</sub>  
 Perekam layar open-source untuk membuat rekaman layar yang mudah dibagikan.
 
 ---
 
-<a href="https://github.com/ahmedkhaleel2004/gitdiagram"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)**  
+[![ahmedkhaleel2004/gitdiagram](https://img.shields.io/badge/ahmedkhaleel2004%2Fgitdiagram-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedkhaleel2004/gitdiagram) [![⭐ 18,259](https://img.shields.io/badge/⭐-18259-b8860b?style=for-the-badge)](https://github.com/ahmedkhaleel2004/gitdiagram)  
 <sub>Bahasa: TypeScript</sub>  
 Membuat diagram arsitektur interaktif dan video penjelasan singkat dari repositori GitHub.
 
 ---
 
-<a href="https://github.com/img2threejs/img2threejs"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)**  
+[![img2threejs/img2threejs](https://img.shields.io/badge/img2threejs%2Fimg2threejs-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/img2threejs/img2threejs) [![⭐ 18,232](https://img.shields.io/badge/⭐-18232-b8860b?style=for-the-badge)](https://github.com/img2threejs/img2threejs)  
 <sub>Bahasa: Python</sub>  
 Membangun model 3D berbasis kode Three.js dari gambar referensi, dengan pemeriksaan kualitas dan dukungan animasi.
 
 ---
 
-<a href="https://github.com/spotbye/SpotiFLAC"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC)**  
+[![spotbye/SpotiFLAC](https://img.shields.io/badge/spotbye%2FSpotiFLAC-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spotbye/SpotiFLAC) [![⭐ 11,552](https://img.shields.io/badge/⭐-11552-b8860b?style=for-the-badge)](https://github.com/spotbye/SpotiFLAC)  
 <sub>Bahasa: TypeScript</sub>  
 Alat untuk memperoleh trek musik dalam format FLAC dari layanan sumber yang didukung; periksa legalitas dan ketentuan layanan terkait.
 
 ---
 
-<a href="https://github.com/averygan/reclip"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[averygan/reclip](https://github.com/averygan/reclip)**  
+[![averygan/reclip](https://img.shields.io/badge/averygan%2Freclip-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/averygan/reclip) [![⭐ 10,763](https://img.shields.io/badge/⭐-10763-b8860b?style=for-the-badge)](https://github.com/averygan/reclip)  
 <sub>Bahasa: HTML</sub>  
 Pengunduh media yang dapat di-host sendiri dengan antarmuka web untuk mengambil video dari banyak situs.
 
 ---
 
-<a href="https://github.com/OpenWhispr/openwhispr"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)**  
+[![OpenWhispr/openwhispr](https://img.shields.io/badge/OpenWhispr%2Fopenwhispr-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenWhispr/openwhispr) [![⭐ 9,479](https://img.shields.io/badge/⭐-9479-b8860b?style=for-the-badge)](https://github.com/OpenWhispr/openwhispr)  
 <sub>Bahasa: JavaScript</sub>  
 Aplikasi dikte suara ke teks lintas platform yang mendukung model lokal atau cloud dan berfokus pada privasi.
 
 ---
 
-<a href="https://github.com/timoncool/YuE2-Studio"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio)**  
+[![timoncool/YuE2-Studio](https://img.shields.io/badge/timoncool%2FYuE2--Studio-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timoncool/YuE2-Studio) [![⭐ 753](https://img.shields.io/badge/⭐-753-b8860b?style=for-the-badge)](https://github.com/timoncool/YuE2-Studio)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi Windows lokal untuk membuat lagu dengan AI, termasuk vokal, partitur yang dapat diedit, dan pemutaran ulang.
 
@@ -732,139 +732,139 @@ Aplikasi Windows lokal untuk membuat lagu dengan AI, termasuk vokal, partitur ya
 
 Komponen UI, framework frontend, alat desain, diagram, template dashboard, dan panduan membangun aplikasi web.
 
-<a href="https://github.com/codecrafters-io/build-your-own-x"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**  
+[![codecrafters-io/build-your-own-x](https://img.shields.io/badge/codecrafters--io%2Fbuild--your--own--x-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecrafters-io/build-your-own-x) [![⭐ 553,706](https://img.shields.io/badge/⭐-553706-b8860b?style=for-the-badge)](https://github.com/codecrafters-io/build-your-own-x)  
 <sub>Bahasa: Markdown</sub>  
 Kumpulan panduan belajar pemrograman dengan membangun ulang teknologi populer dari dasar.
 
 ---
 
-<a href="https://github.com/nilbuild/developer-roadmap"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)**  
+[![nilbuild/developer-roadmap](https://img.shields.io/badge/nilbuild%2Fdeveloper--roadmap-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilbuild/developer-roadmap) [![⭐ 369,533](https://img.shields.io/badge/⭐-369533-b8860b?style=for-the-badge)](https://github.com/nilbuild/developer-roadmap)  
 <sub>Bahasa: TypeScript</sub>  
 Peta jalan interaktif dan panduan belajar untuk membantu pengembang merencanakan peningkatan keterampilan karier.
 
 ---
 
-<a href="https://github.com/n8n-io/n8n"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[n8n-io/n8n](https://github.com/n8n-io/n8n)**  
+[![n8n-io/n8n](https://img.shields.io/badge/n8n--io%2Fn8n-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n8n-io/n8n) [![⭐ 207,653](https://img.shields.io/badge/⭐-207653-b8860b?style=for-the-badge)](https://github.com/n8n-io/n8n)  
 <sub>Bahasa: TypeScript</sub>  
 Platform otomasi workflow visual yang dapat menghubungkan layanan, API, kode khusus, dan komponen AI.
 
 ---
 
-<a href="https://github.com/firecrawl/firecrawl"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)**  
+[![firecrawl/firecrawl](https://img.shields.io/badge/firecrawl%2Ffirecrawl-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firecrawl/firecrawl) [![⭐ 192,109](https://img.shields.io/badge/⭐-192109-b8860b?style=for-the-badge)](https://github.com/firecrawl/firecrawl)  
 <sub>Bahasa: TypeScript</sub>  
 API untuk mengambil dan mengubah konten web menjadi data yang siap dipakai agen AI atau pipeline pengolahan data.
 
 ---
 
-<a href="https://github.com/excalidraw/excalidraw"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)**  
+[![excalidraw/excalidraw](https://img.shields.io/badge/excalidraw%2Fexcalidraw-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excalidraw/excalidraw) [![⭐ 133,975](https://img.shields.io/badge/⭐-133975-b8860b?style=for-the-badge)](https://github.com/excalidraw/excalidraw)  
 <sub>Bahasa: TypeScript</sub>  
 Papan tulis digital untuk menggambar diagram bergaya sketsa dengan mudah.
 
 ---
 
-<a href="https://github.com/shadcn-ui/ui"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)**  
+[![shadcn-ui/ui](https://img.shields.io/badge/shadcn--ui%2Fui-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shadcn-ui/ui) [![⭐ 125,746](https://img.shields.io/badge/⭐-125746-b8860b?style=for-the-badge)](https://github.com/shadcn-ui/ui)  
 <sub>Bahasa: TypeScript</sub>  
 Kumpulan komponen antarmuka yang dapat disalin dan dikustomisasi untuk membangun UI web yang aksesibel.
 
 ---
 
-<a href="https://github.com/louislam/uptime-kuma"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)**  
+[![louislam/uptime-kuma](https://img.shields.io/badge/louislam%2Fuptime--kuma-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louislam/uptime-kuma) [![⭐ 92,556](https://img.shields.io/badge/⭐-92556-b8860b?style=for-the-badge)](https://github.com/louislam/uptime-kuma)  
 <sub>Bahasa: JavaScript</sub>  
 Dashboard pemantauan layanan yang di-host sendiri untuk mengecek uptime dan memberi peringatan saat layanan bermasalah.
 
 ---
 
-<a href="https://github.com/jesseduffield/lazygit"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)**  
+[![jesseduffield/lazygit](https://img.shields.io/badge/jesseduffield%2Flazygit-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesseduffield/lazygit) [![⭐ 83,231](https://img.shields.io/badge/⭐-83231-b8860b?style=for-the-badge)](https://github.com/jesseduffield/lazygit)  
 <sub>Bahasa: Go</sub>  
 Antarmuka terminal interaktif untuk menjalankan operasi Git tanpa harus menghafal banyak perintah.
 
 ---
 
-<a href="https://github.com/abi/screenshot-to-code"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)**  
+[![abi/screenshot-to-code](https://img.shields.io/badge/abi%2Fscreenshot--to--code-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abi/screenshot-to-code) [![⭐ 80,417](https://img.shields.io/badge/⭐-80417-b8860b?style=for-the-badge)](https://github.com/abi/screenshot-to-code)  
 <sub>Bahasa: Python</sub>  
 Mengubah tangkapan layar desain menjadi kode antarmuka seperti HTML, Tailwind, React, atau Vue.
 
 ---
 
-<a href="https://github.com/rohitg00/ai-engineering-from-scratch"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)**  
+[![rohitg00/ai-engineering-from-scratch](https://img.shields.io/badge/rohitg00%2Fai--engineering--from--scratch-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitg00/ai-engineering-from-scratch) [![⭐ 70,125](https://img.shields.io/badge/⭐-70125-b8860b?style=for-the-badge)](https://github.com/rohitg00/ai-engineering-from-scratch)  
 <sub>Bahasa: Python</sub>  
 Materi belajar rekayasa AI melalui praktik membangun proyek dari dasar hingga siap digunakan.
 
 ---
 
-<a href="https://github.com/reactive-resume/reactive-resume"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**  
+[![reactive-resume/reactive-resume](https://img.shields.io/badge/reactive--resume%2Freactive--resume-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reactive-resume/reactive-resume) [![⭐ 44,389](https://img.shields.io/badge/⭐-44389-b8860b?style=for-the-badge)](https://github.com/reactive-resume/reactive-resume)  
 <sub>Bahasa: TypeScript</sub>  
 Pembuat CV open-source yang gratis, dapat dikustomisasi, dan berfokus pada privasi data pengguna.
 
 ---
 
-<a href="https://github.com/Crosstalk-Solutions/project-nomad"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)**  
+[![Crosstalk-Solutions/project-nomad](https://img.shields.io/badge/Crosstalk--Solutions%2Fproject--nomad-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crosstalk-Solutions/project-nomad) [![⭐ 40,365](https://img.shields.io/badge/⭐-40365-b8860b?style=for-the-badge)](https://github.com/Crosstalk-Solutions/project-nomad)  
 <sub>Bahasa: TypeScript</sub>  
 Server pengetahuan dan edukasi offline berisi Wikipedia, buku, kursus, peta, serta opsi AI lokal.
 
 ---
 
-<a href="https://github.com/AvaloniaUI/Avalonia"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)**  
+[![AvaloniaUI/Avalonia](https://img.shields.io/badge/AvaloniaUI%2FAvalonia-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvaloniaUI/Avalonia) [![⭐ 31,667](https://img.shields.io/badge/⭐-31667-b8860b?style=for-the-badge)](https://github.com/AvaloniaUI/Avalonia)  
 <sub>Bahasa: C#</sub>  
 Framework UI berbasis C# dan XAML untuk membangun aplikasi desktop, mobile, embedded, dan WebAssembly.
 
 ---
 
-<a href="https://github.com/monkeytypegame/monkeytype"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)**  
+[![monkeytypegame/monkeytype](https://img.shields.io/badge/monkeytypegame%2Fmonkeytype-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkeytypegame/monkeytype) [![⭐ 20,893](https://img.shields.io/badge/⭐-20893-b8860b?style=for-the-badge)](https://github.com/monkeytypegame/monkeytype)  
 <sub>Bahasa: TypeScript</sub>  
 Situs latihan mengetik dengan banyak mode dan opsi kustomisasi untuk mengukur serta meningkatkan kecepatan mengetik.
 
 ---
 
-<a href="https://github.com/Effect-TS/effect"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Effect-TS/effect](https://github.com/Effect-TS/effect)**  
+[![Effect-TS/effect](https://img.shields.io/badge/Effect--TS%2Feffect-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Effect-TS/effect) [![⭐ 17,307](https://img.shields.io/badge/⭐-17307-b8860b?style=for-the-badge)](https://github.com/Effect-TS/effect)  
 <sub>Bahasa: TypeScript</sub>  
 Ekosistem TypeScript untuk membangun aplikasi yang terstruktur dengan penanganan efek, error, dan konkurensi.
 
 ---
 
-<a href="https://github.com/satnaing/shadcn-admin"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)**  
+[![satnaing/shadcn-admin](https://img.shields.io/badge/satnaing%2Fshadcn--admin-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satnaing/shadcn-admin) [![⭐ 15,765](https://img.shields.io/badge/⭐-15765-b8860b?style=for-the-badge)](https://github.com/satnaing/shadcn-admin)  
 <sub>Bahasa: TypeScript</sub>  
 Template dashboard administrasi yang dibuat dengan shadcn/ui dan Vite.
 
 ---
 
-<a href="https://github.com/lnkiai/m3e-canvas"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)**  
+[![lnkiai/m3e-canvas](https://img.shields.io/badge/lnkiai%2Fm3e--canvas-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lnkiai/m3e-canvas) [![⭐ 9,405](https://img.shields.io/badge/⭐-9405-b8860b?style=for-the-badge)](https://github.com/lnkiai/m3e-canvas)  
 <sub>Bahasa: TypeScript</sub>  
 Kanvas berbasis browser untuk merancang layar Material 3 Expressive lalu mengubahnya menjadi prompt coding.
 
 ---
 
-<a href="https://github.com/zumerlab/snapdom"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[zumerlab/snapdom](https://github.com/zumerlab/snapdom)**  
+[![zumerlab/snapdom](https://img.shields.io/badge/zumerlab%2Fsnapdom-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zumerlab/snapdom) [![⭐ 8,192](https://img.shields.io/badge/⭐-8192-b8860b?style=for-the-badge)](https://github.com/zumerlab/snapdom)  
 <sub>Bahasa: JavaScript</sub>  
 Mesin untuk mengambil, memodifikasi, dan mengonversi elemen DOM menjadi keluaran seperti gambar atau format lain.
 
 ---
 
-<a href="https://github.com/kaifcodec/user-scanner"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)**  
+[![kaifcodec/user-scanner](https://img.shields.io/badge/kaifcodec%2Fuser--scanner-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifcodec/user-scanner) [![⭐ 5,407](https://img.shields.io/badge/⭐-5407-b8860b?style=for-the-badge)](https://github.com/kaifcodec/user-scanner)  
 <sub>Bahasa: Python</sub>  
 Perangkat OSINT untuk mencari jejak digital dari alamat email atau nama pengguna melalui banyak sumber dan integrasi MCP.
 
 ---
 
-<a href="https://github.com/dembrandt/dembrandt"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)**  
+[![dembrandt/dembrandt](https://img.shields.io/badge/dembrandt%2Fdembrandt-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dembrandt/dembrandt) [![⭐ 3,654](https://img.shields.io/badge/⭐-3654-b8860b?style=for-the-badge)](https://github.com/dembrandt/dembrandt)  
 <sub>Bahasa: TypeScript</sub>  
 Mengekstrak sistem desain sebuah situs—logo, warna, tipografi, dan border—menjadi token yang bisa dipakai ulang.
 
 ---
 
-<a href="https://github.com/bergside/typeui"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[bergside/typeui](https://github.com/bergside/typeui)**  
+[![bergside/typeui](https://img.shields.io/badge/bergside%2Ftypeui-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bergside/typeui) [![⭐ 2,057](https://img.shields.io/badge/⭐-2057-b8860b?style=for-the-badge)](https://github.com/bergside/typeui)  
 <sub>Bahasa: TypeScript</sub>  
 Perangkat untuk membantu membangun antarmuka pengguna yang lebih baik dengan dukungan AI.
 
 ---
 
-<a href="https://github.com/neobrutalism/neobrutalism"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism)**  
+[![neobrutalism/neobrutalism](https://img.shields.io/badge/neobrutalism%2Fneobrutalism-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neobrutalism/neobrutalism) [![⭐ 1,620](https://img.shields.io/badge/⭐-1620-b8860b?style=for-the-badge)](https://github.com/neobrutalism/neobrutalism)  
 <sub>Bahasa: TypeScript</sub>  
 Pustaka komponen React dan Tailwind bergaya neo-brutalism untuk membangun UI yang tegas dan kontras.
 
 ---
 
-<a href="https://github.com/SehajveerSingh2005/bloom"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[SehajveerSingh2005/bloom](https://github.com/SehajveerSingh2005/bloom)**  
+[![SehajveerSingh2005/bloom](https://img.shields.io/badge/SehajveerSingh2005%2Fbloom-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SehajveerSingh2005/bloom) [![⭐ 237](https://img.shields.io/badge/⭐-237-b8860b?style=for-the-badge)](https://github.com/SehajveerSingh2005/bloom)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi pendamping desktop Windows dengan pengalaman workspace yang lebih fleksibel dan responsif.
 
@@ -882,85 +882,85 @@ Aplikasi pendamping desktop Windows dengan pengalaman workspace yang lebih fleks
 
 Layanan yang bisa dijalankan di server sendiri untuk hosting, data, dokumen, keamanan, komunikasi, dan pengelolaan pribadi.
 
-<a href="https://github.com/freeCodeCamp/freeCodeCamp"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**  
+[![freeCodeCamp/freeCodeCamp](https://img.shields.io/badge/freeCodeCamp%2FfreeCodeCamp-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freeCodeCamp/freeCodeCamp) [![⭐ 457,160](https://img.shields.io/badge/⭐-457160-b8860b?style=for-the-badge)](https://github.com/freeCodeCamp/freeCodeCamp)  
 <sub>Bahasa: TypeScript</sub>  
 Kurikulum dan platform open-source untuk belajar matematika, pemrograman, serta ilmu komputer secara gratis.
 
 ---
 
-<a href="https://github.com/ossu/computer-science"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ossu/computer-science](https://github.com/ossu/computer-science)**  
+[![ossu/computer-science](https://img.shields.io/badge/ossu%2Fcomputer--science-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ossu/computer-science) [![⭐ 210,040](https://img.shields.io/badge/⭐-210040-b8860b?style=for-the-badge)](https://github.com/ossu/computer-science)  
 <sub>Bahasa: HTML</sub>  
 Kurikulum mandiri ilmu komputer yang disusun dari materi dan mata kuliah gratis.
 
 ---
 
-<a href="https://github.com/caddyserver/caddy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[caddyserver/caddy](https://github.com/caddyserver/caddy)**  
+[![caddyserver/caddy](https://img.shields.io/badge/caddyserver%2Fcaddy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caddyserver/caddy) [![⭐ 78,054](https://img.shields.io/badge/⭐-78054-b8860b?style=for-the-badge)](https://github.com/caddyserver/caddy)  
 <sub>Bahasa: Go</sub>  
 Server web lintas platform dengan dukungan HTTPS otomatis dan konfigurasi yang fleksibel.
 
 ---
 
-<a href="https://github.com/toeverything/AFFiNE"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)**  
+[![toeverything/AFFiNE](https://img.shields.io/badge/toeverything%2FAFFiNE-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toeverything/AFFiNE) [![⭐ 73,569](https://img.shields.io/badge/⭐-73569-b8860b?style=for-the-badge)](https://github.com/toeverything/AFFiNE)  
 <sub>Bahasa: TypeScript</sub>  
 Workspace pengetahuan dan produktivitas yang menggabungkan catatan, papan visual, perencanaan, dan pembuatan konten.
 
 ---
 
-<a href="https://github.com/dani-garcia/vaultwarden"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)**  
+[![dani-garcia/vaultwarden](https://img.shields.io/badge/dani--garcia%2Fvaultwarden-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dani-garcia/vaultwarden) [![⭐ 69,161](https://img.shields.io/badge/⭐-69161-b8860b?style=for-the-badge)](https://github.com/dani-garcia/vaultwarden)  
 <sub>Bahasa: Rust</sub>  
 Server kompatibel Bitwarden yang ringan untuk mengelola pengelola kata sandi secara mandiri.
 
 ---
 
-<a href="https://github.com/pocketbase/pocketbase"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)**  
+[![pocketbase/pocketbase](https://img.shields.io/badge/pocketbase%2Fpocketbase-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pocketbase/pocketbase) [![⭐ 61,445](https://img.shields.io/badge/⭐-61445-b8860b?style=for-the-badge)](https://github.com/pocketbase/pocketbase)  
 <sub>Bahasa: Go</sub>  
 Backend ringkas dalam satu berkas dengan database real-time, autentikasi, penyimpanan, dan API bawaan.
 
 ---
 
-<a href="https://github.com/paperless-ngx/paperless-ngx"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**  
+[![paperless-ngx/paperless-ngx](https://img.shields.io/badge/paperless--ngx%2Fpaperless--ngx-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paperless-ngx/paperless-ngx) [![⭐ 46,755](https://img.shields.io/badge/⭐-46755-b8860b?style=for-the-badge)](https://github.com/paperless-ngx/paperless-ngx)  
 <sub>Bahasa: Python</sub>  
 Sistem pengelolaan dokumen digital untuk memindai, mengindeks, mencari, dan mengarsipkan berkas.
 
 ---
 
-<a href="https://github.com/HeyPuter/puter"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[HeyPuter/puter](https://github.com/HeyPuter/puter)**  
+[![HeyPuter/puter](https://img.shields.io/badge/HeyPuter%2Fputer-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeyPuter/puter) [![⭐ 43,747](https://img.shields.io/badge/⭐-43747-b8860b?style=for-the-badge)](https://github.com/HeyPuter/puter)  
 <sub>Bahasa: TypeScript</sub>  
 Lingkungan komputasi web open-source yang dapat di-host sendiri untuk mengakses aplikasi dan berkas melalui browser.
 
 ---
 
-<a href="https://github.com/chatwoot/chatwoot"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)**  
+[![chatwoot/chatwoot](https://img.shields.io/badge/chatwoot%2Fchatwoot-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chatwoot/chatwoot) [![⭐ 37,860](https://img.shields.io/badge/⭐-37860-b8860b?style=for-the-badge)](https://github.com/chatwoot/chatwoot)  
 <sub>Bahasa: Ruby</sub>  
 Platform layanan pelanggan multi-kanal untuk live chat, email, dan pengelolaan percakapan dukungan.
 
 ---
 
-<a href="https://github.com/glanceapp/glance"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[glanceapp/glance](https://github.com/glanceapp/glance)**  
+[![glanceapp/glance](https://img.shields.io/badge/glanceapp%2Fglance-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glanceapp/glance) [![⭐ 37,524](https://img.shields.io/badge/⭐-37524-b8860b?style=for-the-badge)](https://github.com/glanceapp/glance)  
 <sub>Bahasa: Go</sub>  
 Dashboard mandiri untuk mengumpulkan berbagai feed dan sumber informasi ke dalam satu tampilan.
 
 ---
 
-<a href="https://github.com/dgtlmoon/changedetection.io"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)**  
+[![dgtlmoon/changedetection.io](https://img.shields.io/badge/dgtlmoon%2Fchangedetection.io-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dgtlmoon/changedetection.io) [![⭐ 35,061](https://img.shields.io/badge/⭐-35061-b8860b?style=for-the-badge)](https://github.com/dgtlmoon/changedetection.io)  
 <sub>Bahasa: Python</sub>  
 Pemantau perubahan halaman web untuk mendeteksi pembaruan konten, penurunan harga, stok kembali, atau perubahan tak diinginkan.
 
 ---
 
-<a href="https://github.com/actualbudget/actual"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[actualbudget/actual](https://github.com/actualbudget/actual)**  
+[![actualbudget/actual](https://img.shields.io/badge/actualbudget%2Factual-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/actualbudget/actual) [![⭐ 29,542](https://img.shields.io/badge/⭐-29542-b8860b?style=for-the-badge)](https://github.com/actualbudget/actual)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi pengelolaan keuangan pribadi yang mengutamakan penyimpanan lokal dan penganggaran.
 
 ---
 
-<a href="https://github.com/we-promise/sure"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[we-promise/sure](https://github.com/we-promise/sure)**  
+[![we-promise/sure](https://img.shields.io/badge/we--promise%2Fsure-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/we-promise/sure) [![⭐ 10,532](https://img.shields.io/badge/⭐-10532-b8860b?style=for-the-badge)](https://github.com/we-promise/sure)  
 <sub>Bahasa: Ruby</sub>  
 Aplikasi keuangan pribadi untuk mencatat dan memantau kondisi keuangan secara mandiri.
 
 ---
 
-<a href="https://github.com/openbao/openbao"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[openbao/openbao](https://github.com/openbao/openbao)**  
+[![openbao/openbao](https://img.shields.io/badge/openbao%2Fopenbao-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openbao/openbao) [![⭐ 8,477](https://img.shields.io/badge/⭐-8477-b8860b?style=for-the-badge)](https://github.com/openbao/openbao)  
 <sub>Bahasa: Go</sub>  
 Sistem untuk menyimpan, mengelola, dan mendistribusikan rahasia, sertifikat, serta kunci dengan aman.
 
@@ -978,127 +978,127 @@ Sistem untuk menyimpan, mengelola, dan mendistribusikan rahasia, sertifikat, ser
 
 Utilitas untuk coding, Git, API, terminal, konversi berkas, Android, clipboard, serta pekerjaan teknis sehari-hari.
 
-<a href="https://github.com/microsoft/markitdown"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[microsoft/markitdown](https://github.com/microsoft/markitdown)**  
+[![microsoft/markitdown](https://img.shields.io/badge/microsoft%2Fmarkitdown-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/markitdown) [![⭐ 190,547](https://img.shields.io/badge/⭐-190547-b8860b?style=for-the-badge)](https://github.com/microsoft/markitdown)  
 <sub>Bahasa: Python</sub>  
 Alat Python untuk mengonversi dokumen dan berkas Office ke format Markdown agar mudah diproses atau dianalisis AI.
 
 ---
 
-<a href="https://github.com/Genymobile/scrcpy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**  
+[![Genymobile/scrcpy](https://img.shields.io/badge/Genymobile%2Fscrcpy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Genymobile/scrcpy) [![⭐ 152,315](https://img.shields.io/badge/⭐-152315-b8860b?style=for-the-badge)](https://github.com/Genymobile/scrcpy)  
 <sub>Bahasa: C</sub>  
 Menampilkan layar perangkat Android di komputer sekaligus mengontrolnya melalui mouse dan keyboard.
 
 ---
 
-<a href="https://github.com/localsend/localsend"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[localsend/localsend](https://github.com/localsend/localsend)**  
+[![localsend/localsend](https://img.shields.io/badge/localsend%2Flocalsend-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/localsend/localsend) [![⭐ 94,569](https://img.shields.io/badge/⭐-94569-b8860b?style=for-the-badge)](https://github.com/localsend/localsend)  
 <sub>Bahasa: Dart</sub>  
 Aplikasi berbagi berkas lintas platform di jaringan lokal sebagai alternatif AirDrop.
 
 ---
 
-<a href="https://github.com/astral-sh/uv"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[astral-sh/uv](https://github.com/astral-sh/uv)**  
+[![astral-sh/uv](https://img.shields.io/badge/astral--sh%2Fuv-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astral-sh/uv) [![⭐ 90,815](https://img.shields.io/badge/⭐-90815-b8860b?style=for-the-badge)](https://github.com/astral-sh/uv)  
 <sub>Bahasa: Rust</sub>  
 Manajer paket dan proyek Python yang sangat cepat untuk mengelola dependensi serta lingkungan kerja.
 
 ---
 
-<a href="https://github.com/hoppscotch/hoppscotch"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)**  
+[![hoppscotch/hoppscotch](https://img.shields.io/badge/hoppscotch%2Fhoppscotch-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoppscotch/hoppscotch) [![⭐ 80,636](https://img.shields.io/badge/⭐-80636-b8860b?style=for-the-badge)](https://github.com/hoppscotch/hoppscotch)  
 <sub>Bahasa: TypeScript</sub>  
 Alat pengembangan dan pengujian API lintas web, desktop, dan CLI, sebagai alternatif Postman atau Insomnia.
 
 ---
 
-<a href="https://github.com/ventoy/Ventoy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ventoy/Ventoy](https://github.com/ventoy/Ventoy)**  
+[![ventoy/Ventoy](https://img.shields.io/badge/ventoy%2FVentoy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ventoy/Ventoy) [![⭐ 80,085](https://img.shields.io/badge/⭐-80085-b8860b?style=for-the-badge)](https://github.com/ventoy/Ventoy)  
 <sub>Bahasa: C</sub>  
 Alat untuk membuat USB bootable yang dapat menyimpan banyak berkas ISO tanpa perlu memformat ulang untuk setiap ISO.
 
 ---
 
-<a href="https://github.com/termux/termux-app"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[termux/termux-app](https://github.com/termux/termux-app)**  
+[![termux/termux-app](https://img.shields.io/badge/termux%2Ftermux--app-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/termux/termux-app) [![⭐ 62,741](https://img.shields.io/badge/⭐-62741-b8860b?style=for-the-badge)](https://github.com/termux/termux-app)  
 <sub>Bahasa: Java</sub>  
 Terminal Android yang dapat diperluas dengan paket Linux untuk menjalankan alat pengembangan langsung di ponsel.
 
 ---
 
-<a href="https://github.com/tw93/Pake"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[tw93/Pake](https://github.com/tw93/Pake)**  
+[![tw93/Pake](https://img.shields.io/badge/tw93%2FPake-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tw93/Pake) [![⭐ 62,134](https://img.shields.io/badge/⭐-62134-b8860b?style=for-the-badge)](https://github.com/tw93/Pake)  
 <sub>Bahasa: Rust</sub>  
 Mengemas situs web menjadi aplikasi desktop yang ringan dan cepat.
 
 ---
 
-<a href="https://github.com/sharkdp/bat"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[sharkdp/bat](https://github.com/sharkdp/bat)**  
+[![sharkdp/bat](https://img.shields.io/badge/sharkdp%2Fbat-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharkdp/bat) [![⭐ 60,804](https://img.shields.io/badge/⭐-60804-b8860b?style=for-the-badge)](https://github.com/sharkdp/bat)  
 <sub>Bahasa: Rust</sub>  
 Pengganti perintah `cat` dengan pewarnaan sintaks dan tampilan berkas yang lebih nyaman.
 
 ---
 
-<a href="https://github.com/usebruno/bruno"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[usebruno/bruno](https://github.com/usebruno/bruno)**  
+[![usebruno/bruno](https://img.shields.io/badge/usebruno%2Fbruno-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usebruno/bruno) [![⭐ 47,686](https://img.shields.io/badge/⭐-47686-b8860b?style=for-the-badge)](https://github.com/usebruno/bruno)  
 <sub>Bahasa: JavaScript</sub>  
 Aplikasi untuk menjelajah, mengirim, dan menguji permintaan API secara lokal sebagai alternatif Postman.
 
 ---
 
-<a href="https://github.com/cli/cli"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[cli/cli](https://github.com/cli/cli)**  
+[![cli/cli](https://img.shields.io/badge/cli%2Fcli-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cli/cli) [![⭐ 46,667](https://img.shields.io/badge/⭐-46667-b8860b?style=for-the-badge)](https://github.com/cli/cli)  
 <sub>Bahasa: Go</sub>  
 CLI resmi GitHub untuk mengelola repositori, issue, pull request, dan aktivitas GitHub dari terminal.
 
 ---
 
-<a href="https://github.com/CorentinTh/it-tools"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)**  
+[![CorentinTh/it-tools](https://img.shields.io/badge/CorentinTh%2Fit--tools-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorentinTh/it-tools) [![⭐ 40,866](https://img.shields.io/badge/⭐-40866-b8860b?style=for-the-badge)](https://github.com/CorentinTh/it-tools)  
 <sub>Bahasa: Vue</sub>  
 Kumpulan utilitas web untuk pekerjaan developer, seperti konversi, encoding, dan pemeriksaan data.
 
 ---
 
-<a href="https://github.com/gchq/CyberChef"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[gchq/CyberChef](https://github.com/gchq/CyberChef)**  
+[![gchq/CyberChef](https://img.shields.io/badge/gchq%2FCyberChef-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gchq/CyberChef) [![⭐ 36,135](https://img.shields.io/badge/⭐-36135-b8860b?style=for-the-badge)](https://github.com/gchq/CyberChef)  
 <sub>Bahasa: JavaScript</sub>  
 Toolkit web untuk mengubah, mengodekan, mendekodekan, mengompres, dan menganalisis data.
 
 ---
 
-<a href="https://github.com/qarmin/czkawka"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[qarmin/czkawka](https://github.com/qarmin/czkawka)**  
+[![qarmin/czkawka](https://img.shields.io/badge/qarmin%2Fczkawka-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qarmin/czkawka) [![⭐ 34,284](https://img.shields.io/badge/⭐-34284-b8860b?style=for-the-badge)](https://github.com/qarmin/czkawka)  
 <sub>Bahasa: Fluent</sub>  
 Aplikasi untuk menemukan berkas duplikat, folder kosong, gambar serupa, dan berkas yang tidak diperlukan.
 
 ---
 
-<a href="https://github.com/cjpais/Handy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[cjpais/Handy](https://github.com/cjpais/Handy)**  
+[![cjpais/Handy](https://img.shields.io/badge/cjpais%2FHandy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjpais/Handy) [![⭐ 33,946](https://img.shields.io/badge/⭐-33946-b8860b?style=for-the-badge)](https://github.com/cjpais/Handy)  
 <sub>Bahasa: Rust</sub>  
 Aplikasi open-source untuk mengubah ucapan menjadi teks sepenuhnya offline.
 
 ---
 
-<a href="https://github.com/DevToys-app/DevToys"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)**  
+[![DevToys-app/DevToys](https://img.shields.io/badge/DevToys--app%2FDevToys-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevToys-app/DevToys) [![⭐ 32,083](https://img.shields.io/badge/⭐-32083-b8860b?style=for-the-badge)](https://github.com/DevToys-app/DevToys)  
 <sub>Bahasa: C#</sub>  
 Kumpulan utilitas desktop bagi developer, seperti konverter, encoder, formatter, dan pembuat hash.
 
 ---
 
-<a href="https://github.com/cmderdev/cmder"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[cmderdev/cmder](https://github.com/cmderdev/cmder)**  
+[![cmderdev/cmder](https://img.shields.io/badge/cmderdev%2Fcmder-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmderdev/cmder) [![⭐ 27,006](https://img.shields.io/badge/⭐-27006-b8860b?style=for-the-badge)](https://github.com/cmderdev/cmder)  
 <sub>Bahasa: PowerShell</sub>  
 Paket emulator terminal Windows dengan lingkungan baris perintah yang lebih nyaman dan portabel.
 
 ---
 
-<a href="https://github.com/yorukot/superfile"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[yorukot/superfile](https://github.com/yorukot/superfile)**  
+[![yorukot/superfile](https://img.shields.io/badge/yorukot%2Fsuperfile-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yorukot/superfile) [![⭐ 23,837](https://img.shields.io/badge/⭐-23837-b8860b?style=for-the-badge)](https://github.com/yorukot/superfile)  
 <sub>Bahasa: Go</sub>  
 Pengelola berkas modern di terminal untuk menavigasi folder dan mengatur berkas dengan cepat.
 
 ---
 
-<a href="https://github.com/brunodev85/winlator"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[brunodev85/winlator](https://github.com/brunodev85/winlator)**  
+[![brunodev85/winlator](https://img.shields.io/badge/brunodev85%2Fwinlator-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunodev85/winlator) [![⭐ 19,485](https://img.shields.io/badge/⭐-19485-b8860b?style=for-the-badge)](https://github.com/brunodev85/winlator)  
 <sub>Bahasa: C</sub>  
 Aplikasi Android untuk menjalankan sebagian aplikasi Windows melalui lapisan kompatibilitas Wine dan Box86/Box64.
 
 ---
 
-<a href="https://github.com/hluk/CopyQ"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[hluk/CopyQ](https://github.com/hluk/CopyQ)**  
+[![hluk/CopyQ](https://img.shields.io/badge/hluk%2FCopyQ-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hluk/CopyQ) [![⭐ 12,486](https://img.shields.io/badge/⭐-12486-b8860b?style=for-the-badge)](https://github.com/hluk/CopyQ)  
 <sub>Bahasa: C++</sub>  
 Pengelola clipboard dengan riwayat dan fitur lanjutan untuk menyimpan serta menggunakan ulang salinan teks atau data.
 
 ---
 
-<a href="https://github.com/git-bug/git-bug"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[git-bug/git-bug](https://github.com/git-bug/git-bug)**  
+[![git-bug/git-bug](https://img.shields.io/badge/git--bug%2Fgit--bug-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-bug/git-bug) [![⭐ 10,772](https://img.shields.io/badge/⭐-10772-b8860b?style=for-the-badge)](https://github.com/git-bug/git-bug)  
 <sub>Bahasa: Go</sub>  
 Pelacak bug terdistribusi yang terintegrasi dengan Git dan dapat digunakan secara offline.
 
@@ -1116,43 +1116,43 @@ Pelacak bug terdistribusi yang terintegrasi dengan Git dan dapat digunakan secar
 
 Kurikulum, buku, tutorial, katalog API, dan materi untuk belajar pemrograman, desain sistem, atau layanan self-hosted.
 
-<a href="https://github.com/public-apis/public-apis"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[public-apis/public-apis](https://github.com/public-apis/public-apis)**  
+[![public-apis/public-apis](https://img.shields.io/badge/public--apis%2Fpublic--apis-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/public-apis/public-apis) [![⭐ 489,374](https://img.shields.io/badge/⭐-489374-b8860b?style=for-the-badge)](https://github.com/public-apis/public-apis)  
 <sub>Bahasa: Python</sub>  
 Direktori API publik yang dapat digunakan untuk belajar, membuat prototipe, dan mengintegrasikan layanan.
 
 ---
 
-<a href="https://github.com/EbookFoundation/free-programming-books"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)**  
+[![EbookFoundation/free-programming-books](https://img.shields.io/badge/EbookFoundation%2Ffree--programming--books-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbookFoundation/free-programming-books) [![⭐ 399,187](https://img.shields.io/badge/⭐-399187-b8860b?style=for-the-badge)](https://github.com/EbookFoundation/free-programming-books)  
 <sub>Bahasa: Python</sub>  
 Kumpulan buku pemrograman gratis yang dapat diakses untuk belajar berbagai bahasa dan topik teknis.
 
 ---
 
-<a href="https://github.com/donnemartin/system-design-primer"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)**  
+[![donnemartin/system-design-primer](https://img.shields.io/badge/donnemartin%2Fsystem--design--primer-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donnemartin/system-design-primer) [![⭐ 374,416](https://img.shields.io/badge/⭐-374416-b8860b?style=for-the-badge)](https://github.com/donnemartin/system-design-primer)  
 <sub>Bahasa: Python</sub>  
 Panduan mempelajari desain sistem berskala besar, dilengkapi konsep inti dan kartu belajar Anki.
 
 ---
 
-<a href="https://github.com/awesome-selfhosted/awesome-selfhosted"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**  
+[![awesome-selfhosted/awesome-selfhosted](https://img.shields.io/badge/awesome--selfhosted%2Fawesome--selfhosted-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awesome-selfhosted/awesome-selfhosted) [![⭐ 327,221](https://img.shields.io/badge/⭐-327221-b8860b?style=for-the-badge)](https://github.com/awesome-selfhosted/awesome-selfhosted)  
 <sub>Bahasa: -</sub>  
 Katalog perangkat lunak gratis dan layanan jaringan yang dapat dijalankan di server sendiri.
 
 ---
 
-<a href="https://github.com/practical-tutorials/project-based-learning"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)**  
+[![practical-tutorials/project-based-learning](https://img.shields.io/badge/practical--tutorials%2Fproject--based--learning-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/practical-tutorials/project-based-learning) [![⭐ 286,885](https://img.shields.io/badge/⭐-286885-b8860b?style=for-the-badge)](https://github.com/practical-tutorials/project-based-learning)  
 <sub>Bahasa: Python</sub>  
 Daftar tutorial berbasis proyek untuk mempelajari pemrograman melalui pembuatan aplikasi nyata.
 
 ---
 
-<a href="https://github.com/ripienaar/free-for-dev"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)**  
+[![ripienaar/free-for-dev](https://img.shields.io/badge/ripienaar%2Ffree--for--dev-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ripienaar/free-for-dev) [![⭐ 139,642](https://img.shields.io/badge/⭐-139642-b8860b?style=for-the-badge)](https://github.com/ripienaar/free-for-dev)  
 <sub>Bahasa: HTML</sub>  
 Daftar layanan SaaS, PaaS, dan IaaS yang menyediakan paket gratis yang relevan bagi developer.
 
 ---
 
-<a href="https://github.com/THU-MAIC/OpenMAIC"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)**  
+[![THU-MAIC/OpenMAIC](https://img.shields.io/badge/THU--MAIC%2FOpenMAIC-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THU-MAIC/OpenMAIC) [![⭐ 40,887](https://img.shields.io/badge/⭐-40887-b8860b?style=for-the-badge)](https://github.com/THU-MAIC/OpenMAIC)  
 <sub>Bahasa: TypeScript</sub>  
 Kelas interaktif berbasis beberapa agen AI untuk menghadirkan pengalaman belajar yang lebih imersif.
 
@@ -1170,19 +1170,19 @@ Kelas interaktif berbasis beberapa agen AI untuk menghadirkan pengalaman belajar
 
 Aplikasi dan framework Android, termasuk otomasi layar, komponen dinamis, dan akses alternatif ke layanan video.
 
-<a href="https://github.com/gkd-kit/gkd"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[gkd-kit/gkd](https://github.com/gkd-kit/gkd)**  
+[![gkd-kit/gkd](https://img.shields.io/badge/gkd--kit%2Fgkd-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkd-kit/gkd) [![⭐ 42,930](https://img.shields.io/badge/⭐-42930-b8860b?style=for-the-badge)](https://github.com/gkd-kit/gkd)  
 <sub>Bahasa: Kotlin</sub>  
 Aplikasi Android untuk mengotomatisasi ketukan layar berdasarkan aturan, selector aksesibilitas, dan langganan konfigurasi.
 
 ---
 
-<a href="https://github.com/alibaba/atlas"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[alibaba/atlas](https://github.com/alibaba/atlas)**  
+[![alibaba/atlas](https://img.shields.io/badge/alibaba%2Fatlas-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alibaba/atlas) [![⭐ 8,149](https://img.shields.io/badge/⭐-8149-b8860b?style=for-the-badge)](https://github.com/alibaba/atlas)  
 <sub>Bahasa: Java</sub>  
 Framework Android untuk memuat dan mengelola komponen aplikasi secara dinamis.
 
 ---
 
-<a href="https://github.com/InfinityLoop1308/PipePipe"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)**  
+[![InfinityLoop1308/PipePipe](https://img.shields.io/badge/InfinityLoop1308%2FPipePipe-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InfinityLoop1308/PipePipe) [![⭐ 7,018](https://img.shields.io/badge/⭐-7018-b8860b?style=for-the-badge)](https://github.com/InfinityLoop1308/PipePipe)  
 <sub>Bahasa: Shell</sub>  
 Aplikasi Android open-source untuk menjelajahi YouTube dan layanan video lain melalui antarmuka alternatif.
 
@@ -1200,91 +1200,91 @@ Aplikasi Android open-source untuk menjelajahi YouTube dan layanan video lain me
 
 Proyek lintas kategori seperti rekayasa balik, pengelolaan agen, pengindeksan dokumen, scraping, dan utilitas berkas.
 
-<a href="https://github.com/morluto/rea"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[morluto/rea](https://github.com/morluto/rea)**  
+[![morluto/rea](https://img.shields.io/badge/morluto%2Frea-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morluto/rea) [![⭐ 285,801](https://img.shields.io/badge/⭐-285801-b8860b?style=for-the-badge)](https://github.com/morluto/rea)  
 <sub>Bahasa: TypeScript</sub>  
 Alat rekayasa balik berbantuan agen untuk memahami perilaku aplikasi hingga komponen biner native.
 
 ---
 
-<a href="https://github.com/github/spec-kit"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[github/spec-kit](https://github.com/github/spec-kit)**  
+[![github/spec-kit](https://img.shields.io/badge/github%2Fspec--kit-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/spec-kit) [![⭐ 141,526](https://img.shields.io/badge/⭐-141526-b8860b?style=for-the-badge)](https://github.com/github/spec-kit)  
 <sub>Bahasa: Python</sub>  
 Toolkit untuk memulai pengembangan perangkat lunak berbasis spesifikasi, sehingga kebutuhan ditulis sebelum implementasi.
 
 ---
 
-<a href="https://github.com/paperclipai/paperclip"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)**  
+[![paperclipai/paperclip](https://img.shields.io/badge/paperclipai%2Fpaperclip-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paperclipai/paperclip) [![⭐ 103,039](https://img.shields.io/badge/⭐-103039-b8860b?style=for-the-badge)](https://github.com/paperclipai/paperclip)  
 <sub>Bahasa: TypeScript</sub>  
 Aplikasi open-source untuk mengatur pekerjaan, koordinasi, dan pengelolaan agen AI dalam sebuah tim.
 
 ---
 
-<a href="https://github.com/stablyai/orca"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[stablyai/orca](https://github.com/stablyai/orca)**  
+[![stablyai/orca](https://img.shields.io/badge/stablyai%2Forca-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stablyai/orca) [![⭐ 94,219](https://img.shields.io/badge/⭐-94219-b8860b?style=for-the-badge)](https://github.com/stablyai/orca)  
 <sub>Bahasa: TypeScript</sub>  
 Lingkungan untuk menjalankan banyak agen coding secara paralel menggunakan langganan AI sendiri di desktop, ponsel, atau runtime jarak jauh.
 
 ---
 
-<a href="https://github.com/omacom/omarchy"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[omacom/omarchy](https://github.com/omacom/omarchy)**  
+[![omacom/omarchy](https://img.shields.io/badge/omacom%2Fomarchy-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omacom/omarchy) [![⭐ 44,939](https://img.shields.io/badge/⭐-44939-b8860b?style=for-the-badge)](https://github.com/omacom/omarchy)  
 <sub>Bahasa: Shell</sub>  
 Konfigurasi Linux yang sudah dirancang dengan tampilan modern dan pilihan bawaan yang opiniated.
 
 ---
 
-<a href="https://github.com/VectifyAI/PageIndex"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)**  
+[![VectifyAI/PageIndex](https://img.shields.io/badge/VectifyAI%2FPageIndex-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VectifyAI/PageIndex) [![⭐ 39,171](https://img.shields.io/badge/⭐-39171-b8860b?style=for-the-badge)](https://github.com/VectifyAI/PageIndex)  
 <sub>Bahasa: Python</sub>  
 Pendekatan pengindeksan dokumen untuk RAG yang mengandalkan struktur dokumen dan penalaran, bukan basis data vektor.
 
 ---
 
-<a href="https://github.com/block/buzz"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[block/buzz](https://github.com/block/buzz)**  
+[![block/buzz](https://img.shields.io/badge/block%2Fbuzz-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/block/buzz) [![⭐ 36,051](https://img.shields.io/badge/⭐-36051-b8860b?style=for-the-badge)](https://github.com/block/buzz)  
 <sub>Bahasa: Rust</sub>  
 Platform komunikasi berbasis konsep hive mind untuk menghubungkan percakapan dan kolaborasi.
 
 ---
 
-<a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)**  
+[![ScrapeGraphAI/Scrapegraph-ai](https://img.shields.io/badge/ScrapeGraphAI%2FScrapegraph--ai-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai) [![⭐ 31,809](https://img.shields.io/badge/⭐-31809-b8860b?style=for-the-badge)](https://github.com/ScrapeGraphAI/Scrapegraph-ai)  
 <sub>Bahasa: Python</sub>  
 Pustaka scraping Python yang memanfaatkan AI untuk mengekstrak informasi dari situs web.
 
 ---
 
-<a href="https://github.com/NVIDIA/OpenShell"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)**  
+[![NVIDIA/OpenShell](https://img.shields.io/badge/NVIDIA%2FOpenShell-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NVIDIA/OpenShell) [![⭐ 16,413](https://img.shields.io/badge/⭐-16413-b8860b?style=for-the-badge)](https://github.com/NVIDIA/OpenShell)  
 <sub>Bahasa: Rust</sub>  
 Runtime yang berfokus pada privasi dan keamanan untuk menjalankan agen AI otonom.
 
 ---
 
-<a href="https://github.com/VERT-sh/VERT"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[VERT-sh/VERT](https://github.com/VERT-sh/VERT)**  
+[![VERT-sh/VERT](https://img.shields.io/badge/VERT--sh%2FVERT-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VERT-sh/VERT) [![⭐ 15,983](https://img.shields.io/badge/⭐-15983-b8860b?style=for-the-badge)](https://github.com/VERT-sh/VERT)  
 <sub>Bahasa: TypeScript</sub>  
 Konverter berkas open-source yang memproses berkas secara lokal, tanpa biaya, dan tanpa perlu mengunggahnya ke server.
 
 ---
 
-<a href="https://github.com/megadose/holehe"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[megadose/holehe](https://github.com/megadose/holehe)**  
+[![megadose/holehe](https://img.shields.io/badge/megadose%2Fholehe-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/megadose/holehe) [![⭐ 15,213](https://img.shields.io/badge/⭐-15213-b8860b?style=for-the-badge)](https://github.com/megadose/holehe)  
 <sub>Bahasa: Python</sub>  
 Alat OSINT untuk memeriksa apakah alamat email terdaftar pada berbagai situs melalui mekanisme pemulihan akun.
 
 ---
 
-<a href="https://github.com/jo-inc/camofox-browser"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)**  
+[![jo-inc/camofox-browser](https://img.shields.io/badge/jo--inc%2Fcamofox--browser-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jo-inc/camofox-browser) [![⭐ 11,628](https://img.shields.io/badge/⭐-11628-b8860b?style=for-the-badge)](https://github.com/jo-inc/camofox-browser)  
 <sub>Bahasa: JavaScript</sub>  
 Browser headless untuk agen AI yang dirancang menghadapi sistem deteksi bot dan dapat dipakai sebagai pengganti Puppeteer/Playwright.
 
 ---
 
-<a href="https://github.com/braedonsaunders/codeflow"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow)**  
+[![braedonsaunders/codeflow](https://img.shields.io/badge/braedonsaunders%2Fcodeflow-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braedonsaunders/codeflow) [![⭐ 5,421](https://img.shields.io/badge/⭐-5421-b8860b?style=for-the-badge)](https://github.com/braedonsaunders/codeflow)  
 <sub>Bahasa: HTML</sub>  
 Peta arsitektur interaktif dari URL GitHub untuk melihat hubungan antarfile dan memahami dampak perubahan kode.
 
 ---
 
-<a href="https://github.com/atria-asi/Atria-Dawn"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[atria-asi/Atria-Dawn](https://github.com/atria-asi/Atria-Dawn)**  
+[![atria-asi/Atria-Dawn](https://img.shields.io/badge/atria--asi%2FAtria--Dawn-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atria-asi/Atria-Dawn) [![⭐ 611](https://img.shields.io/badge/⭐-611-b8860b?style=for-the-badge)](https://github.com/atria-asi/Atria-Dawn)  
 <sub>Bahasa: -</sub>  
 Deskripsi sumber belum tersedia; buka repositori untuk memeriksa tujuan, fitur, dan petunjuk penggunaan resminya.
 
 ---
 
-<a href="https://github.com/LuxAlgo/trade-journal"><img src="./assets/star-emblem.svg" width="32" height="32" alt="⭐ Starred" /></a> **[LuxAlgo/trade-journal](https://github.com/LuxAlgo/trade-journal)**  
+[![LuxAlgo/trade-journal](https://img.shields.io/badge/LuxAlgo%2Ftrade--journal-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuxAlgo/trade-journal) [![⭐ 490](https://img.shields.io/badge/⭐-490-b8860b?style=for-the-badge)](https://github.com/LuxAlgo/trade-journal)  
 <sub>Bahasa: TypeScript</sub>  
 Jurnal trading yang dapat di-host sendiri dengan sinkronisasi broker, kalender untung-rugi, analitik, dan refleksi berbantuan AI.
 
