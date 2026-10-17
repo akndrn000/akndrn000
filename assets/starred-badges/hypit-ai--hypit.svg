@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="36" viewBox="0 0 480 36" role="img" aria-label="hypit-ai/hypit, 22,804 stars">
+<rect x="0.5" y="0.5" width="332" height="35" rx="6" fill="#24292f" stroke="#57606a"/>
+<rect x="333.5" y="0.5" width="146" height="35" rx="6" fill="#24292f" stroke="#57606a"/>
+<path d="M333 6v24" stroke="#57606a"/>
+<path d="M22 7 25 13 32 14 27 19 28 26 22 22.5 16 26 17 19 12 14 19 13z" fill="#f4c542"/>
+<text x="40" y="22.5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#ffffff" textLength="100.8" lengthAdjust="spacingAndGlyphs">hypit-ai/hypit</text>
+<path d="M351 18l5 5 5-5-5-5z" fill="#f4c542"/>
+<text x="370" y="22.5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#ffffff">22,804</text>
+</svg>
