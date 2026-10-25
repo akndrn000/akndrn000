@@ -117,34 +117,34 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/akndrn000/stockmeta"><img src="./assets/stockmeta-preview.svg" width="100%" alt="Preview antarmuka StockMeta" /></a>
-      <h3><a href="https://github.com/akndrn000/stockmeta">StockMeta ↗</a></h3>
-      <p><strong>AI-assisted stock photo metadata.</strong> Membantu kreator menyiapkan judul, keyword, dan kategori untuk foto stok dalam batch, lalu mengekspor hasil ke CSV.</p>
-      <p><a href="https://stockmeta-one.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/stockmeta">Source code</a></p>
-      <sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+      <a href="https://github.com/DURIAN-ORGANISASI/rigforge"><img src="./assets/rigforge-preview.svg" width="100%" alt="Ilustrasi workspace RigForge" /></a>
+      <h3><a href="https://github.com/DURIAN-ORGANISASI/rigforge">RigForge ↗</a></h3>
+      <p><strong>Browser-based Roblox avatar converter.</strong> Mengubah data avatar menjadi struktur Lua yang rapi. Satu workspace menyediakan konverter avatar dan Relay untuk konfigurasi Discord Bot secara terpisah.</p>
+      <p><a href="https://rigforge-mocha.vercel.app/">Buka aplikasi</a> · <a href="https://github.com/DURIAN-ORGANISASI/rigforge">Source code</a></p>
+      <sub>Next.js · React · TypeScript · Vitest</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/akndrn000/rigforge"><img src="./assets/rigforge-preview.svg" width="100%" alt="Preview antarmuka RigForge" /></a>
-      <h3><a href="https://github.com/akndrn000/rigforge">RigForge ↗</a></h3>
-      <p><strong>Roblox avatar data converter.</strong> Mengubah data avatar menjadi Lua yang lebih mudah dibaca, langsung di browser tanpa perlu akun.</p>
-      <p><a href="https://rigforge-lemon.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/rigforge">Source code</a></p>
-      <sub>Vite · React · TypeScript · Lua</sub>
+      <a href="https://github.com/DURIAN-ORGANISASI/hermes-railway"><img src="./assets/hermes-railway-preview.svg" width="100%" alt="Ilustrasi mode deployment Hermes Agent Railway" /></a>
+      <h3><a href="https://github.com/DURIAN-ORGANISASI/hermes-railway">Hermes Agent Railway ↗</a></h3>
+      <p><strong>Deployment starter for Hermes Agent.</strong> Menyediakan tiga pilihan deployment—Dashboard, Railway Variables, dan Ubuntu Terminal—dengan panduan penyimpanan persisten, variabel lingkungan, dan keamanan.</p>
+      <p><a href="https://github.com/DURIAN-ORGANISASI/hermes-railway">Repository &amp; deployment guide</a></p>
+      <sub>Docker · Railway · Hermes Agent</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/akndrn000/relay"><img src="./assets/relay-preview.svg" width="100%" alt="Preview antarmuka Relay" /></a>
-      <h3><a href="https://github.com/akndrn000/relay">Relay ↗</a></h3>
-      <p><strong>Scoped Discord messaging.</strong> Mengirim pesan melalui bot Discord resmi dengan tujuan channel yang dibatasi dan perhatian pada keamanan token.</p>
-      <p><a href="https://relay-eosin-five.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/relay">Source code</a></p>
-      <sub>Next.js · TypeScript · Discord API</sub>
+      <a href="https://github.com/DURIAN-ORGANISASI/n8n-railway"><img src="./assets/n8n-railway-preview.svg" width="100%" alt="Ilustrasi arsitektur n8n dan PostgreSQL di Railway" /></a>
+      <h3><a href="https://github.com/DURIAN-ORGANISASI/n8n-railway">n8n Railway Starter ↗</a></h3>
+      <p><strong>Self-hosted workflow automation.</strong> Starter untuk menjalankan n8n dan PostgreSQL sebagai service terpisah di Railway, dengan volume persisten, konfigurasi contoh, dan catatan keamanan.</p>
+      <p><a href="https://github.com/DURIAN-ORGANISASI/n8n-railway">Repository &amp; setup guide</a></p>
+      <sub>n8n · PostgreSQL · Docker · Railway</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/akndrn000/my-hermes-agent"><img src="./assets/hermes-preview.svg" width="100%" alt="Preview konsep My Hermes Agent" /></a>
-      <h3><a href="https://github.com/akndrn000/my-hermes-agent">My Hermes Agent ↗</a></h3>
-      <p><strong>Personal AI assistant.</strong> Konfigurasi bot AI untuk Telegram dan Discord, dilengkapi panduan deployment berbasis Docker/Railway serta catatan keamanan.</p>
-      <p><a href="https://github.com/akndrn000/my-hermes-agent">Repository & deployment guide</a></p>
-      <sub>Python · Docker · Telegram · Discord</sub>
+      <a href="https://github.com/akndrn000/opencode-telegram-bot"><img src="./assets/opencode-telegram-preview.svg" width="100%" alt="Ilustrasi kontrol sesi coding OpenCode melalui Telegram" /></a>
+      <h3><a href="https://github.com/akndrn000/opencode-telegram-bot">OpenCode Telegram Bot ↗</a></h3>
+      <p><strong>Remote control for AI coding sessions.</strong> Fork yang mengeksplorasi alur kerja coding jarak jauh melalui Telegram, termasuk pengelolaan sesi dan pemantauan progres, sementara OpenCode berjalan di mesin sendiri.</p>
+      <p><a href="https://github.com/akndrn000/opencode-telegram-bot">Repository fork</a> · <a href="https://github.com/grinev/opencode-telegram-bot">Upstream project</a></p>
+      <sub>Node.js · OpenCode · Telegram Bot API</sub>
     </td>
   </tr>
 </table>
