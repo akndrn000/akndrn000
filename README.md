@@ -30,7 +30,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
 
 </div>
 
-<table width="100%" cellpadding="14" cellspacing="0">
+<table width="100%" style="width:100%; table-layout:fixed;" cellpadding="14" cellspacing="0">
   <tr>
     <td width="50%" valign="middle" align="center">
       <h3>🤖 AI Agents &amp; Coding Assistants</h3>
