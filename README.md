@@ -24,9 +24,9 @@ Membangun alat digital yang praktis, alur kerja yang lebih efisien, dan integras
 
 ### **375 REPOSITORY · 11 KATEGORI**
 
-Koleksi open-source pilihan untuk AI, pengembangan web, desain, otomasi, dan tooling developer.
+Katalog 375 repository open-source pilihan untuk AI, coding, desain, otomasi, multimedia, infrastruktur, dan produktivitas developer.
 
-Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah star, dan bahasa pemrogramannya.
+Setiap entri memiliki penjelasan berbahasa Indonesia tentang fungsi serta kegunaan praktis proyek, disertai tautan ke sumber asli, jumlah star yang tercatat, dan bahasa pemrograman. Pilih kategori di bawah untuk menjelajahi katalog.
 
 </div>
 
