@@ -173,35 +173,6 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
 
 ---
 
-## 🧰 Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,python,lua,html,css&perline=10" alt="Bahasa pemrograman dan teknologi web" />
-<br />
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,npm,vitest,linux,bash&perline=9" alt="Tooling, deployment, dan developer workflow" />
-
-</div>
-
-<table width="100%" style="width:100%; table-layout:fixed;">
-  <tr>
-    <td width="25%"><strong>Web development</strong></td>
-    <td>React · Next.js · Vite · TypeScript · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Automation & APIs</strong></td>
-    <td>Python · Discord API · Telegram Bot · API integrations</td>
-  </tr>
-  <tr>
-    <td><strong>AI tooling</strong></td>
-    <td>LLM integrations · AI agents · Groq · Gemini · OpenAI-compatible APIs</td>
-  </tr>
-  <tr>
-    <td><strong>Quality & delivery</strong></td>
-    <td>Vitest · Pytest · ESLint · Ruff · Docker · Vercel · Railway · GitHub Actions</td>
-  </tr>
-</table>
-
 ---
 
 ## 📈 GitHub Activity
