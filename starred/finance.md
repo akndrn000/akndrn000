@@ -1,21 +1,21 @@
 # 💰 Finance & Trading
 
-> Aplikasi finance, trading agent, dan tools pasar modal.  
+> Aplikasi dan framework untuk riset pasar, analitik finansial, agen AI keuangan, serta eksperimen strategi trading. Konten ini bersifat teknis dan bukan saran investasi.  
 > Total: **3** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)**  
-  FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.  
+  **Fungsi:** Aplikasi finansial dengan alat analisis pasar, riset investasi, serta data ekonomi dalam antarmuka interaktif. Membantu mengumpulkan dan mengeksplorasi informasi untuk analisis; keputusan investasi tetap memerlukan verifikasi mandiri.
   `⭐ 33,055` · `C++`
 
 - **[AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)**  
-  FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models  
+  **Fungsi:** Platform agen AI open-source untuk aplikasi keuangan berbasis model bahasa. Dapat dijadikan bahan eksperimen untuk analisis informasi finansial dan workflow riset pasar.
   `⭐ 8,298` · `Python`
 
 - **[radioman/polymarket-arbitrage-trading-bot](https://github.com/radioman/polymarket-arbitrage-trading-bot)**  
-  Polymarket arbitrage trading bot tool for BTC and ETH 5-minute prediction markets with automated execution, real-time analytics, and smart wallet copy trading. Polymarket trading bot  Polymarket trading bot  Polymarket trading bot  Polymarket arbitrage trading bot  Polymarket trading bot  Polymarket trading bot  Polymarket trading bot Polymarket  
+  **Fungsi:** Bot eksperimen untuk mencari peluang arbitrase pada pasar prediksi Polymarket, termasuk market BTC dan ETH berdurasi pendek. Perdagangan otomatis memiliki risiko finansial, risiko eksekusi, dan risiko perubahan pasar; hasil tidak dijamin.
   `⭐ 547` · `C++`
 
 
