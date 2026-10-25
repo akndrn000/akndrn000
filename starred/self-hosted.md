@@ -1,93 +1,93 @@
 # 🏠 Self-hosted & Infrastructure
 
-> Aplikasi yang bisa di-host sendiri: backend, automation, finance, media server, dll.  
+> Layanan yang dapat dijalankan pada server atau perangkat sendiri, meliputi backend aplikasi, keamanan data, dokumen, komunikasi, dashboard, keuangan, dan media.  
 > Total: **21** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)**  
-  freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  
+  **Fungsi:** Repositori utama freeCodeCamp yang berisi platform dan kurikulum belajar pemrograman, matematika, serta ilmu komputer secara gratis. Cocok sebagai jalur belajar terstruktur dari dasar hingga materi lanjutan.
   `⭐ 457,866` · `TypeScript`
 
 - **[ossu/computer-science](https://github.com/ossu/computer-science)**  
-  🎓 Path to a free self-taught education in Computer Science!  
+  **Fungsi:** Kurikulum mandiri gratis untuk mempelajari ilmu komputer yang disusun dari mata kuliah dan sumber terbuka. Membantu menyusun jalur belajar luas tanpa harus mengikuti program universitas formal.
   `⭐ 210,324` · `HTML`
 
 - **[caddyserver/caddy](https://github.com/caddyserver/caddy)**  
-  Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS  
+  **Fungsi:** Web server lintas platform yang mendukung HTTP/1.1, HTTP/2, HTTP/3, dan pengaturan HTTPS otomatis. Berguna untuk melayani website, reverse proxy, serta mengelola sertifikat TLS dengan konfigurasi ringkas.
   `⭐ 78,371` · `Go`
 
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)**  
-  There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  
+  **Fungsi:** Workspace pengetahuan dan produktivitas yang menggabungkan catatan, dokumen, papan visual, perencanaan, dan kreativitas. Bersifat open-source serta dapat disesuaikan dengan fokus pada privasi dan kontrol data.
   `⭐ 73,806` · `TypeScript`
 
 - **[dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)**  
-  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  
+  **Fungsi:** Server kompatibel Bitwarden yang ditulis dalam Rust dan dapat di-host sendiri. Memungkinkan pengguna mengelola vault kata sandi pribadi, tetapi perlu konfigurasi keamanan, backup, dan pembaruan yang benar.
   `⭐ 69,615` · `Rust`
 
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)**  
-  Open Source realtime backend in 1 file  
+  **Fungsi:** Backend open-source ringkas yang menggabungkan database realtime, autentikasi, API, dan file storage dalam satu aplikasi. Cocok untuk prototipe dan aplikasi kecil yang ingin mengurangi kebutuhan infrastruktur.
   `⭐ 61,596` · `Go`
 
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**  
-  A community-supported supercharged document management system: scan, index and archive all your documents  
+  **Fungsi:** Sistem manajemen dokumen digital untuk mengarsipkan, memberi indeks, dan mencari dokumen hasil pemindaian. Membantu mengurangi tumpukan berkas kertas dengan pencarian teks dan organisasi dokumen.
   `⭐ 47,071` · `Python`
 
 - **[janhq/jan](https://github.com/janhq/jan)**  
-  Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.  
+  **Fungsi:** Aplikasi AI desktop open-source untuk menjalankan model bahasa secara lokal dan digunakan tanpa koneksi internet setelah model tersedia. Cocok untuk percakapan privat dan eksperimen AI di komputer sendiri.
   `⭐ 45,067` · `Rust`
 
 - **[HeyPuter/puter](https://github.com/HeyPuter/puter)**  
-  🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.  
+  **Fungsi:** Lingkungan komputasi berbasis web yang dapat di-host sendiri, menyediakan pengalaman desktop dan aplikasi melalui browser. Berguna untuk eksperimen workspace cloud pribadi dan akses file atau aplikasi dari web.
   `⭐ 43,878` · `TypeScript`
 
 - **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)**  
-  Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬  
+  **Fungsi:** Platform dukungan pelanggan open-source untuk menggabungkan live chat, email, dan kanal komunikasi lain dalam satu inbox. Alternatif self-hosted untuk layanan customer support komersial.
   `⭐ 38,193` · `Ruby`
 
 - **[glanceapp/glance](https://github.com/glanceapp/glance)**  
-  A self-hosted dashboard that puts all your feeds in one place  
+  **Fungsi:** Dashboard self-hosted yang menyatukan feed, berita, status layanan, dan sumber informasi lain dalam satu halaman. Berguna sebagai halaman awal pribadi yang bisa disesuaikan.
   `⭐ 37,683` · `Go`
 
 - **[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)**  
-  Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!  
+  **Fungsi:** Memantau perubahan pada halaman web dan mengirimkan notifikasi ketika konten berubah. Dapat dipakai untuk memantau stok, harga, halaman pengumuman, atau perubahan konten penting.
   `⭐ 35,272` · `Python`
 
 - **[actualbudget/actual](https://github.com/actualbudget/actual)**  
-  A local-first personal finance app  
+  **Fungsi:** Aplikasi pengelolaan keuangan pribadi yang mengutamakan penyimpanan lokal dan kontrol data. Membantu membuat anggaran, mencatat transaksi, serta memantau pemasukan dan pengeluaran.
   `⭐ 29,729` · `TypeScript`
 
 - **[every-app/open-seo](https://github.com/every-app/open-seo)**  
-  Open source alternative to Semrush and Ahrefs  
+  **Fungsi:** Alternatif open-source untuk alat SEO yang membantu mengevaluasi performa website dan riset optimasi mesin pencari. Periksa fitur aktual proyek sebelum menjadikannya pengganti penuh layanan komersial.
   `⭐ 24,829` · `TypeScript`
 
 - **[LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)**  
-  Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.  
+  **Fungsi:** API penerjemahan mesin gratis dan open-source yang dapat dijalankan pada server sendiri atau secara offline. Berguna untuk menambahkan fitur terjemahan ke aplikasi tanpa harus selalu bergantung pada layanan terpusat.
   `⭐ 17,174` · `Python`
 
 - **[we-promise/sure](https://github.com/we-promise/sure)**  
-  The personal finance app for everyone (by everyone)  
+  **Fungsi:** Aplikasi keuangan pribadi untuk mencatat dan memahami kondisi keuangan. Dapat digunakan sebagai dasar pengelolaan anggaran atau pelacakan transaksi sesuai fitur yang tersedia pada versi proyek.
   `⭐ 10,664` · `Ruby`
 
 - **[openbao/openbao](https://github.com/openbao/openbao)**  
-  OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.  
+  **Fungsi:** Sistem untuk menyimpan, mengelola, dan mendistribusikan rahasia seperti API key, kredensial, sertifikat, dan kunci enkripsi. Berguna untuk mengurangi penempatan secret langsung di kode atau konfigurasi terbuka.
   `⭐ 8,694` · `Go`
 
 - **[zenhosta/9drive](https://github.com/zenhosta/9drive)**  
-  9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.  
+  **Fungsi:** Gateway penyimpanan web yang menghubungkan beberapa akun Google Drive ke satu dashboard virtual. Memungkinkan pengorganisasian file dan pengaturan unggahan berdasarkan ruang yang tersedia pada akun terhubung.
   `⭐ 2,653` · `TypeScript`
 
 - **[gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)**  
-  Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.  
+  **Fungsi:** Alat open-source untuk menjalankan game Windows pada komputer Apple Silicon, disertai basis data kompatibilitas. Membantu memeriksa pengalaman menjalankan game sebelum mencoba konfigurasi sendiri.
   `⭐ 1,871` · `Swift`
 
 - **[0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)**  
-  Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.  
+  **Fungsi:** Antarmuka untuk mengontrol dan memvisualisasikan perangkat rumah pintar lewat model 3D pada macOS dan iPhone. Menghubungkan layanan seperti Smart Life, Home Assistant, Philips Hue, dan Apple Home sesuai dukungan proyek.
   `⭐ 754` · `Swift`
 
 - **[GabrieleLozupone/kokon](https://github.com/GabrieleLozupone/kokon)**  
-  Edit photos by describing the change, on your own GPU. A free, open-source alternative to Nano Banana and ChatGPT image editing: photos stay on your computer, no daily limit. One installer for Windows, Mac and Linux sets up the best open model (Qwen-Image 2.1). MCP server for AI agents.  
+  **Fungsi:** Editor foto lokal yang memungkinkan perubahan gambar melalui instruksi teks dengan model AI pada GPU sendiri. Dirancang agar foto tetap di perangkat pengguna, dengan instalasi untuk Windows, macOS, dan Linux.
   `⭐ 216` · `TypeScript`
 
 
