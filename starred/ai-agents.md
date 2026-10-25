@@ -1,157 +1,157 @@
 # 🤖 AI Agents & Coding Assistants
 
-> Agen AI yang bisa menjalankan tugas, coding, riset, dan mengoordinasikan pekerjaan secara otonom.  
+> Direktori agen AI untuk otomatisasi tugas, pengembangan perangkat lunak, riset, penggunaan browser, dan koordinasi tim agen. Setiap entri menjelaskan kegunaan utamanya dalam bahasa Indonesia.  
 > Total: **37** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**  
-  The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  
+  **Fungsi:** Asisten AI pribadi yang dapat menjalankan tugas nyata melalui aplikasi, layanan, dan perangkat yang terhubung. Dirancang untuk dipakai lintas sistem operasi dan platform, bukan hanya menjawab percakapan.
   `⭐ 392,972` · `TypeScript`
 
 - **[obra/superpowers](https://github.com/obra/superpowers)**  
-  An agentic skills framework & software development methodology that works.  
+  **Fungsi:** Kumpulan skill, aturan, dan alur kerja terstruktur untuk agen coding AI. Membantu agen merencanakan pekerjaan, menulis kode, menguji hasil, dan mengikuti praktik rekayasa perangkat lunak yang lebih konsisten.
   `⭐ 304,684` · `Shell`
 
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)**  
-  The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
+  **Fungsi:** Toolkit untuk meningkatkan kualitas agen coding melalui skill, memori, kebiasaan kerja, pemeriksaan keamanan, dan proses riset terlebih dahulu. Mendukung berbagai lingkungan seperti Claude Code, Codex, OpenCode, dan Cursor.
   `⭐ 288,186` · `JavaScript`
 
 - **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  
-  AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.  
+  **Fungsi:** Kerangka kerja untuk membangun agen AI yang dapat memecah tujuan menjadi langkah-langkah dan menjalankan tugas dengan bantuan alat. Berguna untuk bereksperimen dengan otomatisasi dan sistem agen yang lebih mandiri.
   `⭐ 187,731` · `Python`
 
 - **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)**  
-  A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.  
+  **Fungsi:** Koleksi agen AI dengan peran khusus, misalnya pengembangan frontend, pemasaran, komunitas, dan pemeriksaan kualitas. Setiap peran dilengkapi pendekatan kerja serta keluaran yang diharapkan agar tugas dapat didelegasikan lebih terarah.
   `⭐ 163,746` · `Shell`
 
 - **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)**  
-  A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
+  **Fungsi:** Aplikasi desktop lintas platform untuk mengelola dan berpindah di antara beberapa asisten coding AI dari satu tempat. Berguna bila kamu memakai Claude Code, Codex, OpenCode, OpenClaw, atau Hermes Agent dalam alur kerja yang sama.
   `⭐ 148,376` · `Rust`
 
 - **[browser-use/browser-use](https://github.com/browser-use/browser-use)**  
-  Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.  
+  **Fungsi:** Pustaka Python yang memungkinkan agen AI mengendalikan browser untuk membuka halaman, mencari informasi, dan menyelesaikan alur kerja web. Cocok untuk otomasi browser dan tugas berbasis situs web.
   `⭐ 119,070` · `Python`
 
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**  
-  Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More  
+  **Fungsi:** Sistem memori lintas sesi yang merekam aktivitas agen, merangkumnya dengan AI, lalu menyuntikkan konteks relevan ke sesi berikutnya. Tujuannya mengurangi pengulangan penjelasan ketika bekerja pada proyek yang panjang.
   `⭐ 102,866` · `TypeScript`
 
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**  
-  Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.  
+  **Fungsi:** Alat command-line yang memberi agen AI akses pencarian dan pembacaan konten dari berbagai sumber seperti X/Twitter, Reddit, YouTube, GitHub, dan platform lain. Berguna untuk riset web dari satu alur kerja.
   `⭐ 101,866` · `Python`
 
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)**  
-  🙌 OpenHands: AI-Driven Development  
+  **Fungsi:** Platform pengembangan berbantuan AI yang membantu mengerjakan tugas pemrograman, memahami basis kode, mengubah berkas, dan menjalankan pekerjaan pengembangan melalui agen.
   `⭐ 91,764` · `TypeScript`
 
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)**  
-  The design language that makes your AI harness better at design.  
+  **Fungsi:** Panduan desain dan kumpulan instruksi yang membantu agen coding menghasilkan antarmuka dengan hierarki visual, tipografi, jarak, dan detail desain yang lebih terarah. Cocok untuk memperbaiki UI yang terasa generik.
   `⭐ 86,560` · `Rust`
 
 - **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)**  
-  Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local  
+  **Fungsi:** Membangun graf pengetahuan dari kode agar agen dapat memahami hubungan antarberkas dan struktur proyek. Indeks lokalnya membantu agen menemukan konteks dengan lebih sedikit pencarian dan penggunaan token.
   `⭐ 75,232` · `C`
 
 - **[usestrix/strix](https://github.com/usestrix/strix)**  
-  Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.  
+  **Fungsi:** Alat pengujian keamanan aplikasi berbasis AI yang membantu menemukan kerentanan melalui pemeriksaan terarah. Ditujukan untuk membantu tim menguji aplikasi dan meninjau temuan sebelum memperbaikinya.
   `⭐ 71,700` · `Python`
 
 - **[aaif-goose/goose](https://github.com/aaif-goose/goose)**  
-  an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  
+  **Fungsi:** Agen AI open-source yang dapat memakai model bahasa untuk menjalankan alat, membaca dan mengubah berkas, mengeksekusi perintah, serta menguji kode. Lebih berorientasi pada tindakan daripada sekadar memberikan saran.
   `⭐ 55,664` · `Rust`
 
 - **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**  
-  Hindsight: Agent Memory That Learns  
+  **Fungsi:** Sistem memori untuk agen AI yang menyimpan pengalaman dan konteks lalu menggunakannya kembali agar respons berikutnya lebih relevan. Berguna bagi agen yang perlu belajar dari interaksi sebelumnya.
   `⭐ 53,485` · `Python`
 
 - **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)**  
-  The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.  
+  **Fungsi:** Kerangka kerja untuk menjalankan banyak agen AI dengan kebutuhan sumber daya yang relatif ringan. Dirancang agar tim dapat bereksperimen dengan orkestrasi agen pada server kecil atau lingkungan lokal.
   `⭐ 42,315` · `Rust`
 
 - **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)**  
-  "Vibe-Trading: Your Personal Trading Agent"  
+  **Fungsi:** Proyek agen AI untuk membantu menganalisis informasi pasar dan mendukung alur kerja trading. Ini adalah perangkat lunak eksperimental; hasil analisis bukan jaminan keuntungan atau saran investasi.
   `⭐ 36,581` · `Python`
 
 - **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)**  
-  ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration  
+  **Fungsi:** Kerangka multi-agen yang menyimulasikan kolaborasi beberapa peran pengembangan perangkat lunak. Agen-agen dapat berbagi pekerjaan seperti perencanaan, pemrograman, dan pemeriksaan untuk menyelesaikan proyek.
   `⭐ 34,586` · `Python`
 
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)**  
-  Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.  
+  **Fungsi:** Mengelola konteks yang diterima agen coding dengan menyaring keluaran alat, menyimpan memori sesi, dan mengarahkan permintaan melalui integrasi MCP serta hooks. Tujuannya mengurangi konteks berlebihan dan biaya token.
   `⭐ 32,138` · `TypeScript`
 
 - **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)**  
-  Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.  
+  **Fungsi:** Mesin memori dan konteks untuk menyimpan, mengindeks, dan mengambil kembali informasi yang diperlukan aplikasi AI. Dapat digunakan sebagai layanan memori bagi agen maupun dijalankan secara lokal.
   `⭐ 31,385` · `TypeScript`
 
 - **[trycua/cua](https://github.com/trycua/cua)**  
-  Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.  
+  **Fungsi:** Perangkat dan lingkungan sandbox untuk eksperimen AI yang menggunakan komputer, termasuk driver lintas sistem operasi dan benchmark. Berguna untuk membangun serta mengevaluasi agen yang berinteraksi dengan antarmuka desktop.
   `⭐ 30,882` · `Rust`
 
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**  
-  Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.  
+  **Fungsi:** Alat untuk menguji dan membandingkan prompt, agen, serta sistem RAG dengan kumpulan evaluasi yang dapat diulang. Mendukung pengujian keamanan, red teaming, dan integrasi ke pipeline CI/CD.
   `⭐ 26,392` · `TypeScript`
 
 - **[hypit-ai/hypit](https://github.com/hypit-ai/hypit)**  
-  Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.  
+  **Fungsi:** Alur kerja agen AI untuk menghasilkan variasi video dari referensi, termasuk perubahan visual, teks, dan B-roll. Ditujukan untuk otomasi produksi konten dalam jumlah banyak; kualitas hasil tetap perlu ditinjau.
   `⭐ 25,417` · `TypeScript`
 
 - **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)**  
-  Give your agent CAD superpowers.  
+  **Fungsi:** Menambahkan kemampuan pembuatan model CAD dari instruksi bahasa alami ke alur kerja agen. Berguna untuk mengeksplorasi desain objek 3D tanpa harus membangun seluruh model secara manual.
   `⭐ 22,968` · `Python`
 
 - **[Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)**  
-  Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms  
+  **Fungsi:** Aplikasi VTuber berbasis LLM yang mendukung percakapan suara, interupsi suara, dan avatar Live2D. Dapat dijalankan secara lokal agar pengalaman karakter AI lebih interaktif.
   `⭐ 14,368` · `Python`
 
 - **[simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)**  
-  Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump  
+  **Fungsi:** Dashboard open-source untuk mengumpulkan dan menampilkan informasi intelijen sumber terbuka (OSINT) secara real-time. Gunakan hanya untuk riset yang sah dan patuhi privasi serta aturan akses sumber data.
   `⭐ 11,285` · `TypeScript`
 
 - **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)**  
-  Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows  
+  **Fungsi:** Alat command-line untuk mengelola Git worktree sehingga beberapa cabang proyek dapat dikerjakan dalam direktori terpisah. Sangat berguna saat beberapa agen AI menjalankan tugas paralel pada repositori yang sama.
   `⭐ 9,458` · `Rust`
 
 - **[HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin)**  
-  an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions  
+  **Fungsi:** Mengatur beberapa agen coding AI menjadi semacam tim kerja yang dapat dijalankan di komputer atau sandbox. Proyek ini berfokus pada penggunaan agen melalui langganan yang sudah dimiliki pengguna.
   `⭐ 9,028` · `TypeScript`
 
 - **[cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)**  
-  A self-hosted email client with an AI agent, running entirely on Cloudflare Workers  
+  **Fungsi:** Klien email yang dapat di-host sendiri dan dilengkapi agen AI, dibangun untuk berjalan di Cloudflare Workers. Bertujuan membantu mengelola pesan dengan kemampuan AI sambil memberi kontrol pada pemilik instalasi.
   `⭐ 8,495` · `TypeScript`
 
 - **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)**  
-  Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.  
+  **Fungsi:** Kerangka kerja untuk membentuk tim agen dari alat seperti Claude Code, Codex, dan Pi. Mendukung peran persisten, konteks bersama, dan pembagian pekerjaan antaragen.
   `⭐ 8,169` · `TypeScript`
 
 - **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)**  
-  Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.  
+  **Fungsi:** Platform agen AI untuk mengotomatisasi analisis pasar, pengelolaan risiko, dan eksekusi strategi investasi. Perlu diperlakukan sebagai perangkat eksperimental dan diuji dengan hati-hati sebelum digunakan pada dana nyata.
   `⭐ 6,514` · `Python`
 
 - **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)**  
-  Autonomous research system for measurable, computer-executable research.  
+  **Fungsi:** Sistem riset otonom yang menjalankan eksperimen dengan hasil yang dapat diukur dan langkah komputasi yang bisa dieksekusi. Ditujukan untuk membantu proses penelitian yang dapat diuji ulang.
   `⭐ 5,572` · `Python`
 
 - **[Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln)**  
-  Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.  
+  **Fungsi:** Toolkit untuk membangun dan mengevaluasi sistem AI, mencakup dataset, evaluasi, RAG, agen, fine-tuning, dan integrasi MCP. Berguna untuk mengelola proses eksperimen model dari data hingga pengujian.
   `⭐ 5,230` · `Python`
 
 - **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)**  
-  Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.  
+  **Fungsi:** CRM open-source yang dapat di-host sendiri untuk bisnis yang melayani pelanggan melalui chat, termasuk integrasi WhatsApp dan agen AI. Mendukung penggunaan oleh banyak organisasi atau tim dalam satu instalasi.
   `⭐ 4,841` · `TypeScript`
 
 - **[androoAGI/starnet](https://github.com/androoAGI/starnet)**  
-  A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.  
+  **Fungsi:** Aplikasi desktop bergaya stasiun pixel-art untuk mengamati agen AI yang menjalankan pekerjaan. Berfokus pada penggunaan lokal dan memungkinkan pengguna menghubungkan kredensial model sendiri.
   `⭐ 1,606` · `JavaScript`
 
 - **[grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)**  
-  OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.  
+  **Fungsi:** Menghubungkan OpenCode ke Telegram agar pengguna dapat memulai, memeriksa, dan memantau tugas coding dari ponsel sementara proses tetap berjalan di komputer sendiri.
   `⭐ 1,284` · `TypeScript`
 
 - **[stackblitz/bolt-slides](https://github.com/stackblitz/bolt-slides)**  
-  Use any agent to create stunning, interactive presentations  
+  **Fungsi:** Alat untuk membuat presentasi interaktif dengan bantuan agen AI. Memudahkan pembuatan slide yang lebih dinamis daripada dek statis biasa.
   `⭐ 1,145` · `TypeScript`
 
 
