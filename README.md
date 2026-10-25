@@ -1,183 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2f81f7&height=230&section=header&text=DURIAN&fontSize=72&fontColor=ffffff&fontAlignY=40" width="100%" alt="Banner DURIAN" />
+<img src="./assets/profile-banner.svg" width="100%" alt="DURIAN — Web tools, automation, and AI integrations" />
 
-<img src="https://avatars.githubusercontent.com/u/134796147?v=4&s=240" width="120" height="120" alt="Foto profil DURIAN" />
+<img src="https://avatars.githubusercontent.com/u/134796147?v=4" width="104" height="104" alt="Avatar GitHub akndrn000" />
 
-### Web Developer · Automation & AI Tooling
+# DURIAN
 
-<a href="https://github.com/akndrn000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Membangun+alat+web+yang+ringkas+dan+cepat;Mengotomatiskan+pekerjaan+berulang;Mengintegrasikan+AI+ke+alur+kerja+nyata;Privasi+pengguna+selalu+jadi+prioritas" alt="Typing animation" />
-</a>
+**Independent Developer · Web Tools · Automation · AI Integrations**
 
-<br/>
+Membangun alat digital yang praktis, alur kerja yang lebih efisien, dan integrasi AI yang berguna untuk kebutuhan nyata.
 
-[![GitHub](https://img.shields.io/badge/GitHub-akndrn000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akndrn000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaboration-2ea043?style=for-the-badge)
+<p>
+  <a href="https://github.com/akndrn000"><img src="https://img.shields.io/badge/GitHub-akndrn000-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub akndrn000" /></a>
+  <a href="#proyek-unggulan"><img src="https://img.shields.io/badge/Explore-Projects-315efb?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore projects" /></a>
+  <a href="#koleksi-repository-favorit"><img src="https://img.shields.io/badge/Open--Source-Collection-168c78?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open source collection" /></a>
+</p>
 
 </div>
 
-<br/>
+---
+
+## ⭐ Koleksi Repository Favorit
+
+Kumpulan repository open-source yang saya simpan sebagai referensi untuk membangun produk, mengeksplorasi AI, dan mengikuti perkembangan ekosistem developer. **375 repository** dikelompokkan agar lebih mudah dijelajahi.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🤖 AI Agents & Coding Assistants</strong><br />
+      <a href="./starred/ai-agents.md">Jelajahi 37 repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>✨ AI Skills & Agent Skills</strong><br />
+      <a href="./starred/ai-skills.md">Jelajahi 59 repository →</a>
+    </td>
+    <td width="34%" valign="top">
+      <strong>🧠 AI Tools & LLM Infrastructure</strong><br />
+      <a href="./starred/ai-tools.md">Jelajahi 48 repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🎬 Video, Media & Creative Tools</strong><br />
+      <a href="./starred/video-media.md">Jelajahi 31 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>🎨 Frontend, UI & Design</strong><br />
+      <a href="./starred/frontend-ui.md">Jelajahi 47 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>🏠 Self-hosted & Infrastructure</strong><br />
+      <a href="./starred/self-hosted.md">Jelajahi 21 repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🛠️ Developer Tools & Productivity</strong><br />
+      <a href="./starred/dev-tools.md">Jelajahi 32 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>📚 Learning & Education</strong><br />
+      <a href="./starred/learning.md">Jelajahi 7 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>📱 Mobile & Android</strong><br />
+      <a href="./starred/mobile.md">Jelajahi 3 repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>💰 Finance & Trading</strong><br />
+      <a href="./starred/finance.md">Jelajahi 3 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>📦 Other / Miscellaneous</strong><br />
+      <a href="./starred/others.md">Jelajahi 87 repository →</a>
+    </td>
+    <td valign="top">
+      <strong>🗂️ Semua kategori</strong><br />
+      <a href="./starred/">Buka direktori koleksi →</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Setiap halaman kategori berisi tautan repository, deskripsi singkat, jumlah star, dan bahasa pemrograman jika tersedia.</sub>
+
+---
 
 ## 👋 Tentang Saya
 
+Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya menyukai proyek yang menyederhanakan pekerjaan berulang, memiliki tujuan yang jelas, dan mudah digunakan tanpa membuat prosesnya terasa rumit.
+
 <table>
-<tr>
-<td width="62%" valign="top">
-
-Saya developer yang fokus pada **alat web praktis** dan **otomasi**. Proyek saya berangkat dari kebutuhan nyata: mengonversi data, membuat metadata massal dengan bantuan AI, sampai menjalankan agen AI di Telegram dan Discord.
-
-**Prinsip kerja**
-
-- 🎯 **Fokus.** Satu alat untuk satu masalah, dengan antarmuka yang jelas.
-- 🔒 **Privasi dulu.** Proses berjalan di browser pengguna, tanpa server perantara dan tanpa pelacak.
-- ✅ **Teruji.** Logika inti dilindungi tes otomatis dan didokumentasikan dengan rapi.
-- 🚢 **Siap rilis.** Setiap proyek punya panduan deploy yang bisa langsung diikuti.
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akndrn000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="Statistik GitHub" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Prinsip pengembangan</strong><br /><br />
+      🎯 <strong>Purposeful</strong> — mulai dari masalah nyata, bukan sekadar menambah fitur.<br /><br />
+      🔒 <strong>Privacy-aware</strong> — membatasi pengumpulan data dan mengutamakan pemrosesan yang aman.<br /><br />
+      🧪 <strong>Testable</strong> — menjaga logika penting lewat pengujian dan validasi.<br /><br />
+      📘 <strong>Maintainable</strong> — dokumentasi dan instruksi penggunaan merupakan bagian dari produk.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Area yang saya eksplorasi</strong><br /><br />
+      ◈ Aplikasi web yang cepat dan mudah dipahami<br /><br />
+      ◈ LLM, AI agents, dan integrasi API<br /><br />
+      ◈ Otomasi bot untuk platform komunitas<br /><br />
+      ◈ Tooling developer, testing, dan deployment
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,python,lua,html,css&perline=10" alt="Bahasa dan framework" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,npm,vitest,discord,linux,bash&perline=10" alt="Infrastruktur dan alat" />
-
-</div>
-
-<br/>
-
-| Bidang | Teknologi |
-| :-- | :-- |
-| **Frontend** | React 19 · Next.js 16 (App Router) · Vite · Tailwind CSS v4 · TypeScript (strict) |
-| **Backend & Otomasi** | Next.js API Routes · Python · Discord REST API · Telegram Bot |
-| **AI & Integrasi** | Groq · Gemini · Hermes Agent · OpenAI-compatible endpoint |
-| **DevOps** | Docker · Vercel · Railway · Git |
-| **Kualitas** | Vitest · Pytest · ESLint · Ruff · Snapshot testing |
-
-<br/>
+---
 
 ## 🚀 Proyek Unggulan
 
 <table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vitest" alt="Teknologi StockMeta" />
-
-### [StockMeta](https://github.com/akndrn000/stockmeta)
-
-**Metadata AI untuk Adobe Stock & Shutterstock.** Unggah hingga 20 foto per batch, hasilkan judul, kata kunci, dan kategori, lalu ekspor CSV sesuai format resmi.
-
-🔗 [Buka demo](https://stockmeta-one.vercel.app)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=vite,react,ts,lua,vitest" alt="Teknologi RigForge" />
-
-### [RigForge](https://github.com/akndrn000/rigforge)
-
-**Konverter data avatar Roblox ke Lua.** Berjalan sepenuhnya di browser, tanpa server dan tanpa login. Dilindungi 26 kasus uji snapshot.
-
-🔗 [Buka demo](https://rigforge-lemon.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,discord,vercel" alt="Teknologi Relay" />
-
-### [Relay](https://github.com/akndrn000/relay)
-
-**Pengirim pesan Discord lewat Bot resmi.** Terkunci ke satu channel tujuan, token tidak disimpan di server, sesuai Ketentuan Layanan Discord.
-
-🔗 [Buka demo](https://relay-eosin-five.vercel.app)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=docker,python,discord,linux,bash" alt="Teknologi My Hermes Agent" />
-
-### [My Hermes Agent](https://github.com/akndrn000/my-hermes-agent)
-
-**Bot AI pribadi di Telegram dan Discord.** Konfigurasi deploy siap pakai berbasis Docker dan Railway, lengkap dengan panduan keamanan dan troubleshooting.
-
-🔗 [Lihat repositori](https://github.com/akndrn000/my-hermes-agent)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/akndrn000/stockmeta"><img src="./assets/stockmeta-preview.svg" width="100%" alt="Preview antarmuka StockMeta" /></a>
+      <h3><a href="https://github.com/akndrn000/stockmeta">StockMeta ↗</a></h3>
+      <p><strong>AI-assisted stock photo metadata.</strong> Membantu kreator menyiapkan judul, keyword, dan kategori untuk foto stok dalam batch, lalu mengekspor hasil ke CSV.</p>
+      <p><a href="https://stockmeta-one.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/stockmeta">Source code</a></p>
+      <sub>Next.js · React · TypeScript · Tailwind CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/akndrn000/rigforge"><img src="./assets/rigforge-preview.svg" width="100%" alt="Preview antarmuka RigForge" /></a>
+      <h3><a href="https://github.com/akndrn000/rigforge">RigForge ↗</a></h3>
+      <p><strong>Roblox avatar data converter.</strong> Mengubah data avatar menjadi Lua yang lebih mudah dibaca, langsung di browser tanpa perlu akun.</p>
+      <p><a href="https://rigforge-lemon.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/rigforge">Source code</a></p>
+      <sub>Vite · React · TypeScript · Lua</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/akndrn000/relay"><img src="./assets/relay-preview.svg" width="100%" alt="Preview antarmuka Relay" /></a>
+      <h3><a href="https://github.com/akndrn000/relay">Relay ↗</a></h3>
+      <p><strong>Scoped Discord messaging.</strong> Mengirim pesan melalui bot Discord resmi dengan tujuan channel yang dibatasi dan perhatian pada keamanan token.</p>
+      <p><a href="https://relay-eosin-five.vercel.app">Live demo</a> · <a href="https://github.com/akndrn000/relay">Source code</a></p>
+      <sub>Next.js · TypeScript · Discord API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/akndrn000/my-hermes-agent"><img src="./assets/hermes-preview.svg" width="100%" alt="Preview konsep My Hermes Agent" /></a>
+      <h3><a href="https://github.com/akndrn000/my-hermes-agent">My Hermes Agent ↗</a></h3>
+      <p><strong>Personal AI assistant.</strong> Konfigurasi bot AI untuk Telegram dan Discord, dilengkapi panduan deployment berbasis Docker/Railway serta catatan keamanan.</p>
+      <p><a href="https://github.com/akndrn000/my-hermes-agent">Repository & deployment guide</a></p>
+      <sub>Python · Docker · Telegram · Discord</sub>
+    </td>
+  </tr>
 </table>
 
-<br/>
+---
 
-## 📊 Aktivitas
+## 🧰 Technology Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akndrn000&theme=tokyonight&hide_border=true" height="150" alt="Streak GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akndrn000&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Bahasa teratas" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,python,lua,html,css&perline=10" alt="Bahasa pemrograman dan teknologi web" />
+<br />
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,npm,vitest,linux,bash&perline=9" alt="Tooling, deployment, dan developer workflow" />
 
 </div>
 
-<br/>
-
-## 📌 Fokus Saat Ini
-
-| 🔭 Sedang dipelajari | 🛠️ Sedang dikerjakan | 🤝 Terbuka untuk |
-| :-- | :-- | :-- |
-| Next.js 16 dan React 19 | Alat web berbasis AI | Kolaborasi proyek open source |
-| Integrasi LLM ke alur kerja | Otomasi bot dan deployment | Diskusi teknis dan masukan |
-| Pengujian otomatis | Dokumentasi yang rapi | Proyek web berskala kecil |
-
-<br/>
-
----
-
-# ⭐ Starred Repositories
-
-Koleksi **375** repository open-source yang saya star, dikelompokkan per kategori.
-
-## 🧭 Navigasi kategori
-
-- [🤖 AI Agents & Coding Assistants (37)](./starred/ai-agents.md)
-- [✨ AI Skills & Agent Skills (59)](./starred/ai-skills.md)
-- [🧠 AI Tools & LLM Infrastructure (48)](./starred/ai-tools.md)
-- [🎬 Video, Media & Creative Tools (31)](./starred/video-media.md)
-- [🎨 Frontend, UI & Design (47)](./starred/frontend-ui.md)
-- [🏠 Self-hosted & Infrastructure (21)](./starred/self-hosted.md)
-- [🛠️ Developer Tools & Productivity (32)](./starred/dev-tools.md)
-- [📚 Learning & Education (7)](./starred/learning.md)
-- [📱 Mobile & Android (3)](./starred/mobile.md)
-- [💰 Finance & Trading (3)](./starred/finance.md)
-- [📦 Other / Misc (87)](./starred/others.md)
-
-> Setiap file kategori berisi daftar lengkap repository beserta link, deskripsi, jumlah star, dan bahasa pemrograman.
+<table>
+  <tr>
+    <td width="25%"><strong>Web development</strong></td>
+    <td>React · Next.js · Vite · TypeScript · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Automation & APIs</strong></td>
+    <td>Python · Discord API · Telegram Bot · API integrations</td>
+  </tr>
+  <tr>
+    <td><strong>AI tooling</strong></td>
+    <td>LLM integrations · AI agents · Groq · Gemini · OpenAI-compatible APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Quality & delivery</strong></td>
+    <td>Vitest · Pytest · ESLint · Ruff · Docker · Vercel · Railway · GitHub Actions</td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Terhubung
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akndrn000&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Statistik GitHub akndrn000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akndrn000&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Bahasa pemrograman teratas" />
+</div>
+
+---
+
+## 🤝 Terhubung
+
+Terbuka untuk diskusi teknis, masukan, dan kolaborasi pada proyek open-source.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-akndrn000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akndrn000)
+<a href="https://github.com/akndrn000"><img src="https://img.shields.io/badge/Visit_GitHub-akndrn000-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Kunjungi profil GitHub" /></a>
 
-Punya ide, masukan, atau ingin berkolaborasi? Silakan buka *issue* atau *pull request* di repositori saya.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:1f3a5f,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+<sub>Dibangun dengan rasa ingin tahu, perhatian pada detail, dan iterasi berkelanjutan.</sub>
 
 </div>
