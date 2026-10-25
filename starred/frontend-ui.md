@@ -1,197 +1,197 @@
 # 🎨 Frontend, UI & Design
 
-> Komponen UI, design system, whiteboard, dan tool frontend.  
+> Kumpulan framework, komponen UI, alat desain, workflow frontend, dan tooling developer yang membantu membangun serta menguji antarmuka web dan aplikasi.  
 > Total: **47** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**  
-  Master programming by recreating your favorite technologies from scratch.  
+  **Fungsi:** Kumpulan tutorial proyek untuk mempelajari cara kerja teknologi dengan membangunnya sendiri, misalnya bahasa pemrograman, database, atau sistem operasi sederhana. Cocok untuk memahami konsep dari implementasi langsung.
   `⭐ 556,036` · `Markdown`
 
 - **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)**  
-  Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
+  **Fungsi:** Roadmap interaktif, panduan, dan materi belajar untuk berbagai jalur karier developer. Membantu menentukan topik yang perlu dipelajari secara bertahap sesuai bidang yang ingin ditekuni.
   `⭐ 370,342` · `TypeScript`
 
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)**  
-  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.  
+  **Fungsi:** Platform otomasi workflow visual yang dapat menghubungkan berbagai aplikasi dan API, dengan dukungan integrasi AI serta kode khusus. Bisa di-host sendiri atau digunakan melalui cloud.
   `⭐ 208,514` · `TypeScript`
 
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)**  
-  Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥  
+  **Fungsi:** API dan alat untuk mengambil data dari website lalu mengubahnya menjadi konten terstruktur yang siap dipakai aplikasi AI. Berguna untuk crawling, scraping, dan menyiapkan sumber data RAG.
   `⭐ 195,061` · `TypeScript`
 
 - **[langgenius/dify](https://github.com/langgenius/dify)**  
-  Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.  
+  **Fungsi:** Platform untuk membangun aplikasi AI, workflow agen, serta pipeline RAG melalui workspace kolaboratif. Mendukung berbagai model dan pilihan deployment mulai dari cloud sampai self-hosted.
   `⭐ 159,450` · `Python`
 
 - **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)**  
-  Langflow is a powerful tool for building and deploying AI-powered agents and workflows.  
+  **Fungsi:** Builder visual untuk merancang, menguji, dan menerapkan workflow AI dan agen melalui komponen yang saling dihubungkan. Membantu prototipe aplikasi LLM tanpa harus merangkai seluruh kode dari awal.
   `⭐ 155,993` · `Python`
 
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)**  
-  The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.  
+  **Fungsi:** Antarmuka berbasis node untuk merangkai workflow generasi gambar dan media dengan model difusi. Pengguna dapat menghubungkan model, sampler, prompt, dan tahapan pemrosesan secara fleksibel.
   `⭐ 142,672` · `Python`
 
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)**  
-  Virtual whiteboard for sketching hand-drawn like diagrams  
+  **Fungsi:** Papan tulis digital untuk menggambar diagram bergaya sketsa tangan. Cocok untuk menjelaskan ide, alur sistem, wireframe, atau proses kolaborasi secara cepat.
   `⭐ 134,505` · `TypeScript`
 
 - **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)**  
-  Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.  
+  **Fungsi:** Kumpulan komponen antarmuka yang dapat disalin, diubah, dan dimiliki langsung di proyek. Menyediakan fondasi yang aksesibel dan dapat dikustomisasi untuk membangun design system sendiri.
   `⭐ 126,460` · `TypeScript`
 
 - **[supabase/supabase](https://github.com/supabase/supabase)**  
-  The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.  
+  **Fungsi:** Platform pengembangan berbasis PostgreSQL yang menyediakan database dan layanan backend untuk aplikasi web, mobile, serta AI. Mencakup berbagai kemampuan seperti autentikasi, API, dan penyimpanan.
   `⭐ 113,896` · `TypeScript`
 
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)**  
-  A fancy self-hosted monitoring tool  
+  **Fungsi:** Alat monitoring self-hosted untuk memantau ketersediaan website, server, atau layanan serta memberi notifikasi saat terjadi gangguan.
   `⭐ 92,875` · `JavaScript`
 
 - **[storybookjs/storybook](https://github.com/storybookjs/storybook)**  
-  Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation  
+  **Fungsi:** Lingkungan kerja untuk mengembangkan, mendokumentasikan, dan menguji komponen UI secara terpisah dari aplikasi utama. Membantu menjaga konsistensi desain dan memeriksa berbagai kondisi komponen.
   `⭐ 91,368` · `TypeScript`
 
 - **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)**  
-  simple terminal UI for git commands  
+  **Fungsi:** Antarmuka terminal interaktif untuk menjalankan operasi Git seperti commit, branch, staging, dan melihat perubahan tanpa harus mengingat semua perintah.
   `⭐ 83,404` · `Go`
 
 - **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)**  
-  Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)  
+  **Fungsi:** Mengubah tangkapan layar antarmuka menjadi kode frontend, misalnya HTML, Tailwind, React, atau Vue. Berguna sebagai titik awal untuk merekonstruksi desain; kode hasil tetap perlu ditinjau.
   `⭐ 80,700` · `Python`
 
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)**  
-  Learn AI Engineering! Learn it. Build it. Ship it for others.  
+  **Fungsi:** Materi belajar AI engineering yang mengajak pengguna memahami konsep, membangun implementasi, dan menyiapkan proyek untuk dipakai. Cocok bagi yang ingin belajar melalui proyek praktik.
   `⭐ 73,366` · `Python`
 
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)**  
-  The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.  
+  **Fungsi:** Lapisan memori untuk aplikasi dan agen AI agar konteks pengguna atau interaksi dapat disimpan dan dipanggil kembali. Membantu membangun asisten yang lebih personal dan mempertahankan konteks.
   `⭐ 67,757` · `Python`
 
 - **[microsoft/qlib](https://github.com/microsoft/qlib)**  
-  Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.  
+  **Fungsi:** Platform riset investasi kuantitatif berbantuan AI untuk mengeksplorasi ide, membangun model, dan menguji strategi pada data pasar. Hasil eksperimen bukan jaminan keuntungan investasi.
   `⭐ 49,676` · `Python`
 
 - **[reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**  
-  A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!  
+  **Fungsi:** Pembuat resume open-source yang dapat dikustomisasi dengan perhatian pada privasi dan portabilitas data. Membantu pengguna membuat, mengatur, dan mengekspor CV tanpa bergantung pada layanan berbayar.
   `⭐ 44,820` · `TypeScript`
 
 - **[saadeghi/daisyui](https://github.com/saadeghi/daisyui)**  
-  🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library  
+  **Fungsi:** Pustaka komponen antarmuka siap pakai berbasis Tailwind CSS. Menyediakan elemen UI dan tema untuk mempercepat pembuatan website tanpa harus menulis seluruh gaya komponen sendiri.
   `⭐ 42,670` · `JavaScript`
 
 - **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)**  
-  Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.  
+  **Fungsi:** Server pengetahuan dan pendidikan yang dirancang untuk bekerja secara offline, berisi referensi, buku, kursus, peta, dan opsi AI lokal. Cocok untuk akses informasi tanpa ketergantungan internet.
   `⭐ 40,887` · `TypeScript`
 
 - **[atuinsh/atuin](https://github.com/atuinsh/atuin)**  
-  ✨ Making your shell magical  
+  **Fungsi:** Alat untuk menyimpan, mencari, dan menyinkronkan riwayat perintah shell dengan fitur pencarian yang lebih baik daripada history terminal standar.
   `⭐ 32,069` · `Rust`
 
 - **[AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)**  
-  Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI  
+  **Fungsi:** Framework UI berbasis C# dan XAML untuk membuat aplikasi desktop, mobile, embedded, dan WebAssembly lintas platform dengan pola pengembangan .NET.
   `⭐ 31,708` · `C#`
 
 - **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)**  
-  The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.  
+  **Fungsi:** Editor desain visual berorientasi AI yang memungkinkan pengguna melihat dan mengubah UI website secara visual sambil tetap bekerja dengan kode asli. Berguna bagi desainer dan developer yang ingin beriterasi bersama.
   `⭐ 27,002` · `TypeScript`
 
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)**  
-  Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.  
+  **Fungsi:** Konverter berbagai format dokumen—seperti Word, PowerPoint, Excel, PDF, dan EPUB—menjadi Markdown yang lebih mudah diproses oleh sistem AI atau dokumentasi.
   `⭐ 23,088` · `Rust`
 
 - **[dyad-sh/dyad](https://github.com/dyad-sh/dyad)**  
-  Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!  
+  **Fungsi:** Pembuat aplikasi AI lokal dan open-source yang membantu pengguna membangun aplikasi dari instruksi, sebagai alternatif sejumlah app builder berbasis cloud. Cocok untuk prototipe dan eksperimen dengan kontrol lokal.
   `⭐ 22,054` · `TypeScript`
 
 - **[monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)**  
-  The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.  
+  **Fungsi:** Situs latihan mengetik yang dapat dikustomisasi dengan berbagai mode pengujian, statistik, dan pelacakan progres. Membantu pengguna mengukur serta meningkatkan kecepatan dan akurasi mengetik.
   `⭐ 20,938` · `TypeScript`
 
 - **[lexmount/moli](https://github.com/lexmount/moli)**  
-  Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust  
+  **Fungsi:** Browser headless yang dibuat untuk otomasi web dan agen AI, dengan fokus pada kecepatan serta kompatibilitas. Berguna menjalankan tugas browser tanpa antarmuka visual penuh.
   `⭐ 20,514` · `Rust`
 
 - **[lively-community/lively](https://github.com/lively-community/lively)**  
-  Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.  
+  **Fungsi:** Aplikasi open-source untuk menggunakan wallpaper animasi dan screensaver di desktop Windows. Memungkinkan desktop lebih personal melalui latar bergerak dan konten visual.
   `⭐ 19,918` · `C#`
 
 - **[Effect-TS/effect](https://github.com/Effect-TS/effect)**  
-  Build production-ready applications in TypeScript  
+  **Fungsi:** Pustaka TypeScript untuk membangun aplikasi dengan penanganan efek, error, konkurensi, dan dependensi yang lebih terstruktur. Membantu mengelola kompleksitas aplikasi produksi.
   `⭐ 17,379` · `TypeScript`
 
 - **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)**  
-  "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"  
+  **Fungsi:** Kerangka open-source untuk menjalankan agen dengan harness dan agen personal bawaan. Menyediakan dasar untuk bereksperimen dengan eksekusi tugas berbasis AI.
   `⭐ 16,083` · `Python`
 
 - **[satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)**  
-  Admin Dashboard UI built with Shadcn and Vite.  
+  **Fungsi:** Template dashboard administrasi berbasis shadcn/ui dan Vite. Menyediakan kerangka UI untuk membangun panel admin sehingga developer tidak perlu memulai layout dari halaman kosong.
   `⭐ 15,895` · `TypeScript`
 
 - **[uiverse-io/galaxy](https://github.com/uiverse-io/galaxy)**  
-  The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.  
+  **Fungsi:** Kumpulan komponen antarmuka komunitas yang dibuat dengan CSS atau Tailwind. Berguna untuk menemukan elemen UI siap pakai dan inspirasi visual untuk website.
   `⭐ 13,742` · `HTML`
 
 - **[xtool-org/xtool](https://github.com/xtool-org/xtool)**  
-  Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.  
+  **Fungsi:** Tool lintas platform untuk membangun dan men-deploy aplikasi iOS menggunakan Swift Package Manager di sistem operasi berbeda. Ditujukan untuk workflow pengembangan iOS di luar setup Xcode tradisional.
   `⭐ 13,581` · `Swift`
 
 - **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)**  
-  Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.  
+  **Fungsi:** Canvas berbasis browser untuk membuat sketsa layar bergaya Material 3 Expressive dan mengubahnya menjadi prompt untuk coding berbantuan AI.
   `⭐ 9,704` · `TypeScript`
 
 - **[zumerlab/snapdom](https://github.com/zumerlab/snapdom)**  
-  High-performance engine for capturing, modifying, and converting DOM elements into any format.  
+  **Fungsi:** Mesin untuk menangkap elemen DOM dan mengubahnya ke format keluaran tertentu. Berguna untuk membuat screenshot komponen, aset visual, atau ekspor konten dari antarmuka web.
   `⭐ 8,209` · `JavaScript`
 
 - **[dequelabs/axe-core](https://github.com/dequelabs/axe-core)**  
-  Accessibility engine for automated Web UI testing  
+  **Fungsi:** Mesin pengujian aksesibilitas otomatis untuk menemukan masalah pada UI web, seperti elemen yang sulit digunakan dengan teknologi bantu. Berguna sebagai bagian dari proses quality assurance.
   `⭐ 7,703` · `HTML`
 
 - **[lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)**  
-  curl-impersonate: A special build of curl that can impersonate Chrome & Firefox  
+  **Fungsi:** Build khusus curl yang meniru karakteristik permintaan browser seperti Chrome atau Firefox. Digunakan untuk pengujian kompatibilitas dan kasus otomasi web yang memerlukan perilaku mirip browser.
   `⭐ 7,152` · `Python`
 
 - **[zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui)**  
-  Collection of beautifully crafted open-source layouts UI built with shadcn/ui.  
+  **Fungsi:** Koleksi layout UI open-source berbasis shadcn/ui untuk mempercepat pembuatan halaman website. Dapat dijadikan fondasi lalu disesuaikan dengan design system proyek.
   `⭐ 6,159` · `TypeScript`
 
 - **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)**  
-  🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.  
+  **Fungsi:** Toolkit OSINT untuk mencari jejak publik yang terkait email atau nama pengguna melalui banyak sumber. Gunakan untuk investigasi yang sah, hindari penyalahgunaan, dan hormati privasi.
   `⭐ 5,469` · `Python`
 
 - **[dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)**  
-  Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.  
+  **Fungsi:** Mengekstrak elemen design system dari website, seperti warna, tipografi, logo, dan border, menjadi token yang dapat dipakai ulang. Membantu memulai desain ulang atau menyelaraskan UI.
   `⭐ 3,829` · `TypeScript`
 
 - **[Stremio/stremio-core](https://github.com/Stremio/stremio-core)**  
-  ⚛️ The Stremio Core: types, addon system, UI models, core logic  
+  **Fungsi:** Komponen inti Stremio yang menyediakan tipe data, sistem add-on, model UI, dan logika dasar aplikasi. Berguna sebagai fondasi untuk pengembangan fitur yang kompatibel dengan ekosistem Stremio.
   `⭐ 2,507` · `Rust`
 
 - **[bergside/typeui](https://github.com/bergside/typeui)**  
-  Build better UI with AI  
+  **Fungsi:** Toolkit yang membantu membangun antarmuka dengan dukungan AI. Dapat digunakan sebagai titik awal untuk merancang dan mengembangkan UI dengan bantuan otomatisasi.
   `⭐ 2,154` · `TypeScript`
 
 - **[neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism)**  
-  A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.  
+  **Fungsi:** Pustaka komponen React dan Tailwind CSS dengan gaya neobrutalism yang tegas, kontras, dan geometris. Cocok untuk membangun antarmuka modern dengan karakter visual yang kuat.
   `⭐ 1,627` · `TypeScript`
 
 - **[vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines)**  
-  Guidelines for building interfaces on the Web.  
+  **Fungsi:** Kumpulan pedoman untuk membangun antarmuka web yang lebih konsisten dan mudah digunakan. Berguna sebagai checklist desain dan implementasi bagi developer maupun agen AI.
   `⭐ 1,035` · `Shell`
 
 - **[mrYouki/YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop)**  
-  YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack support, and massive stability improvements.  
+  **Fungsi:** Pengalaman desktop Android berbasis Smart Dock dengan panel overlay, dock persisten, notifikasi, paket ikon, dan pengaturan UI. Ditujukan untuk menyesuaikan pengalaman Android tanpa mengganti launcher.
   `⭐ 605` · `Kotlin`
 
 - **[SehajveerSingh2005/bloom](https://github.com/SehajveerSingh2005/bloom)**  
-  Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive.  
+  **Fungsi:** Aplikasi pendamping desktop Windows dengan workspace yang lebih dinamis dan responsif dibandingkan antarmuka statis. Proyek ini mengeksplorasi cara baru berinteraksi dengan desktop.
   `⭐ 354` · `TypeScript`
 
 - **[RoversX/ThinkTerm](https://github.com/RoversX/ThinkTerm)**  
-  A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.  
+  **Fungsi:** Terminal modern dengan multiplexer bawaan agar sesi tetap berjalan meski jendela ditutup. Mendukung banyak shell dan agen AI, serta akses kembali dari desktop, browser, atau TUI.
   `⭐ 208` · `Rust`
 
 
