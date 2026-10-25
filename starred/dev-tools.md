@@ -1,137 +1,137 @@
 # 🛠️ Developer Tools & Productivity
 
-> CLI, terminal, API client, scraper, productivity tool untuk developer.  
+> Alat praktis untuk terminal, API, Python, scraping, transfer berkas, pengelolaan sistem, debugging, keamanan, dan produktivitas sehari-hari developer.  
 > Total: **32** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)**  
-  Python tool for converting files and office documents to Markdown.  
+  **Fungsi:** Pustaka Python untuk mengubah berbagai dokumen dan berkas Office menjadi Markdown. Berguna menyiapkan konten agar mudah dibaca, dicari, dan diproses oleh AI atau sistem dokumentasi.
   `⭐ 191,995` · `Python`
 
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**  
-  Display and control your Android device  
+  **Fungsi:** Aplikasi untuk menampilkan layar Android di komputer dan mengendalikannya melalui keyboard serta mouse. Berguna untuk debugging, demo aplikasi, dan kontrol perangkat tanpa perlu mengganti launcher.
   `⭐ 153,070` · `C`
 
 - **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)**  
-  An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  
+  **Fungsi:** Aplikasi remote desktop open-source yang dapat di-host sendiri sebagai alternatif perangkat lunak akses jarak jauh komersial. Memungkinkan pengguna melihat dan mengendalikan komputer dari perangkat lain.
   `⭐ 126,850` · `Rust`
 
 - **[localsend/localsend](https://github.com/localsend/localsend)**  
-  An open-source cross-platform alternative to AirDrop  
+  **Fungsi:** Aplikasi lintas platform untuk mengirim file melalui jaringan lokal, sebagai alternatif AirDrop. Tidak memerlukan akun cloud untuk memindahkan berkas antarperangkat yang terhubung.
   `⭐ 95,472` · `Dart`
 
 - **[astral-sh/uv](https://github.com/astral-sh/uv)**  
-  An extremely fast Python package and project manager, written in Rust.  
+  **Fungsi:** Manajer proyek dan paket Python yang cepat, ditulis dengan Rust. Menggantikan banyak tugas instalasi dependensi, pengelolaan lingkungan, dan penguncian versi dalam satu alat.
   `⭐ 91,129` · `Rust`
 
 - **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)**  
-  🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev  
+  **Fungsi:** Framework scraping web yang dirancang untuk mengambil data dari satu halaman hingga crawl skala besar. Berguna membuat extractor yang tangguh untuk riset, dataset, dan otomatisasi data web.
   `⭐ 89,523` · `Python`
 
 - **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)**  
-  Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia  
+  **Fungsi:** Lingkungan pengembangan API open-source untuk mengirim permintaan, memeriksa respons, dan menguji endpoint. Tersedia melalui web, desktop, CLI, atau opsi deployment sendiri.
   `⭐ 80,682` · `TypeScript`
 
 - **[ventoy/Ventoy](https://github.com/ventoy/Ventoy)**  
-  A new bootable USB solution.  
+  **Fungsi:** Alat pembuat USB bootable yang dapat menyimpan beberapa file ISO tanpa harus memformat ulang USB setiap kali ingin mengganti installer. Cocok untuk teknisi dan instalasi sistem operasi.
   `⭐ 80,332` · `C`
 
 - **[Eugeny/tabby](https://github.com/Eugeny/tabby)**  
-  A terminal for a more modern age  
+  **Fungsi:** Emulator terminal modern dengan dukungan profil, koneksi jarak jauh, dan pengaturan antarmuka. Membantu mengelola beberapa sesi shell dalam satu aplikasi.
   `⭐ 75,105` · `TypeScript`
 
 - **[scrapy/scrapy](https://github.com/scrapy/scrapy)**  
-  Scrapy, a fast high-level web crawling & scraping framework for Python.  
+  **Fungsi:** Framework Python untuk membangun crawler dan scraper web yang terstruktur. Cocok untuk mengumpulkan data dari banyak halaman secara terjadwal dengan pipeline pemrosesan hasil.
   `⭐ 65,001` · `Python`
 
 - **[ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)**  
-  Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates  
+  **Fungsi:** Kumpulan utilitas Windows untuk memasang aplikasi, mengubah pengaturan, melakukan perbaikan, dan menerapkan tweak sistem. Tinjau setiap perubahan sebelum dijalankan karena konfigurasi dapat memengaruhi sistem.
   `⭐ 64,933` · `PowerShell`
 
 - **[termux/termux-app](https://github.com/termux/termux-app)**  
-  Termux - a terminal emulator application for Android OS extendible by variety of packages.  
+  **Fungsi:** Aplikasi terminal Android yang menyediakan lingkungan mirip Linux dan dapat diperluas dengan paket tambahan. Berguna untuk menjalankan alat command-line dan skrip langsung dari ponsel.
   `⭐ 63,361` · `Java`
 
 - **[tw93/Pake](https://github.com/tw93/Pake)**  
-  Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.  
+  **Fungsi:** Mengemas website menjadi aplikasi desktop ringan dengan satu perintah untuk macOS, Windows, dan Linux. Cocok untuk membuat aplikasi sederhana dari layanan web yang sering digunakan.
   `⭐ 62,298` · `Rust`
 
 - **[sharkdp/bat](https://github.com/sharkdp/bat)**  
-  A cat(1) clone with wings.  
+  **Fungsi:** Pengganti perintah `cat` dengan syntax highlighting, nomor baris, dan tampilan yang lebih mudah dibaca. Berguna saat meninjau kode atau membaca file melalui terminal.
   `⭐ 60,923` · `Rust`
 
 - **[usebruno/bruno](https://github.com/usebruno/bruno)**  
-  Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)  
+  **Fungsi:** Aplikasi untuk mengeksplorasi dan menguji API dengan koleksi permintaan yang dapat disimpan di proyek. Alternatif ringan untuk Postman atau Insomnia, dengan fokus pada workflow lokal.
   `⭐ 47,829` · `JavaScript`
 
 - **[cli/cli](https://github.com/cli/cli)**  
-  GitHub’s official command line tool  
+  **Fungsi:** CLI resmi GitHub untuk mengelola repositori, issue, pull request, release, dan workflow dari terminal. Membantu mengurangi perpindahan antara shell dan browser.
   `⭐ 46,733` · `Go`
 
 - **[CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)**  
-  Collection of handy online tools for developers, with great UX.  
+  **Fungsi:** Koleksi utilitas web untuk developer, misalnya konversi data, encoding, pembuatan hash, dan berbagai kalkulasi teknis. Praktis untuk tugas kecil tanpa memasang banyak aplikasi terpisah.
   `⭐ 40,960` · `Vue`
 
 - **[gchq/CyberChef](https://github.com/gchq/CyberChef)**  
-  The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis  
+  **Fungsi:** Aplikasi web untuk menjalankan rangkaian operasi data seperti encoding, decoding, kompresi, enkripsi, dan analisis. Berguna untuk investigasi teknis serta pemrosesan data yang berulang.
   `⭐ 36,202` · `JavaScript`
 
 - **[cjpais/Handy](https://github.com/cjpais/Handy)**  
-  A free, open source, and extensible speech-to-text application that works completely offline.  
+  **Fungsi:** Aplikasi speech-to-text gratis yang berjalan secara offline. Membantu mengubah ucapan menjadi teks tanpa mengirim audio ke layanan cloud.
   `⭐ 34,558` · `Rust`
 
 - **[qarmin/czkawka](https://github.com/qarmin/czkawka)**  
-  Multi functional app to find duplicates, empty folders, similar images etc.  
+  **Fungsi:** Utilitas untuk menemukan file duplikat, folder kosong, gambar yang mirip, dan berkas yang tidak diperlukan. Membantu membersihkan penyimpanan dengan meninjau hasil sebelum menghapus file.
   `⭐ 34,514` · `Fluent`
 
 - **[k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)**  
-  Advanced UX and interoperability extension for Wand (WeMod) app  
+  **Fungsi:** Ekstensi untuk meningkatkan pengalaman penggunaan aplikasi Wand/WeMod dan interoperabilitas dengan fitur terkait. Kegunaan persisnya mengikuti versi dan dokumentasi proyek.
   `⭐ 32,885` · `C#`
 
 - **[barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)**  
-  Android real-time display control software  
+  **Fungsi:** Aplikasi untuk menampilkan dan mengendalikan perangkat Android secara realtime dari komputer. Menyediakan antarmuka grafis sebagai alternatif penggunaan scrcpy melalui command-line.
   `⭐ 32,555` · `C++`
 
 - **[DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)**  
-  A Swiss Army knife for developers.  
+  **Fungsi:** Kumpulan utilitas developer dalam satu aplikasi, termasuk alat konversi, encoding, generator, dan pemeriksaan format. Mempercepat pekerjaan kecil tanpa harus membuka banyak situs.
   `⭐ 32,106` · `C#`
 
 - **[cmderdev/cmder](https://github.com/cmderdev/cmder)**  
-  Lovely console emulator package for Windows  
+  **Fungsi:** Paket emulator konsol Windows yang menyatukan terminal dan sejumlah alat command-line dengan konfigurasi siap pakai. Berguna bagi pengguna yang menginginkan pengalaman shell lebih nyaman di Windows.
   `⭐ 27,008` · `PowerShell`
 
 - **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)**  
-  ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.  
+  **Fungsi:** Aplikasi lokal untuk mengatur perangkat Logitech yang kompatibel, termasuk pemetaan tombol, DPI, dan SmartShift melalui HID++. Tidak membutuhkan akun dan dirancang tanpa telemetri.
   `⭐ 24,043` · `Rust`
 
 - **[yorukot/superfile](https://github.com/yorukot/superfile)**  
-  Pretty fancy and modern terminal file manager  
+  **Fungsi:** Pengelola file berbasis terminal dengan antarmuka modern untuk menelusuri, menyalin, memindah, dan mengatur berkas. Cocok untuk pekerjaan file tanpa keluar dari shell.
   `⭐ 23,917` · `Go`
 
 - **[brunodev85/winlator](https://github.com/brunodev85/winlator)**  
-  Android application for running Windows applications with Wine and Box86/Box64  
+  **Fungsi:** Aplikasi Android untuk menjalankan beberapa aplikasi atau game Windows menggunakan Wine dan Box86/Box64. Kompatibilitas serta performa bergantung pada aplikasi dan perangkat.
   `⭐ 19,609` · `C`
 
 - **[hluk/CopyQ](https://github.com/hluk/CopyQ)**  
-  Clipboard manager with advanced features  
+  **Fungsi:** Clipboard manager dengan riwayat dan fitur pengelolaan salinan yang lebih lengkap daripada clipboard standar. Membantu menyimpan dan menggunakan kembali teks atau item yang pernah disalin.
   `⭐ 12,544` · `C++`
 
 - **[git-bug/git-bug](https://github.com/git-bug/git-bug)**  
-  Distributed, offline-first bug tracker integrated in git  
+  **Fungsi:** Pelacak bug terdistribusi yang terintegrasi dengan Git dan dirancang agar dapat bekerja offline. Memungkinkan isu proyek dikelola sebagai bagian dari workflow repositori.
   `⭐ 10,795` · `Go`
 
 - **[alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)**  
-  A Smart, Automatic, Fast and Lightweight Web Scraper for Python  
+  **Fungsi:** Pustaka Python untuk membuat scraper dari contoh halaman dan data target secara otomatis. Berguna untuk ekstraksi web sederhana, dengan kebutuhan pemeriksaan hasil dan kepatuhan pada aturan situs.
   `⭐ 8,060` · `Python`
 
 - **[asciimoo/hister](https://github.com/asciimoo/hister)**  
-  Your own search engine  
+  **Fungsi:** Proyek mesin pencari pribadi yang dapat dijalankan sendiri. Memberi dasar untuk mengeksplorasi pengindeksan dan pencarian informasi tanpa bergantung sepenuhnya pada layanan pencarian komersial.
   `⭐ 6,123` · `Go`
 
 - **[zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)**  
-  Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。  
+  **Fungsi:** Manajer unduhan berbasis Rust yang mendukung beberapa protokol, termasuk HTTP, FTP, BitTorrent, serta streaming HLS/DASH. Dirancang untuk unduhan multi-koneksi dan integrasi browser.
   `⭐ 4,975` · `Rust`
 
 
