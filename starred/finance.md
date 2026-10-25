@@ -7,22 +7,22 @@
 ---
 
 - **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)**  
-  **Fungsi:** Aplikasi finansial dengan alat analisis pasar, riset investasi, serta data ekonomi dalam antarmuka interaktif. Membantu mengumpulkan dan mengeksplorasi informasi untuk analisis; keputusan investasi tetap memerlukan verifikasi mandiri.  
-  **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
-  **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
-  `⭐ 33,055` · `C++`
+  - **Fungsi:** Aplikasi finansial dengan alat analisis pasar, riset investasi, serta data ekonomi dalam antarmuka interaktif. Membantu mengumpulkan dan mengeksplorasi informasi untuk analisis; keputusan investasi tetap memerlukan verifikasi mandiri.  
+  - **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
+  - **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
+  - **Metadata:** `⭐ 33,055` · `C++`
 
 - **[AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)**  
-  **Fungsi:** Platform agen AI open-source untuk aplikasi keuangan berbasis model bahasa. Dapat dijadikan bahan eksperimen untuk analisis informasi finansial dan workflow riset pasar.  
-  **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
-  **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
-  `⭐ 8,298` · `Python`
+  - **Fungsi:** Platform agen AI open-source untuk aplikasi keuangan berbasis model bahasa. Dapat dijadikan bahan eksperimen untuk analisis informasi finansial dan workflow riset pasar.  
+  - **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
+  - **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
+  - **Metadata:** `⭐ 8,298` · `Python`
 
 - **[radioman/polymarket-arbitrage-trading-bot](https://github.com/radioman/polymarket-arbitrage-trading-bot)**  
-  **Fungsi:** Bot eksperimen untuk mencari peluang arbitrase pada pasar prediksi Polymarket, termasuk market BTC dan ETH berdurasi pendek. Perdagangan otomatis memiliki risiko finansial, risiko eksekusi, dan risiko perubahan pasar; hasil tidak dijamin.  
-  **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
-  **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
-  `⭐ 547` · `C++`
+  - **Fungsi:** Bot eksperimen untuk mencari peluang arbitrase pada pasar prediksi Polymarket, termasuk market BTC dan ETH berdurasi pendek. Perdagangan otomatis memiliki risiko finansial, risiko eksekusi, dan risiko perubahan pasar; hasil tidak dijamin.  
+  - **Kegunaan praktis:** Paling berguna untuk menata analisis: tentukan sumber data, catat asumsi, bandingkan keluaran dengan referensi independen, lalu simpan hasilnya agar dapat diuji dan dievaluasi kembali.  
+  - **Catatan:** Jangan menganggap simulasi atau analisis otomatis sebagai kepastian. Uji dengan data yang sesuai dan batas risiko yang jelas sebelum keputusan finansial nyata.
+  - **Metadata:** `⭐ 547` · `C++`
 
 
 ---
