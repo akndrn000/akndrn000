@@ -30,7 +30,7 @@ Koleksi open-source pilihan untuk eksplorasi AI, pengembangan web, desain, otoma
 
 </div>
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Agents &amp; Coding Assistants</h3>
@@ -113,7 +113,7 @@ Koleksi open-source pilihan untuk eksplorasi AI, pengembangan web, desain, otoma
 
 Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya menyukai proyek yang menyederhanakan pekerjaan berulang, memiliki tujuan yang jelas, dan mudah digunakan tanpa membuat prosesnya terasa rumit.
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
     <td width="50%" valign="top">
       <strong>Prinsip pengembangan</strong><br /><br />
@@ -136,7 +136,7 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
 
 ## 🚀 Proyek Unggulan
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/DURIAN-ORGANISASI/rigforge"><img src="./assets/rigforge-preview.svg" width="100%" alt="Ilustrasi workspace RigForge" /></a>
@@ -183,7 +183,7 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
 
 </div>
 
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;">
   <tr>
     <td width="25%"><strong>Web development</strong></td>
     <td>React · Next.js · Vite · TypeScript · Tailwind CSS</td>
