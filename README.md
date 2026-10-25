@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="DURIAN — Web tools, automation, and AI integrations" />
-
 <img src="https://avatars.githubusercontent.com/u/134796147?v=4" width="104" height="104" alt="Avatar GitHub akndrn000" />
 
 # DURIAN
@@ -20,70 +18,94 @@ Membangun alat digital yang praktis, alur kerja yang lebih efisien, dan integras
 
 ---
 
-## ⭐ Koleksi Repository Favorit
+## ⭐ STARRED REPOSITORIES
 
-Kumpulan repository open-source yang saya simpan sebagai referensi untuk membangun produk, mengeksplorasi AI, dan mengikuti perkembangan ekosistem developer. **375 repository** dikelompokkan agar lebih mudah dijelajahi.
+<div align="center">
+
+### **375 REPOSITORY · 11 KATEGORI**
+
+Koleksi open-source pilihan untuk eksplorasi AI, pengembangan web, desain, otomasi, dan tooling developer.
+
+**Pilih kategori lalu tekan tombol biru/hijau untuk membuka daftar repository.**
+
+</div>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>🤖 AI Agents & Coding Assistants</strong><br />
-      <a href="./starred/ai-agents.md">Jelajahi 37 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Agents &amp; Coding Assistants</h3>
+      <p>Agen AI, coding assistant, dan workflow otonom.</p>
+      <a href="./starred/ai-agents.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-37_REPOS-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka AI Agents and Coding Assistants — 37 repositories" /></a>
     </td>
-    <td width="33%" valign="top">
-      <strong>✨ AI Skills & Agent Skills</strong><br />
-      <a href="./starred/ai-skills.md">Jelajahi 59 repository →</a>
-    </td>
-    <td width="34%" valign="top">
-      <strong>🧠 AI Tools & LLM Infrastructure</strong><br />
-      <a href="./starred/ai-tools.md">Jelajahi 48 repository →</a>
+    <td width="50%" valign="top">
+      <h3>✨ AI Skills &amp; Agent Skills</h3>
+      <p>Skill dan kemampuan tambahan untuk AI agent.</p>
+      <a href="./starred/ai-skills.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-59_REPOS-0F9D8A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka AI Skills and Agent Skills — 59 repositories" /></a>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>🎬 Video, Media & Creative Tools</strong><br />
-      <a href="./starred/video-media.md">Jelajahi 31 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Tools &amp; LLM Infrastructure</h3>
+      <p>Tool AI, model bahasa, API, dan infrastruktur LLM.</p>
+      <a href="./starred/ai-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-48_REPOS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka AI Tools and LLM Infrastructure — 48 repositories" /></a>
     </td>
-    <td valign="top">
-      <strong>🎨 Frontend, UI & Design</strong><br />
-      <a href="./starred/frontend-ui.md">Jelajahi 47 repository →</a>
-    </td>
-    <td valign="top">
-      <strong>🏠 Self-hosted & Infrastructure</strong><br />
-      <a href="./starred/self-hosted.md">Jelajahi 21 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🎬 Video, Media &amp; Creative Tools</h3>
+      <p>Tool video, media, dan kreasi digital.</p>
+      <a href="./starred/video-media.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-31_REPOS-DB6D24?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Video Media and Creative Tools — 31 repositories" /></a>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>🛠️ Developer Tools & Productivity</strong><br />
-      <a href="./starred/dev-tools.md">Jelajahi 32 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend, UI &amp; Design</h3>
+      <p>Inspirasi antarmuka, frontend, dan sistem desain.</p>
+      <a href="./starred/frontend-ui.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-47_REPOS-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Frontend UI and Design — 47 repositories" /></a>
     </td>
-    <td valign="top">
-      <strong>📚 Learning & Education</strong><br />
-      <a href="./starred/learning.md">Jelajahi 7 repository →</a>
-    </td>
-    <td valign="top">
-      <strong>📱 Mobile & Android</strong><br />
-      <a href="./starred/mobile.md">Jelajahi 3 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🏠 Self-hosted &amp; Infrastructure</h3>
+      <p>Self-hosting, server, deployment, dan infrastruktur.</p>
+      <a href="./starred/self-hosted.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-21_REPOS-0F9D8A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Self-hosted and Infrastructure — 21 repositories" /></a>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>💰 Finance & Trading</strong><br />
-      <a href="./starred/finance.md">Jelajahi 3 repository →</a>
+    <td width="50%" valign="top">
+      <h3>🛠️ Developer Tools &amp; Productivity</h3>
+      <p>Perangkat bantu coding dan produktivitas developer.</p>
+      <a href="./starred/dev-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-32_REPOS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Developer Tools and Productivity — 32 repositories" /></a>
     </td>
-    <td valign="top">
-      <strong>📦 Other / Miscellaneous</strong><br />
-      <a href="./starred/others.md">Jelajahi 87 repository →</a>
+    <td width="50%" valign="top">
+      <h3>📚 Learning &amp; Education</h3>
+      <p>Materi belajar, dokumentasi, dan sumber edukasi.</p>
+      <a href="./starred/learning.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-7_REPOS-DB6D24?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Learning and Education — 7 repositories" /></a>
     </td>
-    <td valign="top">
-      <strong>🗂️ Semua kategori</strong><br />
-      <a href="./starred/">Buka direktori koleksi →</a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile &amp; Android</h3>
+      <p>Aplikasi mobile dan proyek ekosistem Android.</p>
+      <a href="./starred/mobile.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-3_REPOS-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Mobile and Android — 3 repositories" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Finance &amp; Trading</h3>
+      <p>Tool dan proyek seputar finance serta trading.</p>
+      <a href="./starred/finance.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-3_REPOS-0F9D8A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Finance and Trading — 3 repositories" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Other / Miscellaneous</h3>
+      <p>Koleksi lainnya yang belum masuk kategori utama.</p>
+      <a href="./starred/others.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-87_REPOS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka Other and Miscellaneous — 87 repositories" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Lihat Semua Kategori</h3>
+      <p>Buka direktori koleksi jika ingin melihat struktur file secara langsung.</p>
+      <a href="./starred/"><img src="https://img.shields.io/badge/LIHAT_SEMUA-11_KATEGORI-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Lihat semua 11 kategori repository" /></a>
     </td>
   </tr>
 </table>
 
-<sub>Setiap halaman kategori berisi tautan repository, deskripsi singkat, jumlah star, dan bahasa pemrograman jika tersedia.</sub>
+<sub>Jumlah repository mengikuti kategori yang tercantum di koleksi. Setiap daftar berisi tautan repository, deskripsi singkat, jumlah star, dan bahasa pemrograman jika tersedia.</sub>
 
 ---
 
