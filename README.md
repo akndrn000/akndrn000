@@ -30,6 +30,8 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
 
 </div>
 
+|  |  |
+|:---:|:---:|
 | <div align="center"><h3>🤖 AI Agents &amp; Coding Assistants</h3><a href="./starred/ai-agents.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-37_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Agents & Coding Assistants · 37 repository" /></a></div> | <div align="center"><h3>✨ AI Skills &amp; Agent Skills</h3><a href="./starred/ai-skills.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-59_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Skills & Agent Skills · 59 repository" /></a></div> |
 |:---:|:---:|
 | <div align="center"><h3>🧠 AI Tools &amp; LLM Infrastructure</h3><a href="./starred/ai-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-48_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Tools & LLM Infrastructure · 48 repository" /></a></div> | <div align="center"><h3>🎬 Video, Media &amp; Creative Tools</h3><a href="./starred/video-media.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-31_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Video, Media & Creative Tools · 31 repository" /></a></div> |
