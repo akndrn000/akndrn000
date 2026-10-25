@@ -26,7 +26,12 @@ Membangun alat digital yang praktis, alur kerja yang lebih efisien, dan integras
 
 Katalog 375 repository open-source pilihan untuk AI, coding, desain, otomasi, multimedia, infrastruktur, dan produktivitas developer.
 
-Setiap entri memiliki penjelasan berbahasa Indonesia tentang fungsi serta kegunaan praktis proyek, disertai tautan ke sumber asli, jumlah star yang tercatat, dan bahasa pemrograman. Pilih kategori di bawah untuk menjelajahi katalog.
+**Setiap repository dijelaskan dalam tiga bagian:**
+- **Fungsi:** apa proyek itu dan kemampuan utama yang disediakan.
+- **Kegunaan praktis:** kapan proyek tersebut membantu dan bagaimana ia dapat dipakai dalam workflow nyata.
+- **Catatan:** pertimbangan penting seperti konfigurasi, privasi, keamanan, keterbatasan, atau validasi hasil bila relevan.
+
+Nama repository tetap tertaut ke sumber aslinya, sedangkan jumlah star yang tercatat dan bahasa pemrograman dipertahankan sebagai informasi referensi. Pilih kategori di bawah untuk menjelajahi katalog.
 
 </div>
 
