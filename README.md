@@ -30,9 +30,13 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
 
 </div>
 
-<table width="100%" style="width:100%; table-layout:fixed;">
+<table width="100%" align="center" cellpadding="8" cellspacing="0">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
   <tbody>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>🤖 AI Agents &amp; Coding Assistants</h3>
         <a href="./starred/ai-agents.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-37_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Agents &amp; Coding Assistants · 37 repository" /></a>
@@ -42,7 +46,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
         <a href="./starred/ai-skills.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-59_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Skills &amp; Agent Skills · 59 repository" /></a>
       </td>
     </tr>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>🧠 AI Tools &amp; LLM Infrastructure</h3>
         <a href="./starred/ai-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-48_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Tools &amp; LLM Infrastructure · 48 repository" /></a>
@@ -52,7 +56,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
         <a href="./starred/video-media.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-31_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Video, Media &amp; Creative Tools · 31 repository" /></a>
       </td>
     </tr>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>🎨 Frontend, UI &amp; Design</h3>
         <a href="./starred/frontend-ui.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-47_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Frontend, UI &amp; Design · 47 repository" /></a>
@@ -62,7 +66,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
         <a href="./starred/self-hosted.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-21_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Self-hosted &amp; Infrastructure · 21 repository" /></a>
       </td>
     </tr>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>🛠️ Developer Tools &amp; Productivity</h3>
         <a href="./starred/dev-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-32_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Developer Tools &amp; Productivity · 32 repository" /></a>
@@ -72,7 +76,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
         <a href="./starred/learning.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-7_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Learning &amp; Education · 7 repository" /></a>
       </td>
     </tr>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>📱 Mobile &amp; Android</h3>
         <a href="./starred/mobile.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-3_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Mobile &amp; Android · 3 repository" /></a>
@@ -82,7 +86,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
         <a href="./starred/finance.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-3_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Finance &amp; Trading · 3 repository" /></a>
       </td>
     </tr>
-    <tr>
+    <tr width="100%">
       <td width="50%" align="center" valign="top">
         <h3>📦 Other / Miscellaneous</h3>
         <a href="./starred/others.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-87_REPOSITORY-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Other / Miscellaneous · 87 repository" /></a>
@@ -94,14 +98,19 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
     </tr>
   </tbody>
 </table>
+
 ---
 
 ## 👋 Tentang Saya
 
 Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya menyukai proyek yang menyederhanakan pekerjaan berulang, memiliki tujuan yang jelas, dan mudah digunakan tanpa membuat prosesnya terasa rumit.
 
-<table width="100%" style="width:100%; table-layout:fixed;">
-  <tr>
+<table width="100%" align="center" cellpadding="8" cellspacing="0">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
+  <tr width="100%">
     <td width="50%" valign="top">
       <strong>Prinsip pengembangan</strong><br /><br />
       🎯 <strong>Purposeful</strong> — mulai dari masalah nyata, bukan sekadar menambah fitur.<br /><br />
@@ -123,8 +132,12 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
 
 ## 🚀 Proyek Unggulan
 
-<table width="100%" style="width:100%; table-layout:fixed;">
-  <tr>
+<table width="100%" align="center" cellpadding="8" cellspacing="0">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
+  <tr width="100%">
     <td width="50%" valign="top">
       <a href="https://github.com/DURIAN-ORGANISASI/rigforge"><img src="./assets/rigforge-preview.svg" width="100%" alt="Ilustrasi workspace RigForge" /></a>
       <h3><a href="https://github.com/DURIAN-ORGANISASI/rigforge">RigForge ↗</a></h3>
@@ -140,7 +153,7 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
       <sub>Docker · Railway · Hermes Agent</sub>
     </td>
   </tr>
-  <tr>
+  <tr width="100%">
     <td width="50%" valign="top">
       <a href="https://github.com/DURIAN-ORGANISASI/n8n-railway"><img src="./assets/n8n-railway-preview.svg" width="100%" alt="Ilustrasi arsitektur n8n dan PostgreSQL di Railway" /></a>
       <h3><a href="https://github.com/DURIAN-ORGANISASI/n8n-railway">n8n Railway Starter ↗</a></h3>
@@ -157,8 +170,6 @@ Saya berfokus pada pengembangan **web tools, otomasi, dan integrasi AI**. Saya m
     </td>
   </tr>
 </table>
-
----
 
 ---
 
