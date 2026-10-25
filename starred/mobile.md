@@ -1,21 +1,21 @@
 # 📱 Mobile & Android
 
-> Tool dan framework terkait Android / mobile.  
+> Perangkat dan framework untuk Android: otomasi antarmuka, kerangka kerja komponen dinamis, serta aplikasi mobile open-source.  
 > Total: **3** repository  
 > Bagian dari [Starred Repositories](../README.md#starred-repositories) · [akndrn000](https://github.com/akndrn000)
 
 ---
 
 - **[gkd-kit/gkd](https://github.com/gkd-kit/gkd)**  
-  基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules  
+  **Fungsi:** Aplikasi Android yang memakai Accessibility API, selector, dan aturan langganan untuk melakukan ketukan otomatis pada elemen layar. Konfigurasikan dengan hati-hati karena otomasi dapat menekan tombol atau mengubah keadaan aplikasi.
   `⭐ 43,317` · `Kotlin`
 
 - **[alibaba/atlas](https://github.com/alibaba/atlas)**  
-  A powerful Android Dynamic Component Framework.  
+  **Fungsi:** Framework Android untuk memuat dan mengelola komponen aplikasi secara dinamis. Ditujukan untuk pengembang yang membutuhkan arsitektur modular dan pemisahan bagian aplikasi.
   `⭐ 8,148` · `Java`
 
 - **[InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)**  
-  An open-source Android app to let you browse YouTube and other services freely.  
+  **Fungsi:** Aplikasi Android open-source untuk menjelajahi YouTube dan layanan media lain dengan antarmuka alternatif. Fitur yang tersedia mengikuti versi aplikasi dan dukungan sumber layanan.
   `⭐ 7,106` · `Shell`
 
 
