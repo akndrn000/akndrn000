@@ -68,7 +68,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
     </tr>
     <tr width="100%">
       <td width="50%" align="center" valign="top">
-        <h3>🛠️ Developer Tools &amp; Productivity</h3>
+        <h3>🛠️ Developer &amp; Productivity</h3>
         <a href="./starred/dev-tools.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-32_REPOSITORY-D97706?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori Developer Tools &amp; Productivity · 32 repository" /></a>
       </td>
       <td width="50%" align="center" valign="top">
