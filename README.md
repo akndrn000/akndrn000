@@ -38,7 +38,7 @@ Pilih kategori untuk melihat daftar repository lengkap beserta deskripsi, jumlah
   <tbody>
     <tr width="100%">
       <td width="50%" align="center" valign="top">
-        <h3>🤖 AI Agents &amp; Coding Assistants</h3>
+        <h3>🤖 AI Agents &amp; Coding</h3>
         <a href="./starred/ai-agents.md"><img src="https://img.shields.io/badge/BUKA_KATEGORI-37_REPOSITORY-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Buka kategori AI Agents &amp; Coding Assistants · 37 repository" /></a>
       </td>
       <td width="50%" align="center" valign="top">
